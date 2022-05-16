@@ -41,16 +41,16 @@ page
 
 ```
 
-> Link of Github Page created: https://jvsouza.github.io/ANAC-Cell.github.io/
+> Link of Github Page created: https://jvsouza.github.io/ANAC-Cell/
 
 ## Shields
-[![](https://img.shields.io/github/languages/top/jvsouza/ANAC-Cell.github.io)]()
-[![](https://img.shields.io/github/languages/count/jvsouza/ANAC-Cell.github.io)]()
-[![](https://img.shields.io/github/license/jvsouza/ANAC-Cell.github.io)]()
+[![](https://img.shields.io/github/languages/top/jvsouza/ANAC-Cell)]()
+[![](https://img.shields.io/github/languages/count/jvsouza/ANAC-Cell)]()
+[![](https://img.shields.io/github/license/jvsouza/ANAC-Cell)]()
 
-[![](https://img.shields.io/github/languages/code-size/jvsouza/ANAC-Cell.github.io)]()
-[![](https://img.shields.io/github/repo-size/jvsouza/ANAC-Cell.github.io)]()
-[![](https://img.shields.io/github/last-commit/jvsouza/ANAC-Cell.github.io)]()
+[![](https://img.shields.io/github/languages/code-size/jvsouza/ANAC-Cell)]()
+[![](https://img.shields.io/github/repo-size/jvsouza/ANAC-Cell)]()
+[![](https://img.shields.io/github/last-commit/jvsouza/ANAC-Cell)]()
 
 ## Badges
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
