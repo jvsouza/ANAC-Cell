@@ -16,7 +16,7 @@
 | Cel | 07 | ![](https://img.shields.io/badge/-ToDo-inactive) | Advanced Compound Materials |
 | Cel | 08 | ![](https://img.shields.io/badge/-ToDo-inactive) | Aircraft Electrical Systems |
 | Cel | 09 | ![](https://img.shields.io/badge/-ToDo-inactive) | Aircraft Instruments |
-| Cel | 10 | ![](https://img.shields.io/badge/-ToDo-inactive) | Communication And Navigation Systems |
+| Cel | 10 | ![](https://img.shields.io/badge/-Doing-important) | Communication And Navigation Systems |
 | Cel | 11 | ![](https://img.shields.io/badge/-Done-success) | Hydraulic And Landing Gear System |
 | Cel | 12 | ![](https://img.shields.io/badge/-ToDo-inactive) | Protection Systems Against The Effects Of Ice And Rain And Against Fire |
 | Cel | 13 | ![](https://img.shields.io/badge/-ToDo-inactive) | Pneumatic And Cabin Environment Control Systems |
@@ -34,6 +34,7 @@ page
 │   └── jquery.min.py
 ├── json
 │   ├── cel06.json
+│   ├── cel10.json
 │   └── cel11.json
 ├── README.md
 ├── favicon.png
