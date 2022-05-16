@@ -32,7 +32,7 @@
             "Éster Fosfato",
             "Vegetal",
             "Animal",
-            "Mineral",
+            "Mineral"
          ],
          "result":"3"
       },
@@ -332,6 +332,6 @@
             "Pista com muito nevoeiro, ou seja,  pista fechada (QGO)"
          ],
          "result":"2"
-      },
+      }
    ]
 }
