@@ -1,0 +1,337 @@
+{
+   "contentType":"Cel",
+   "contentIndex":11,
+   "courseunit": "Hydraulic And Landing Gear System",
+   "questions":[
+      {
+         "number": 1,
+         "title":"A denominação do fluido hidráulico de base mineral é?",
+         "options":[
+            "MIL H 7644 ",
+            "MIL H 5606 ",
+            "MIL H 5660 ",
+            "MIL H 4606 "
+         ],
+         "result":"1"
+      },
+      {
+         "number": 2,
+         "title":"A pigmentação Vermelha é de qual fluido hidráulico?",
+         "options":[
+            "Vegetal ",
+            "Natural ",
+            "Mineral ",
+            "Éster Fosfato "
+         ],
+         "result":"2"
+      },
+      {
+         "number": 3,
+         "title":"MIL H 5606 é a denominação de qual fluido hidráulico?",
+         "options":[
+            "Éster Fosfato",
+            "Vegetal",
+            "Animal",
+            "Mineral",
+         ],
+         "result":"3"
+      },
+      {
+         "number": 4,
+         "title":"MIL H 7644 é a denominação de qual fluido hidráulico?",
+         "options":[
+            "Vegetal ",
+            "Éster Fosfato",
+            "Mineral",
+            "Natural"
+         ],
+         "result":"0"
+      },
+      {
+         "number": 5,
+         "title":"Qual fluido hidráulico tem sua cor Púrpura clara?",
+         "options":[
+            "Mineral",
+            "Natural",
+            "Vegetal",
+            "Éster fosfato"
+         ],
+         "result":"3"
+      },
+      {
+         "number": 6,
+         "title":"O trem de pouso que consiste de duas pernas principais, localizadas à frente do centro de gravidade do avião chama-se",
+         "options":[
+            "Triciclo ",
+            "Convencional ",
+            "Hidroavião ",
+            "Escamoteável "
+         ],
+         "result":"1"
+      },
+      {
+         "number": 7,
+         "title":"Num típico amortecedor pneumático/hidráulico, sua câmara inferior é sempre cheia de:",
+         "options":[
+            "Nitrogênio ",
+            "Ar ",
+            "Óleo ",
+            "Óleo e ar "
+         ],
+         "result":"2"
+      },
+      {
+         "number": 8,
+         "title":"A sangria dos amortecedores é normalmente executada?",
+         "options":[
+            "Com a aeronave no solo ",
+            "Com a aeronave suspensa nos macacos ",
+            "Dentro do hangar ",
+            "Num local coberto"
+         ],
+         "result":"1"
+      },
+      {
+         "number": 9,
+         "title":"A perna de força principal consiste de vários componentes que possibilitam sua função. Os componentes típicos são:",
+         "options":[
+            "Tesoura de torção, munhão, suportes e links ",
+            "Munhão, braços de torque, mecanismo de retração elétrico e hidráulico e indicadores de posição do trem ",
+            "Tesoura de torção, mecanismos de retração elétricos e hidráulicos e indicadores de posição do trem ",
+            "Braços de torque, munhão e tesoura de torção "
+         ],
+         "result":"2"
+      },
+      {
+         "number": 10,
+         "title":"As tesouras de torção mantém as pernas de força:",
+         "options":[
+            "Direcionadas para frente ",
+            "Direcionadas para trás ",
+            "Somente suportam o cilindro amortecedor ",
+            "Somente suportam o pistão "
+         ],
+         "result":"0"
+      },
+      {
+         "number": 11,
+         "title":"A resistência interna ao escoamento chama-se:",
+         "options":[
+            "Cinética ",
+            "Viscosidade ",
+            "Hidrostática",
+            "Dinâmica"
+         ],
+         "result":"1"
+      },
+      {
+         "number": 12,
+         "title":"A viscosidade de um líquido é medida com um Viscosímetro, mas o mais usado é:",
+         "options":[
+            "Raybolt ",
+            "Vaybolt. ",
+            "Saybolt ",
+            "Kaybolt. "
+         ],
+         "result":"2"
+      },
+      {
+         "number": 13,
+         "title":"Quantos tipos de fluidos hidráulicos existem atualmente:",
+         "options":[
+            "4 ",
+            "2 ",
+            "3 ",
+            "1 "
+         ],
+         "result":"2"
+      },
+      {
+         "number": 14,
+         "title":"Qual a cor da plaqueta ou decalque  fixado na tubulação de fluido hidráulico:",
+         "options":[
+            "Amarela ",
+            "Azul ",
+            "Marrom",
+            "Azul e Amarela "
+         ],
+         "result":"3"
+      },
+      {
+         "number": 15,
+         "title":"A denominação do fluido hidráulico de base vegetal é:",
+         "options":[
+            "MIL-H-5606",
+            "MIL-H-5660",
+            "MIL-H-7644",
+            "LD ou 500 B"
+         ],
+         "result":"2"
+      },
+      {
+         "number": 16,
+         "title":"Os filtros considerados importantes no sistema hidráulico estão localizados?",
+         "options":[
+            "Retorno",
+            "Linha de pressão, dreno e retorno;",
+            "Linha de alimentação, linha de pressão e dreno;",
+            "Linha de pressão, retorno e no reservatório."
+         ],
+         "result":"3"
+      },
+      {
+         "number": 17,
+         "title":"O elemento Micrônico é projetado para prevenir a passagem de sólidos maiores que:",
+         "options":[
+            "20 microns ",
+            "15 microns",
+            "10 microns",
+            "09 microns "
+         ],
+         "result":"2"
+      },
+      {
+         "number": 18,
+         "title":"Em caso de avaria do elemento filtrante do tipo Micrônico, este deve ser:",
+         "options":[
+            "Lavado ",
+            "Inspecionado e depois lavado ",
+            "Inspecionado ",
+            "Substituído "
+         ],
+         "result":"3"
+      },
+      {
+         "number": 19,
+         "title":"Quais os tipos de reservatório hidráulico conhecidos:",
+         "options":[
+            "Em linha e integral ",
+            "Em linha e sem linha ",
+            "Em linha e balão ",
+            "Em linha , pistão e engrenagem "
+         ],
+         "result":"0"
+      },
+      {
+         "number": 20,
+         "title":"Quando ocorre acidentalmente a mistura de fluido hidráulico de bases diferentes, devemos:",
+         "options":[
+            "Separa-los por processo de refinamento",
+            "Remove-los por processo químico",
+            "Não existe impedimento para que os mesmos permaneçam juntos",
+            "Drenar o sistema e lavá-los"
+         ],
+         "result":"3"
+      },
+      {
+         "number": 21,
+         "title":"Uma das fórmulas para pressurizar um reservatório hidráulico é :",
+         "options":[
+            "Bomba manual ",
+            "Venturi, o óleo de retorno ao passar para o reservatório arrasta bolhas de ar ",
+            "Nitrogênio, através de uma garrafa portátil ",
+            "Bióxido de carbono, através de uma garrafa portátil "
+         ],
+         "result":"1"
+      },
+      {
+         "number": 22,
+         "title":"A principal finalidade de um cilindro atuador é:",
+         "options":[
+            "Transformar a energia hidráulica em energia mecânica ",
+            "Transformar a energia mecânica em energia hidráulica ",
+            "Transformar a energia mecânica em energia elétrica ",
+            "Transformar a energia elétrica em energia hidráulica "
+         ],
+         "result":"0"
+      },
+      {
+         "number": 23,
+         "title":"Para que tenhamos a possibilidade de comando dos freios no caso de termos perdido o sistema normal, utilizamos a válvula :",
+         "options":[
+            "Reguladora ",
+            "Lançadeira ",
+            "Direcional ",
+            "Sequência"
+         ],
+         "result":"1"
+      },
+      {
+         "number": 24,
+         "title":"Qual válvula normalmente comanda as comportas / trens de pouso ?",
+         "options":[
+            "Transferência ",
+            "Reguladora ",
+            "Sequência ",
+            "Contorno "
+         ],
+         "result":"2"
+      },
+      {
+         "number": 25,
+         "title":"Para instalar um acumulador de pressão no avião, o sistema:",
+         "options":[
+            "Deve estar pressurizado e o acumulador sem carga de ar",
+            "Deve estar pressurizado e o acumulador com pressão de ar",
+            "Deve estar despressurizado e o acumulador sem carga de ar ",
+            "Deve estar descarregado e o acumulador com ar seco, sob pressão "
+         ],
+         "result":"2"
+      },
+      {
+         "number": 26,
+         "title":"O fluido hidráulico desenvolvido pela Monsanto Company é de coloração:",
+         "options":[
+            "Vermelha ",
+            "Púrpura ",
+            "Azul ",
+            "Amarela/azul"
+         ],
+         "result":"1"
+      },
+      {
+         "number": 27,
+         "title":"A resistência ao fluxo, próprio dos fluídos chama-se:",
+         "options":[
+            "Escorrimento",
+            "Drenagem",
+            "Viscosidade ",
+            "Corrimento "
+         ],
+         "result":"2"
+      },
+      {
+         "number": 28,
+         "title":"A válvula seletora de três vias é empregada em cilindros de acionamento de:",
+         "options":[
+            "Três orifícios ",
+            "Um orifício ",
+            "Dois orifícios",
+            "Quatro orifícios"
+         ],
+         "result":"1"
+      },
+      {
+         "number": 29,
+         "title":"No amortecedor óleo-pneumático o óleo fica na parte :",
+         "options":[
+            "Inferior",
+            "Superior",
+            "Entre os tubos telescópicos",
+            "Fica no meio das câmaras inferior e superior"
+         ],
+         "result":"0"
+      },
+      {
+         "number": 30,
+         "title":"O termo  FOD se refere:",
+         "options":[
+            "Aeronave com problemas na pista",
+            "Aeronave pousando, e com problemas hidráulicos",
+            "Áreas pavimentadas regularmente, quanto à limpeza e remoção de objetos estranhos",
+            "Pista com muito nevoeiro, ou seja,  pista fechada (QGO)"
+         ],
+         "result":"2"
+      },
+   ]
+}

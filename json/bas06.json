@@ -1,0 +1,342 @@
+{
+   "contentType":"Cel",
+   "contentIndex":6,
+   "courseunit":"Welding In Aircraft",
+   "questions":[
+      {
+         "title":"Quais são os três tipos gerais de soldagem?",
+         "result":2,
+         "options":[
+            "Gás, arco voltaico e fundição;",
+            "Gás, resistência elétrica e fusão;",
+            "Gás, arco voltaico e resistência elétrica;",
+            "Gás, resistência elétrica e indução."
+         ],
+         "number":0
+      },
+      {
+         "title":"Qual é o processo de obtenção do acetileno?",
+         "result":2,
+         "options":[
+            "Reação de potássio com água;",
+            "Reação de cal com água;",
+            "Reação de carboneto de cálcio com água;",
+            "Reação de cimento com água."
+         ],
+         "number":1
+      },
+      {
+         "title":"Quais são os dois tipos de soldagem a gás?",
+         "result":1,
+         "options":[
+            "Oxiacetileno e oxinitrogênio.;",
+            "Oxiacetileno e oxi-hidrogênio;",
+            "Hélio e neônio;",
+            "Ozônio e metano."
+         ],
+         "number":2
+      },
+      {
+         "title":"O oxigênio jamais deve entrar em contato com:",
+         "result":0,
+         "options":[
+            "Graxa ou óleo;",
+            "Água ou vapores de água;",
+            "Baixas temperaturas;",
+            "Alta temperatura."
+         ],
+         "number":3
+      },
+      {
+         "title":"Para evitar o intercâmbio entre as mangueiras dos gases, os reguladores são construídos com:",
+         "result":1,
+         "options":[
+            "Diferentes tipos de cores;",
+            "Diferentes tipos de roscas;",
+            "Materiais diferentes;",
+            "Materiais plásticos."
+         ],
+         "number":4
+      },
+      {
+         "title":"Antes de abrirmos a válvula de alta pressão do cilindro, o parafuso de ajuste do regulador deverá estar:",
+         "result":2,
+         "options":[
+            "Totalmente apertado e girado à direita;",
+            "Totalmente apertado, girado à esquerda;",
+            "Totalmente solto, girado à esquerda;",
+            "Totalmente solto, girado à direita."
+         ],
+         "number":5
+      },
+      {
+         "title":"Os bicos de maçarico são feitos de:",
+         "result":0,
+         "options":[
+            "Ligas de cobre;",
+            "Ligas de titânio;",
+            "Fe + AI;",
+            "Ligas de zinco"
+         ],
+         "number":6
+      },
+      {
+         "title":"As ligas de alumínio soldáveis usadas na construção aeronáutica são:",
+         "result":0,
+         "options":[
+            "1100, 3003, 4043;",
+            "7075, 4043, 1100;",
+            "2024, 2117, 1100;",
+            "5052, 1100, 4043."
+         ],
+         "number":7
+      },
+      {
+         "title":"Quais são as quatro posições gerais nas quais a soldagem é efetuada?",
+         "result":1,
+         "options":[
+            "Plana, horizontal, vertical e paralela;",
+            "Plana, horizontal, vertical e sobre cabeça;",
+            "Plana, horizontal, vertical e sobre mão;",
+            "Plana, inclinada, diagonal e vertical"
+         ],
+         "number":8
+      },
+      {
+         "title":"As varetas de soldagem podem ser classificadas em:",
+         "result":1,
+         "options":[
+            "Ligas de alumínio e ligas de ferro;",
+            "Ligas leves;",
+            "Ligas de baixo teor de carbono;",
+            "Ferrosas e não ferrosas."
+         ],
+         "number":9
+      },
+
+
+
+
+
+      {
+         "title":"Quais as duas classes de maçaricos existentes?",
+         "result":2,
+         "options":[
+            "Tipo quente e tipo frio;",
+            "Tipo ignitor e tipo pressão;",
+            "Tipo injetor e tipo pressão-balanceada;",
+            "Tipo ventilado e tipo frio."
+         ],
+         "number":10
+      },
+      {
+         "title":"Qual o EPI cujo uso é indispensável para soldagem ou corte em metais?",
+         "result":1,
+         "options":[
+            "Sapato de segurança;",
+            "Óculos",
+            "Cinto de segurança",
+            "Capacete"
+         ],
+         "number":11
+      },
+      {
+         "title":"Seu uso assegura a resistência à tração e a ductibilidade, além de reforçar a área da solda. Estas características se referem a",
+         "result":0,
+         "options":[
+            "Vareta de adição;",
+            "Maçarico tipo injetor;",
+            "Prata",
+            "Tungstênio"
+         ],
+         "number":12
+      },
+      {
+         "title":"Ajustando-se a proporção de oxigênio e acetileno obtém-se as características da chama no maçarico. Estas características determinam os tipos de chamas existentes, que são?",
+         "result":3,
+         "options":[
+            "Neutra, retardada e dilatada;",
+            "Neutra, carburante e retardada;",
+            "Carburante, retardada e oxidante;",
+            "Neutra, redutora e oxidante."
+         ],
+         "number":13
+      },
+      {
+         "title":"O inadequado manuseio ou ajuste do maçarico pode provocar a queima do gás no sentido inverso a seu fluxo no maçarico. Este fenômeno é conhecido por?",
+         "result":2,
+         "options":[
+            "Chama dilatada",
+            "Fuga de gás",
+            "Retorno de chama",
+            "Chama difusa. "
+         ],
+         "number":14
+      },
+      {
+         "title":"Para a soldagem eficiente, a espessura do metal a ser soldado determinará?",
+         "result":0,
+         "options":[
+            "A posição do maçarico;",
+            "O gás utilizado;",
+            "O tipo de bico;",
+            "A cor da chama."
+         ],
+         "number":15
+      },
+      {
+         "title":"Quais são as posições de soldagem?",
+         "result":1,
+         "options":[
+            "Transversal, horizontal, plana e sobre-cabeça;",
+            "Chata ou plana, horizontal, vertical e sobre-cabeça;",
+            "Para frente, para trás, chata e plana;",
+            "Chata ou plana, horizontal, transversal e para trás."
+         ],
+         "number":16
+      },
+      {
+         "title":"Os tipos de juntas soldadas existentes são?",
+         "result":3,
+         "options":[
+            "Transversal, horizontal, plana, vertical e de quina;",
+            "Transversal, horizontal, sobreposta, em quina e de aresta;",
+            "De topo, ângulo em “T”, plana, vertical e de quina;",
+            "De topo, ângulo em “T”, sobreposta, em quina e de aresta."
+         ],
+         "number":17
+      },
+      {
+         "title":"Em que tipo de falha o reparo é considerado como uma junta de topo, com a união das bordas por soldagem, com uso de vareta de enchimento e execução de furos de alívio?",
+         "result":2,
+         "options":[
+            "Dilatação",
+            "Fadiga",
+            "Rachadura",
+            "Corrosão"
+         ],
+         "number":18
+      },
+      {
+         "title":"Qual é o efeito do calor da solda sobre os metais?",
+         "result":0,
+         "options":[
+            "Dilatação",
+            "Contração",
+            "Brasagem",
+            "Fricção"
+         ],
+         "number":19
+      },
+      {
+         "title":"O calor pode derreter o alumínio e queimar o metal, por isso nunca devemos pré-aquecer o alumínio a uma temperatura maior que?",
+         "result":3,
+         "options":[
+            "500 ºC;",
+            "800 ºC;",
+            "500 ºF;",
+            "800 ºF."
+         ],
+         "number":20
+      },
+      {
+         "title":"Necessidade de tratamento térmico e remoção do fluxo de todo o metal após a soldagem, devido a possibilidade de corrosão, são limitações da soldagem em que tipo de metal?",
+         "result":1,
+         "options":[
+            "Ferro",
+            "Magnésio",
+            "Titânio",
+            "Aço"
+         ],
+         "number":21
+      },
+      {
+         "title":"O processo que consiste fundamentalmente na queima ou oxidação rápida do metal em uma área localizada é conhecido como?",
+         "result":2,
+         "options":[
+            "Fusão de metais usando plasma;",
+            "Fusão de metais usando brasagem;",
+            "Corte de metais usando oxiacetileno;",
+            "Corte de metais usando brasagem."
+         ],
+         "number":22
+      },
+      {
+         "title":"O processo de junção de metais, nos quais o material adesivo é um metal não ferroso ou uma liga, com o ponto de fusão maior que 800 ºF, porém menor que o ponto de fusão do metal a ser soldado, é conhecido por?",
+         "result":1,
+         "options":[
+            "Plasma",
+            "Brasagem",
+            "Fricção",
+            "Integração"
+         ],
+         "number":23
+      },
+      {
+         "title":"Para a fabricação de linhas de oxigênio de alta pressão e partes que devam suportar vibração e altas temperaturas, utiliza-se que tipo de solda?",
+         "result":0,
+         "options":[
+            "Prata",
+            "Junta de topo",
+            "Brasagem",
+            "Fricção"
+         ],
+         "number":24
+      },
+      {
+         "title":"Que tipo de soldagem é utilizado em metais como cobre, latão e ferro revestido ou onde se deseja uma junta à prova de vazamentos?",
+         "result":1,
+         "options":[
+            "Com passe múltiplo;",
+            "Macia",
+            "Por arco voltaico;",
+            "De arco de plasma."
+         ],
+         "number":25
+      },
+      {
+         "title":"O processo de soldagem baseado na utilização de calor de uma fonte elétrica e amplamente utilizado tanto na fabricação como no reparo de aeronaves, é conhecido por?",
+         "result":0,
+         "options":[
+            "Arco de plasma",
+            "Arco metálico;",
+            "Arco voltaico;",
+            "Arco laser."
+         ],
+         "number":26
+      },
+      {
+         "title":"O processo de soldagem cujo eletrodo é usado apenas para criar um arco voltaico, é conhecido por soldagem?",
+         "result":1,
+         "options":[
+            "arco metálico;",
+            "A gás",
+            "De tungstênio a gás inerte;",
+            "De arco de plasma."
+         ],
+         "number":27
+      },
+      {
+         "title":"Quais as partes em aviões que não podem ser soldadas?",
+         "result":1,
+         "options":[
+            "Estruturas de aço;",
+            "As que sofrem tratamento térmico;",
+            "Tubos de asas;",
+            "Longarinas de asa."
+         ],
+         "number":28
+      },
+      {
+         "title":"O processo de soldagem que consiste de uma emissão de raios de frequência constante, de alta concentração, sendo aplicado nas soldagens para fins aeroespaciais , é conhecido por?",
+         "result":2,
+         "options":[
+            "Plasma",
+            "Fricção",
+            "Laser",
+            "A gás"
+         ],
+         "number":29
+      },
+   ]
+}
