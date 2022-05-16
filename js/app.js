@@ -105,7 +105,7 @@ $(document).ready(function(){
         }
     });
 
-    base = 'https://raw.githubusercontent.com/jvsouza/ANAC-Cell.github.io/master/json/';
+    base = 'https://raw.githubusercontent.com/jvsouza/ANAC-Cell/main/json/';
     filesJson = ['bas06','bas11'];
     createSelect(getListJson(base, filesJson));
 
