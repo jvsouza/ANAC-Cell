@@ -1,0 +1,337 @@
+{
+   "contentType":"Cel",
+   "contentIndex":5,
+   "courseunit":"Repairs To Metallic Structures",
+   "questions":[
+      {
+         "title":"O primeiro e um dos mais importantes passos no reparo de danos estruturais é?",
+         "result":0,
+         "options":[
+            "Avaliação do serviço",
+            "Observação do serviço",
+            "Reparação do serviço",
+            "A e C corretas"
+         ],
+         "number":0
+      },
+      {
+         "title":"Na execução de um reparo em uma aeronave devemos sempre que possível usar:",
+         "result":3,
+         "options":[
+            "O mesmo tipo de metal usado na estrutura original",
+            "Diferente tipo de material usado na estrutura original",
+            "Diferente tipo de metal usado na estrutura original",
+            "O mesmo tipo de material usado na estrutura original"
+         ],
+         "number":1
+      },
+      {
+         "title":"Um pouso duro pode sobrecarregar o trem de pouso. Podemos classificar este dano como?",
+         "result":2,
+         "options":[
+            "Dano por peso",
+            "Dano por colisões",
+            "Dano por carga",
+            "Todas corretas"
+         ],
+         "number":2
+      },
+      {
+         "title":"A perda de material de uma superfície metálica por ação química ou eletroquímica é chamada de:",
+         "result":0,
+         "options":[
+            "Corrosão",
+            "Inclusão",
+            "Depressão",
+            "Erosão"
+         ],
+         "number":3
+      },
+      {
+         "title":"Os amassamentos de uma superfície metálica produzido pela pancada de um objeto podem ser definidos como:",
+         "result":1,
+         "options":[
+            "Rebarbas",
+            "Amolgamentos",
+            "Goivas",
+            "Mossas"
+         ],
+         "number":4
+      },
+      {
+         "title":"Uma falha aguda localizada na superfície do metal, geralmente com bordas bem definidas, podemos definir como?",
+         "result":1,
+         "options":[
+            "Porradas",
+            "Picada (Pittung) ",
+            "Trepidação",
+            "A e B corretas"
+         ],
+         "number":5
+      },
+      {
+         "title":"Podemos considerar como stress básico em uma aeronave:",
+         "result":0,
+         "options":[
+            "Tensão, compressão, cisalhamento",
+            "Tensão, compressão, Flexão",
+            "Torção, compressão, cisalhamento",
+            "Torção, Flexão, compressão"
+         ],
+         "number":6
+      },
+      {
+         "title":"Como são chamadas as ferramentas e dispositivos para chapas metálicas, que foram desenvolvidas para acelerar, simplificar e melhorar o serviço?",
+         "result":1,
+         "options":[
+            "De Apoio",
+            "Especiais",
+            "De suportes",
+            "Exclusivas"
+         ],
+         "number":7
+      },
+      {
+         "title":"Nome do prendedor de chapa de metal mais comum, usado para prender partes de chapas perfuradas juntas:",
+         "result":2,
+         "options":[
+            "Bigorna",
+            "Alicates",
+            "Cleco",
+            "Bleco"
+         ],
+         "number":8
+      },
+      {
+         "title":"Quais são as três operações que podem ser realizadas com a Guilhotina de Esquadriar?",
+         "result":2,
+         "options":[
+            "Corte em linha, Esquadriado e Cortes específicos em vários tamanhos",
+            "Esquadriado, cortes múltiplos em tamanhos múltiplos, corte em linha",
+            "Corte em linha, Esquadriado e Cortes múltiplos em um tamanho específico",
+            "Cortes específicos em múltiplos tamanhos, Esquadriado e corte em linha"
+         ],
+         "number":9
+      },
+      {
+         "title":"Durante a furação com o que as rebarbas devem ser removidas para que os rebites e os parafusos encaixem perfeitamente e evitem arranhões?",
+         "result":2,
+         "options":[
+            "Extensão flexível, escareador ou raspador",
+            "Escareador, raspador ou malha fina",
+            "Raspador, escareador ou broca",
+            "Raspador, malha fina ou broca"
+         ],
+         "number":10
+      },
+      {
+         "title":"São os dois tipos de abrasivos mais usados na maioria das rodas de esmeril:",
+         "result":0,
+         "options":[
+            "Carboneto de silício e óxido de alumínio",
+            "Carboneto de alumínio e óxido de silício",
+            "Oxido de cobre e Carboneto de silício",
+            "Carboneto de cobre e óxido de silício"
+         ],
+         "number":11
+      },
+      {
+         "title":"Qual é o agente cortante para esmerilhar aço e outros metais com alta resistência à tração?",
+         "result":1,
+         "options":[
+            "Carboneto de alumínio",
+            "Óxido de alumínio",
+            "Latão",
+            "Bronze"
+         ],
+         "number":12
+      },
+      {
+         "title":"Durante o desenho da peça no processo de moldagem, tomamos cuidado para não arranhar o alumínio ou a liga. O que é utilizado para marcar a peça sem arranhar?",
+         "result":3,
+         "options":[
+            "Riscadores",
+            "Punção",
+            "Caneta de marcação",
+            "Lápis apontado"
+         ],
+         "number":13
+      },
+      {
+         "title":"De todos os metais de aviação, qual é o mais facilmente moldável?",
+         "result":2,
+         "options":[
+            "Aço inoxidável",
+            "Cobre intrínseco",
+            "Alumínio Intrínseco",
+            "Liga"
+         ],
+         "number":14
+      },
+      {
+         "title":"A Dobragem, o pregueamento, ou o corrugamento de uma peça de chapa de metal, de forma a encurtá-la é chamado de:",
+         "result":3,
+         "options":[
+            "Dobragem",
+            "Golpeamento",
+            "Estiramento",
+            "Amolgamento"
+         ],
+         "number":15
+      },
+      {
+         "title":"A confecção de dobras em folhas, placas ou chapas, é chamada de:",
+         "result":2,
+         "options":[
+            "Golpeamento",
+            "Amolgamento",
+            "Dobragem",
+            "Estiramento"
+         ],
+         "number":16
+      },
+      {
+         "title":"Fatores como tolerância quanto à dobragem, o recuo e o breque e linha de visada devem ser considerados na confecção de:",
+         "result":0,
+         "options":[
+            "Dobras em linha reta",
+            "Curva acentuada",
+            "Flange horizontal",
+            "Pregas em um dos flanges"
+         ],
+         "number":17
+      },
+      {
+         "title":"Raio (R), Recuo (SB) e Parte Chata são alguns termos para o entendimento de:",
+         "result":2,
+         "options":[
+            "Linha de visada",
+            "Cálculo do recuo",
+            "Tolerância da dobra",
+            "Confecção de desenhos"
+         ],
+         "number":18
+      },
+      {
+         "title":"Para rebitarmos um reparo em uma aeronave devemos primeiramente fazer os furos com uma broca? Que o φ final, esses furos chamam-se furos:",
+         "result":3,
+         "options":[
+            "Maior, piloto",
+            "Menor furo",
+            "Maior furo",
+            "Menor, piloto"
+         ],
+         "number":19
+      },
+      {
+         "title":"Para fazer um rebaixamento em uma chapa de espessura fina, usamos:",
+         "result":0,
+         "options":[
+            "Punção de rebaixamento",
+            "Punção de marcação",
+            "Punção extrator",
+            "Punção de Furação"
+         ],
+         "number":20
+      },
+      {
+         "title":"Para se dobrar uma chapa de alumínio manualmente devemos sempre golpeá-la com?",
+         "result":1,
+         "options":[
+            "Martelo de metal ou borracha",
+            "Martelo, plástico ou borracha",
+            "Martelo, plástico ou alumínio",
+            "Martelo plástico ou de alumínio ou borracha"
+         ],
+         "number":21
+      },
+      {
+         "title":"Como são chamadas as ferramentas e dispositivos para chapas metálicas, que foram desenvolvidas para acelerar, simplificar e melhorar o serviço?",
+         "result":1,
+         "options":[
+            "De Apoio",
+            "Especiais",
+            "De suportes",
+            "Exclusivas"
+         ],
+         "number":22
+      },
+      {
+         "title":"Nome do prendedor de chapa de metal mais comum, usado para prender partes de chapas perfuradas juntas.",
+         "result":2,
+         "options":[
+            "Bigorna",
+            "Alicates",
+            "Cleco",
+            "Blecoé"
+         ],
+         "number":23
+      },
+      {
+         "title":"Quais são as três operações que podem ser realizadas com a Guilhotina de Esquadriar?",
+         "result":2,
+         "options":[
+            "Corte em linha, Esquadriado e Cortes específicos em vários tamanhos",
+            "Esquadriado, cortes múltiplos em tamanhos múltiplos, corte em linha",
+            "Corte em linha, Esquadriado e Cortes múltiplos em um tamanho específico",
+            "Cortes específicos em múltiplos tamanhos, Esquadriado e corte em linha"
+         ],
+         "number":24
+      },
+      {
+         "title":"Durante a furação, com o que as rebarbas devem ser removidas para que os rebites e os parafusos encaixem perfeitamente e evitem arranhões?",
+         "result":2,
+         "options":[
+            "Extensão flexível, escareador ou raspador",
+            "Escareador, raspador ou malha fina",
+            "Raspador, escareador ou broca",
+            "Raspador, malha fina ou broca"
+         ],
+         "number":25
+      },
+      {
+         "title":"São os dois tipos de abrasivos mais usados na maioria das rodas de esmeril:",
+         "result":0,
+         "options":[
+            "Carboneto de silício e óxido de alumínio",
+            "Carboneto de alumínio e óxido de silício",
+            "Oxido de cobre e Carboneto de silício",
+            "Carboneto de cobre e óxido de silício"
+         ],
+         "number":26
+      },
+      {
+         "title":"Como regra geral o φ do rebite não deve ser? Que? Vezes a? Da chapa mais?",
+         "result":0,
+         "options":[
+            "Maior, três, espessura, grossa",
+            "Menor, três, espessura, grossa",
+            "Maior, duas, espessura, fina",
+            "Menor, três, largura, grossa"
+         ],
+         "number":27
+      },
+      {
+         "title":"Ao se confeccionar uma peça com liga de magnésio, devemos:",
+         "result":3,
+         "options":[
+            "Resfriar a peça",
+            "Temperar a peça",
+            "Refurar a peça",
+            "Aquecer a peça"
+         ],
+         "number":28
+      },
+      {
+         "title":"De todos os metais de aviação, qual é o mais facilmente moldável?",
+         "result":2,
+         "options":[
+            "Aço inoxidável",
+            "Cobre intrínseco",
+            "Alumínio Intrínseco",
+            "Liga"
+         ],
+         "number":29
+      }
+   ]
+}

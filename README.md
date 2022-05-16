@@ -11,7 +11,7 @@
 | Cel | 02 | ![](https://img.shields.io/badge/-ToDo-inactive) | Aircraft Structures And Flight Control Systems |
 | Cel | 03 | ![](https://img.shields.io/badge/-ToDo-inactive) | Fabricing |
 | Cel | 04 | ![](https://img.shields.io/badge/-ToDo-inactive) | Coating, Painting And Finishing Of Aircraft |
-| Cel | 05 | ![](https://img.shields.io/badge/-ToDo-inactive) | Repairs To Metallic Structures |
+| Cel | 05 | ![](https://img.shields.io/badge/-Done-success) | Repairs To Metallic Structures |
 | Cel | 06 | ![](https://img.shields.io/badge/-Done-success) | Welding In Aircraft |
 | Cel | 07 | ![](https://img.shields.io/badge/-ToDo-inactive) | Advanced Compound Materials |
 | Cel | 08 | ![](https://img.shields.io/badge/-ToDo-inactive) | Aircraft Electrical Systems |
