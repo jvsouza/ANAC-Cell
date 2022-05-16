@@ -7,8 +7,8 @@
 ## For aeronautical maintenance mechanic, avionics group, the exam is composed of the basic and avionics modules. As table bellow:
 | Type | Index | Progress | Contet |
 | :--: | :---: | :------: | :----- |
-| Cel | 01 | ![](https://img.shields.io/badge/-ToDo-inactive) | Technical English |
-| Cel | 02 | ![](https://img.shields.io/badge/-ToDo-inactive) | Aircraft Structures And Flight Control Systems |
+| Cel | 01 | ![](https://img.shields.io/badge/-Doing-important) | Technical English |
+| Cel | 02 | ![](https://img.shields.io/badge/-Doing-important) | Aircraft Structures And Flight Control Systems |
 | Cel | 03 | ![](https://img.shields.io/badge/-ToDo-inactive) | Fabricing |
 | Cel | 04 | ![](https://img.shields.io/badge/-ToDo-inactive) | Coating, Painting And Finishing Of Aircraft |
 | Cel | 05 | ![](https://img.shields.io/badge/-Done-success) | Repairs To Metallic Structures |
