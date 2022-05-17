@@ -1,5 +1,5 @@
 /*
-
+    https://stackoverflow.com/questions/42218699/chrome-violation-violation-handler-took-83ms-of-runtime
 */
 
 // ...
@@ -111,6 +111,6 @@ $(document).ready(function(){
     });
 
     base = 'https://raw.githubusercontent.com/jvsouza/ANAC-Cell/main/json/';
-    filesJson = ['cel01','cel05','cel06','cel10','cel11'];
+    filesJson = ['cel01', 'cel05', 'cel06', 'cel10', 'cel11'];
     createSelect(getListJson(base, filesJson));
 });

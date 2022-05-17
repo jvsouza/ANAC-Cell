@@ -4,15 +4,334 @@
    "courseunit":"Communication And Navigation Systems",
    "questions":[
       {
-         "title":"title",
-         "result":0,
+         "title":"Como ocorre a propagação das ondas de rádio frequência em VHF?",
+         "result":2,
          "options":[
-            "op1",
-            "op2",
-            "op3",
-            "op4"
+            "Através da refração (ondas ionosféricas);",
+            "Através da reflexão;",
+            "Em linha reta (ondas espaciais);",
+            "Propagação terrestre (ondas terrestres)."
          ],
          "number":0
+      },
+      {
+         "title":"Qual a faixa de frequência do sistema de comunicação em VHF?",
+         "result":3,
+         "options":[
+            "3 a 30 MHz;",
+            "190 a 1750 kHz;",
+            "108 a 117,95 MHz;",
+            "108 a 135,95 MHz."
+         ],
+         "number":1
+      },
+      {
+         "title":"No sistema de comunicação em HF, qual o componente responsável pelo casamento de impedância de acordo com a frequência selecionada?",
+         "result":1,
+         "options":[
+            "Caixa de controle;",
+            "Acoplador de antena;",
+            "Transceptor;",
+            "Antena unifilar."
+         ],
+         "number":2
+      },
+      {
+         "title":"Qual o sistema de navegação que fornece 360 radias ou rumos e funciona na faixa de 108MHz a 117,95MHz?",
+         "result":0,
+         "options":[
+            "VOR",
+            "ADF",
+            "Transponder",
+            "DME"
+         ],
+         "number":3
+      },
+      {
+         "title":"Qual a finalidade do sistema LOCALIZER?",
+         "result":1,
+         "options":[
+            "Indicar a rampa de planeio durante o pouso;",
+            "Indicar o eixo da pista durante o pouso;",
+            "Indicar a radial selecionada;",
+            "Indicar a distância da cabeceira da pista."
+         ],
+         "number":4
+      },
+      {
+         "title":"Qual o componente é utilizado para comunicação em longa distância?",
+         "result":1,
+         "options":[
+            "UHF",
+            "HF",
+            "VHF",
+            "DME"
+         ],
+         "number":5
+      },
+      {
+         "title":"A indicação de distância da aeronave em relação a uma estação no solo é fornecida através do:",
+         "result":3,
+         "options":[
+            "GPS",
+            "Marker Beacon",
+            "Radio altímetro",
+            "Sistema DME"
+         ],
+         "number":6
+      },
+      {
+         "title":"No sistema ADF, qual a antena direcional responsável em receber a frequência para posicionar o ponteiro do Indicador Radio Magnético (RMI)?",
+         "result":0,
+         "options":[
+            "Antena LOOP",
+            "Antena SENSE;",
+            "Antena unifilar",
+            "Antena direcional."
+         ],
+         "number":7
+      },
+      {
+         "title":"Para que uma aeronave possa ser controlada no espaço aéreo, é necessário que a mesma esteja equipada com o sistema:",
+         "result":2,
+         "options":[
+            "VOR",
+            "Glide Slope;",
+            "Transponder",
+            "ELT"
+         ],
+         "number":8
+      },
+      {
+         "title":"Marque a alternativa que contém uma das frequências que podem ser transmitidas pelo sistema ELT:",
+         "result":3,
+         "options":[
+            "123,40MHz;",
+            "118,70MHz;",
+            "115,00MHz;",
+            "121,50MHz."
+         ],
+         "number":9
+      },
+      {
+         "title":"Qual a faixa de frequência do sistema de comunicação em HF?",
+         "result":1,
+         "options":[
+            "190 a 1750kHz;",
+            "3 a 30MHz;",
+            "108 a 112MHz;",
+            "8 a 10 GHz.",
+         ],
+         "number":10
+      },
+      {
+         "title":"Dos sistemas de navegação apresentados abaixo, qual NÃO faz parte do sistema de pouso por instrumentos?",
+         "result":3,
+         "options":[
+            "Marker Beacon;",
+            "Glide Slope;",
+            "Localizer;",
+            "ADF.",
+         ],
+         "number":11
+      },
+      {
+         "title":"Em qual instrumento encontramos a indicação do sistema ADF?",
+         "result":1,
+         "options":[
+            "Indicador de Curso;",
+            "Indicador Rádio Magnético (RMI);",
+            "Indicador de Atitude;",
+            "O sistema ADF não fornece nenhum tipo de indicação visual, apenas sinais sonoros.",
+         ],
+         "number":12
+      },
+      {
+         "title":"As indicações TO-FROM são fornecidas por qual sistema de navegação?",
+         "result":3,
+         "options":[
+            "GPS",
+            "Transponder",
+            "ILS",
+            "VOR",
+         ],
+         "number":13
+      },
+      {
+         "title":"Qual instrumento de navegação utiliza uma frequência que é transmitida para o solo, onde é refletida e depois retorna à aeronave para fornecer indicação de altura da mesma?",
+         "result":2,
+         "options":[
+            "Altímetro codificador;",
+            "Transponder",
+            "Rádio altímetro;",
+            "Reguladora",
+         ],
+         "number":14
+      },
+      {
+         "title":"Um sistema autossuficiente que não necessita de qualquer sinal externo, refere-se a qual sistema de navegação?",
+         "result":2,
+         "options":[
+            "Transponder",
+            "DME",
+            "Inercial",
+            "ADF",
+         ],
+         "number":15
+      },
+      {
+         "title":"O processo de modulação consiste:",
+         "result":3,
+         "options":[
+            "Em selecionar os sinais de RF recebidos e converter informações;",
+            "De uma corrente que varia com as oscilações no campo magnético;",
+            "De uma energia que é modificada por um campo eletromagnético;",
+            "Em adicionar a fonia (AF) ao sinal de RF.",
+         ],
+         "number":16
+      },
+      {
+         "title":"Aumentando-se a frequência de transmissão, o comprimento elétrico da antena torna-se:",
+         "result":1,
+         "options":[
+            "Mais longo;",
+            "Mais curto;",
+            "O dobro;",
+            "A metade.",
+         ],
+         "number":17
+      },
+      {
+         "title":"Numa transmissão em AM, tem-se:",
+         "result":0,
+         "options":[
+            "Duas bandas laterais e uma central;",
+            "Uma banda lateral e uma central;",
+            "Apenas a frequência da RF;",
+            "Um sinal modulado pela frequência.",
+         ],
+         "number":18
+      },
+      {
+         "title":"Um condutor que irradia ondas eletromagnéticas quando por ele circula uma corrente de radiofrequência denomina-se:",
+         "result":2,
+         "options":[
+            "Transmissor",
+            "Receptor",
+            "Antena",
+            "Microfone",
+         ],
+         "number":19
+      },
+      {
+         "title":"A comunicação realizada entre as aeronaves e a torre de controle é normalmente feita na frequência de:",
+         "result":1,
+         "options":[
+            "HF;",
+            "VHF",
+            "UHF",
+            "SHF",
+         ],
+         "number":20
+      },
+      {
+         "title":"A palavra transceptor se refere a um:",
+         "result":2,
+         "options":[
+            "Transmissor isolado;",
+            "Receptor isolado;",
+            "Transmissor e receptor em um único componente;",
+            "Transmissor e receptor em unidades distintas.",
+         ],
+         "number":21
+      },
+      {
+         "title":"A frequência é medida em:",
+         "result":3,
+         "options":[
+            "Ohms",
+            "Volts",
+            "Amperes",
+            "Hertz",
+         ],
+         "number":22
+      },
+      {
+         "title":"Uma antena é um tipo especial de circuito elétrico, elaborado para:",
+         "result":3,
+         "options":[
+            "Sistemas de rádio em aeronaves;",
+            "Produzir qualquer tipo de sinal audível;",
+            "Comunicações em varias frequências;",
+            "Irradiar e receber energia eletromagnética.",
+         ],
+         "number":23
+      },
+      {
+         "title":"São sistemas de comunicação da aeronave:",
+         "result":0,
+         "options":[
+            "HF e VHF;",
+            "ATC e DME;",
+            "ATC, HF e VHF;",
+            "DME, HF e VHF.",
+         ],
+         "number":24
+      },
+      {
+         "title":"Para evitar o acúmulo de eletricidade estática e evitar diferença de potencial entre as superfícies metálicas da aeronave utilizamos:",
+         "result":3,
+         "options":[
+            "Parafusos especiais;",
+            "Rebites e parafusos especiais;",
+            "Descarregadores dinâmicos;",
+            "Descarregadores estáticos.",
+         ],
+         "number":25
+      },
+      {
+         "title":"O radar meteorológico trabalha enviando pela antena:",
+         "result":0,
+         "options":[
+            "Ondas eletromagnéticas;",
+            "AF modulada em amplitude;",
+            "Ondas ionosféricas;",
+            "Ondas sonoras extremamente altas.",
+         ],
+         "number":26
+      },
+      {
+         "title":"Nos sistemas AM a frequência da portadora:",
+         "result":0,
+         "options":[
+            "Não varia;",
+            "Tem variação;",
+            "Varia de acordo com o sinal modulante;",
+            "Respostas “b” e “c” estão corretas.",
+         ],
+         "number":27
+      },
+      {
+         "title":"Nos sistemas FM a frequência da portadora:",
+         "result":3,
+         "options":[
+            "Não varia;",
+            "Tem variação;",
+            "Varia de acordo com o sinal modulante;",
+            "Respostas “b” e “c” estão corretas.",
+         ],
+         "number":28
+      },
+      {
+         "title":"Qual a função do CVR?",
+         "result":3,
+         "options":[
+            "Comunicação de VOR e DME;",
+            "Fazer a comunicação entre VHF e Radar;",
+            "Controle de voos em rota;",
+            "Registrar o áudio da aeronave.",
+         ],
+         "number":29
       }
    ]
 }
