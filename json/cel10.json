@@ -120,7 +120,7 @@
             "190 a 1750kHz;",
             "3 a 30MHz;",
             "108 a 112MHz;",
-            "8 a 10 GHz.",
+            "8 a 10 GHz."
          ],
          "number":10
       },
@@ -131,7 +131,7 @@
             "Marker Beacon;",
             "Glide Slope;",
             "Localizer;",
-            "ADF.",
+            "ADF."
          ],
          "number":11
       },
@@ -142,7 +142,7 @@
             "Indicador de Curso;",
             "Indicador Rádio Magnético (RMI);",
             "Indicador de Atitude;",
-            "O sistema ADF não fornece nenhum tipo de indicação visual, apenas sinais sonoros.",
+            "O sistema ADF não fornece nenhum tipo de indicação visual, apenas sinais sonoros."
          ],
          "number":12
       },
@@ -153,7 +153,7 @@
             "GPS",
             "Transponder",
             "ILS",
-            "VOR",
+            "VOR"
          ],
          "number":13
       },
@@ -164,7 +164,7 @@
             "Altímetro codificador;",
             "Transponder",
             "Rádio altímetro;",
-            "Reguladora",
+            "Reguladora"
          ],
          "number":14
       },
@@ -175,7 +175,7 @@
             "Transponder",
             "DME",
             "Inercial",
-            "ADF",
+            "ADF"
          ],
          "number":15
       },
@@ -186,7 +186,7 @@
             "Em selecionar os sinais de RF recebidos e converter informações;",
             "De uma corrente que varia com as oscilações no campo magnético;",
             "De uma energia que é modificada por um campo eletromagnético;",
-            "Em adicionar a fonia (AF) ao sinal de RF.",
+            "Em adicionar a fonia (AF) ao sinal de RF."
          ],
          "number":16
       },
@@ -197,7 +197,7 @@
             "Mais longo;",
             "Mais curto;",
             "O dobro;",
-            "A metade.",
+            "A metade."
          ],
          "number":17
       },
@@ -208,7 +208,7 @@
             "Duas bandas laterais e uma central;",
             "Uma banda lateral e uma central;",
             "Apenas a frequência da RF;",
-            "Um sinal modulado pela frequência.",
+            "Um sinal modulado pela frequência."
          ],
          "number":18
       },
@@ -219,7 +219,7 @@
             "Transmissor",
             "Receptor",
             "Antena",
-            "Microfone",
+            "Microfone"
          ],
          "number":19
       },
@@ -230,7 +230,7 @@
             "HF;",
             "VHF",
             "UHF",
-            "SHF",
+            "SHF"
          ],
          "number":20
       },
@@ -241,7 +241,7 @@
             "Transmissor isolado;",
             "Receptor isolado;",
             "Transmissor e receptor em um único componente;",
-            "Transmissor e receptor em unidades distintas.",
+            "Transmissor e receptor em unidades distintas."
          ],
          "number":21
       },
@@ -252,7 +252,7 @@
             "Ohms",
             "Volts",
             "Amperes",
-            "Hertz",
+            "Hertz"
          ],
          "number":22
       },
@@ -263,7 +263,7 @@
             "Sistemas de rádio em aeronaves;",
             "Produzir qualquer tipo de sinal audível;",
             "Comunicações em varias frequências;",
-            "Irradiar e receber energia eletromagnética.",
+            "Irradiar e receber energia eletromagnética."
          ],
          "number":23
       },
@@ -274,7 +274,7 @@
             "HF e VHF;",
             "ATC e DME;",
             "ATC, HF e VHF;",
-            "DME, HF e VHF.",
+            "DME, HF e VHF."
          ],
          "number":24
       },
@@ -285,7 +285,7 @@
             "Parafusos especiais;",
             "Rebites e parafusos especiais;",
             "Descarregadores dinâmicos;",
-            "Descarregadores estáticos.",
+            "Descarregadores estáticos."
          ],
          "number":25
       },
@@ -296,7 +296,7 @@
             "Ondas eletromagnéticas;",
             "AF modulada em amplitude;",
             "Ondas ionosféricas;",
-            "Ondas sonoras extremamente altas.",
+            "Ondas sonoras extremamente altas."
          ],
          "number":26
       },
@@ -307,7 +307,7 @@
             "Não varia;",
             "Tem variação;",
             "Varia de acordo com o sinal modulante;",
-            "Respostas “b” e “c” estão corretas.",
+            "Respostas “b” e “c” estão corretas."
          ],
          "number":27
       },
@@ -318,7 +318,7 @@
             "Não varia;",
             "Tem variação;",
             "Varia de acordo com o sinal modulante;",
-            "Respostas “b” e “c” estão corretas.",
+            "Respostas “b” e “c” estão corretas."
          ],
          "number":28
       },
@@ -329,7 +329,7 @@
             "Comunicação de VOR e DME;",
             "Fazer a comunicação entre VHF e Radar;",
             "Controle de voos em rota;",
-            "Registrar o áudio da aeronave.",
+            "Registrar o áudio da aeronave."
          ],
          "number":29
       }
