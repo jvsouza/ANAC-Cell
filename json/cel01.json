@@ -21,7 +21,7 @@
             "Recipiente",
             "Contenção",
             "Container",
-            "Reservatório",
+            "Reservatório"
          ],
          "number":1
       },
@@ -32,7 +32,7 @@
             "Pino",
             "Corque",
             "Rolha",
-            "Amortecedor",
+            "Amortecedor"
          ],
          "number":2
       },
@@ -43,7 +43,7 @@
             "O piloto só percebeu quando ele tentou fora fazer a rotação da pista e achou o nariz muito pesado.",
             "O piloto só percebeu quando ele tentou de fora da rotação da pista e achou o nariz muito pesado.",
             "O piloto só percebeu quando ele tentou para a rotação fora da pista e achou o nariz muito pesado.",
-            "O piloto só percebeu quando ele tentou parar de girar na pista e achou o nariz muito pesado.",
+            "O piloto só percebeu quando ele tentou parar de girar na pista e achou o nariz muito pesado."
          ],
          "number":3
       },
@@ -54,7 +54,7 @@
             "Alguns fabricantes usam um sistema pneumático de motor de ligação, o YAK é um bom exemplo.",
             "Alguns fabricantes usam um sistema pneumático ao invés de ligar o motor, o YAK é um bom exemplo.",
             "Alguns fabricantes usam um sistema pneumático com ligação do motor, o YAK é um bom exemplo.",
-            "Alguns fabricantes usam um sistema pneumático para ligar o motor, o YAK é um bom exemplo.",
+            "Alguns fabricantes usam um sistema pneumático para ligar o motor, o YAK é um bom exemplo."
          ],
          "number":4
       },
@@ -65,7 +65,7 @@
             "Comparar o sistema hidráulico com pneumático.",
             "Apresentar o sistema hidráulico, seus objetivos e diferenças com o pneumático.",
             "Apresentar o sistema pneumático, seus objetivos e diferenças com o hidráulico.",
-            "Apresentar o sistema de freios através da hidrodinâmica e seus objetivos.",
+            "Apresentar o sistema de freios através da hidrodinâmica e seus objetivos."
          ],
          "number":5
       },
@@ -76,7 +76,7 @@
             "O sistema hidráulico é mais confiável.",
             "O sistema pneumático é mais leve.",
             "O sistema pneumático é menos comum.",
-            "O sistema hidráulico é o único que pode ser usado para freios.",
+            "O sistema hidráulico é o único que pode ser usado para freios."
          ],
          "number":6
       },
@@ -87,7 +87,7 @@
             "Porque eles podem transmitir alta pressão e força com pouco volume de fluído.",
             "Porque eles podem movimentar e atuar o trem de pouso, flaps e freios.",
             "Porque eles podem ser usados em controles de voo, spoilers, e reversores de impulso.",
-            "Porque eles são leves em relação aos sistemas pneumáticos.",
+            "Porque eles são leves em relação aos sistemas pneumáticos."
          ],
          "number":7
       },
@@ -98,7 +98,7 @@
             "Termômetros, regulador de temperatura, caixa de controle, aquecedor, agitador, banho líquido, testador de óleo.",
             "Termômetros, regulador de temperatura, caixa de controle, aquecedor, agitador, banho líquido, óleo sendo testado.",
             "Termômetros, regulador de temperatura, controle de caixa, aquecedor, agitador, banho líquido, óleo sendo testado.",
-            "Termômetros, temperatura reguladora, caixa de controle, aquecedor, agitador, banho líquido, óleo sendo testado.",
+            "Termômetros, temperatura reguladora, caixa de controle, aquecedor, agitador, banho líquido, óleo sendo testado."
          ],
          "number":8
       },
@@ -109,7 +109,7 @@
             "A monocoque type fuselage.",
             "A trellis-type fuselage.",
             "A truss-type fuselage.",
-            "A seminonocoque type fuselage.",
+            "A seminonocoque type fuselage."
          ],
          "number":9
       },
@@ -120,7 +120,7 @@
             "Molde",
             "Revestimento",
             "Pele",
-            "Parede",
+            "Parede"
          ],
          "number":10
       },
@@ -131,7 +131,7 @@
             "Uma descrição introdutória das estruturas de fuselagens monocoque e seminocoque.",
             "A força do revestimento para fuselagem tipo monocoques.",
             "Os principais problemas de estrutura de fuselagens monocoque e semimonocoque.",
-            "As principais diferenças entre as estruturas de fuselagem tipo monocoque e semimonocoque.",
+            "As principais diferenças entre as estruturas de fuselagem tipo monocoque e semimonocoque."
          ],
          "number":11
       },
@@ -142,7 +142,7 @@
             "Os formadores, os conjuntos de estrutura e os anteparos para dar forma à fuselagem.",
             "Os tipos de revestimentos.",
             "Asas, motores e estabilizadores.",
-            "Os membros da órtese",
+            "Os membros da órtese"
          ],
          "number":12
       },
@@ -153,7 +153,7 @@
             "Principalmente da fuselagem seminocoque, pois a maioria das aeronaves modernas é considerada do tipo semimonocoque.",
             "Dos formadores, dos conjuntos de estrutura e dos anteparos para dar forma à fuselagem.",
             "Das asas, dos motores e dos estabilizadores.",
-            "Da força do revestimento ou cobertura.",
+            "Da força do revestimento ou cobertura."
          ],
          "number":13
       },
@@ -164,7 +164,7 @@
             "The fuselage was set up lately, we did not have time to use it and ended up using the old one.",
             "The fuselage was set up late, we did not have time to use it and ended up using the old one.",
             "The fuselage was set up afternoonly, we did not have time to use it and ended up using the old one.",
-            "The fuselage was set up tardion, we did not have time to use it and ended up using the old one.",
+            "The fuselage was set up tardion, we did not have time to use it and ended up using the old one."
          ],
          "number":14
       },
@@ -175,7 +175,7 @@
             "Muitas aeronaves leves modernas são construídas usando materiais compostos (fibra de vidro). Este tipo de construção é efetivamente monocoque e é extremamente forte. A extra rigidalidade pode ser obtida usando a construção em sanduíche de espuma de vidro.",
             "Muitas aeronaves leves modernas são construídas usando materiais compostos (fibra de vidro). Este tipo de construção é um monocoque efetivo e é de extrema força. A rigidez extra pode ser obtida usando a construção em sanduíche de espuma de vidro.",
             "Muitas aeronaves leves modernas são construídas usando materiais compostos (fibra de vidro). Este tipo de construção é um monocoque efetivo e é de extrema força. A rigidalidade extra pode ser obtida usando a construção em sanduíche de espuma de vidro",
-            "Muitas aeronaves leves modernas são construídas usando materiais compostos (fibra de vidro). Este tipo de construção é efetivamente monocoque e é extremamente forte. A rigidez extra pode ser obtida usando a construção em sanduíche de espuma de vidro.",
+            "Muitas aeronaves leves modernas são construídas usando materiais compostos (fibra de vidro). Este tipo de construção é efetivamente monocoque e é extremamente forte. A rigidez extra pode ser obtida usando a construção em sanduíche de espuma de vidro."
          ],
          "number":15
       },
@@ -186,7 +186,7 @@
             "Fios e cabos, por exemplo, naturalmente carregam apenas tensão.",
             "Fios e cabos, por exemplo, carregam apenas tensão normal.",
             "Fios e cabos, por exemplo, normalmente carregam apenas tensão.",
-            "Fios e cabos, por exemplo, normativamente carregam apenas tensão.",
+            "Fios e cabos, por exemplo, normativamente carregam apenas tensão."
          ],
          "number":16
       },
@@ -197,7 +197,7 @@
             "A monocoque type fuselage.",
             "A trellis-type fuselage.",
             "A truss-type fuselage.",
-            "A seminonocoque type fuselage.",
+            "A seminonocoque type fuselage."
          ],
          "number":17
       },
@@ -208,7 +208,7 @@
             "Membro",
             "Longarina",
             "Molde",
-            "Longeratividade",
+            "Longeratividade"
          ],
          "number":18
       },
@@ -219,7 +219,7 @@
             "É o stress que tenciona para empurrar os materiais juntos.",
             "É a tensão que tenciona a empurrar materiais juntos.",
             "É a tensão que empurra materiais juntos.",
-            "É o stress que tende a empurrar materiais juntos.",
+            "É o stress que tende a empurrar materiais juntos."
          ],
          "number":19
       }
