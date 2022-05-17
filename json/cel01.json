@@ -1,0 +1,227 @@
+{
+   "contentType":"Cel",
+   "contentIndex":1,
+   "courseunit":"Technical English",
+   "questions":[
+      {
+         "title":"Observe a figura abaixo de um sistema de ar condicionado em uma aeronave e identifique qual item se refere a “Saída de ar para frente”, Fonte: Adaptado de Aviation Maintenance Technician Handbook– Airframe, Volume 1, 2018, p. 464.",
+         "result":0,
+         "options":[
+            "AFT air outlet",
+            "Overhead supply ducts",
+            "Forward air outlet.",
+            "Control cabin distribution duct."
+         ],
+         "number":0
+      },
+      {
+         "title":"Observe a figura abaixo e indique a melhor tradução para Container. Fonte: adaptado de Aviation Maintenance Technician Handbook– Airframe, Volume 2, 2018, p. 190.",
+         "result":0,
+         "options":[
+            "Recipiente",
+            "Contenção",
+            "Container",
+            "Reservatório",
+         ],
+         "number":1
+      },
+      {
+         "title":"Observe a figura abaixo e indique a melhor tradução para Cork.",
+         "result":0,
+         "options":[
+            "Pino",
+            "Corque",
+            "Rolha",
+            "Amortecedor",
+         ],
+         "number":2
+      },
+      {
+         "title":"Qual é a melhor tradução da palavra to na frase abaixo? The pilot only noticed when he tried to rotate off the runway and found the nose very heavy. Fonte: Frase adaptada de: https://aviation.stackexchange.com/questions/16307/how-does-a-commercial-airliner-measure-its-weight-mass",
+         "result":0,
+         "options":[
+            "O piloto só percebeu quando ele tentou fora fazer a rotação da pista e achou o nariz muito pesado.",
+            "O piloto só percebeu quando ele tentou de fora da rotação da pista e achou o nariz muito pesado.",
+            "O piloto só percebeu quando ele tentou para a rotação fora da pista e achou o nariz muito pesado.",
+            "O piloto só percebeu quando ele tentou parar de girar na pista e achou o nariz muito pesado.",
+         ],
+         "number":3
+      },
+      {
+         "title":"Qual seria a melhor tradução da palavra to para a frase abaixo? Some manufacturers use a pneumatic system to start the engine, YAK is a good example. Fonte: Frase de https://www.experimentalaircraft.info/articles/hydraulic-principles.php",
+         "result":0,
+         "options":[
+            "Alguns fabricantes usam um sistema pneumático de motor de ligação, o YAK é um bom exemplo.",
+            "Alguns fabricantes usam um sistema pneumático ao invés de ligar o motor, o YAK é um bom exemplo.",
+            "Alguns fabricantes usam um sistema pneumático com ligação do motor, o YAK é um bom exemplo.",
+            "Alguns fabricantes usam um sistema pneumático para ligar o motor, o YAK é um bom exemplo.",
+         ],
+         "number":4
+      },
+      {
+         "title":"Qual é a ideia geral do texto? Fonte: https://www.experimentalaircraft.info/articles/hydraulic-principles.php",
+         "result":0,
+         "options":[
+            "Comparar o sistema hidráulico com pneumático.",
+            "Apresentar o sistema hidráulico, seus objetivos e diferenças com o pneumático.",
+            "Apresentar o sistema pneumático, seus objetivos e diferenças com o hidráulico.",
+            "Apresentar o sistema de freios através da hidrodinâmica e seus objetivos.",
+         ],
+         "number":5
+      },
+      {
+         "title":"De acordo com o texto anterior, qual a diferença entre o sistema hidráulico e pneumático? Fonte: https://www.experimentalaircraft.info/articles/hydraulic-principles.php",
+         "result":0,
+         "options":[
+            "O sistema hidráulico é mais confiável.",
+            "O sistema pneumático é mais leve.",
+            "O sistema pneumático é menos comum.",
+            "O sistema hidráulico é o único que pode ser usado para freios.",
+         ],
+         "number":6
+      },
+      {
+         "title":"De acordo com o texto anterior, qual seria um motivo para usar sistemas hidráulicos?  Fonte: https://www.experimentalaircraft.info/articles/hydraulic-principles.php",
+         "result":0,
+         "options":[
+            "Porque eles podem transmitir alta pressão e força com pouco volume de fluído.",
+            "Porque eles podem movimentar e atuar o trem de pouso, flaps e freios.",
+            "Porque eles podem ser usados em controles de voo, spoilers, e reversores de impulso.",
+            "Porque eles são leves em relação aos sistemas pneumáticos.",
+         ],
+         "number":7
+      },
+      {
+         "title":"Observe a figura que apresenta uma visão panorâmica de um viscosímetro Saybolt. Marque a alternativa que melhor traduz as partes indicadas. Fonte: Adaptado de: https://www.slideshare.net/hareeshang/energy-conversion-engineering-lab-manual-full-33841989",
+         "result":0,
+         "options":[
+            "Termômetros, regulador de temperatura, caixa de controle, aquecedor, agitador, banho líquido, testador de óleo.",
+            "Termômetros, regulador de temperatura, caixa de controle, aquecedor, agitador, banho líquido, óleo sendo testado.",
+            "Termômetros, regulador de temperatura, controle de caixa, aquecedor, agitador, banho líquido, óleo sendo testado.",
+            "Termômetros, temperatura reguladora, caixa de controle, aquecedor, agitador, banho líquido, óleo sendo testado.",
+         ],
+         "number":8
+      },
+      {
+         "title":"Assinale a alternativa que melhor descreve o tipo de fuselagem que a figura representa em inglês. Fonte: http://www.free-online-private-pilot-ground-school.com/aircraft-structure.html",
+         "result":0,
+         "options":[
+            "A monocoque type fuselage.",
+            "A trellis-type fuselage.",
+            "A truss-type fuselage.",
+            "A seminonocoque type fuselage.",
+         ],
+         "number":9
+      },
+      {
+         "title":"Com base na figura anterior, assinale a alternativa que melhor traduz a palavra skin. Fonte: http://www.free-online-private-pilot-ground-school.com/aircraft-structure.html",
+         "result":0,
+         "options":[
+            "Molde",
+            "Revestimento",
+            "Pele",
+            "Parede",
+         ],
+         "number":10
+      },
+      {
+         "title":"The monocoque (single shell) fuselage relies largely on the strength of the skin or covering to carry the primary loads. The design may be divided into two classes: 1. Monocoque 2. Semimonocoque Different portions of the same fuselage may belong to either of the two classes, but most modern aircraft are considered to be of semimonocoque type construction. The true monocoque construction uses formers, frame assemblies, and bulkheads to give shape to the fuselage. The heaviest of these structural members are located at intervals to carry concentrated loads and at points where fittings are used to attach other units such as wings, powerplants, and stabilizers. Since no other bracing members are present, the skin must carry the primary stresses and keep the fuselage rigid. Thus, the biggest problem involved in monocoque construction is maintaining enough strength while keeping the weight within allowable limits. Fonte: Aviation Maintenance Technician Handbook– Airframe, Volume 1. U.S. Department of Transportation FEDERAL AVIATION ADMINISTRATION Flight Standards Service, 2018, p. 35",
+         "result":0,
+         "options":[
+            "Uma descrição introdutória das estruturas de fuselagens monocoque e seminocoque.",
+            "A força do revestimento para fuselagem tipo monocoques.",
+            "Os principais problemas de estrutura de fuselagens monocoque e semimonocoque.",
+            "As principais diferenças entre as estruturas de fuselagem tipo monocoque e semimonocoque.",
+         ],
+         "number":11
+      },
+      {
+         "title":"The monocoque (single shell) fuselage relies largely on the strength of the skin or covering to carry the primary loads. The design may be divided into two classes: 1. Monocoque 2. Semimonocoque Different portions of the same fuselage may belong to either of the two classes, but most modern aircraft are considered to be of semimonocoque type construction. The true monocoque construction uses formers, frame assemblies, and bulkheads to give shape to the fuselage. The heaviest of these structural members are located at intervals to carry concentrated loads and at points where fittings are used to attach other units such as wings, powerplants, and stabilizers. Since no other bracing members are present, the skin must carry the primary stresses and keep the fuselage rigid. Thus, the biggest problem involved in monocoque construction is maintaining enough strength while keeping the weight within allowable limits. Fonte: Aviation Maintenance Technician Handbook– Airframe, Volume 1. U.S. Department of Transportation FEDERAL AVIATION ADMINISTRATION Flight Standards Service, 2018, p. 35",
+         "result":0,
+         "options":[
+            "Os formadores, os conjuntos de estrutura e os anteparos para dar forma à fuselagem.",
+            "Os tipos de revestimentos.",
+            "Asas, motores e estabilizadores.",
+            "Os membros da órtese",
+         ],
+         "number":12
+      },
+      {
+         "title":"The monocoque (single shell) fuselage relies largely on the strength of the skin or covering to carry the primary loads. The design may be divided into two classes: 1. Monocoque 2. Semimonocoque Different portions of the same fuselage may belong to either of the two classes, but most modern aircraft are considered to be of semimonocoque type construction. The true monocoque construction uses formers, frame assemblies, and bulkheads to give shape to the fuselage. The heaviest of these structural members are located at intervals to carry concentrated loads and at points where fittings are used to attach other units such as wings, powerplants, and stabilizers. Since no other bracing members are present, the skin must carry the primary stresses and keep the fuselage rigid. Thus, the biggest problem involved in monocoque construction is maintaining enough strength while keeping the weight within allowable limits. Fonte: Aviation Maintenance Technician Handbook– Airframe, Volume 1. U.S. Department of Transportation FEDERAL AVIATION ADMINISTRATION Flight Standards Service, 2018, p. 35. Segundo o texto anterior, do que depende a fuselagem monocoque para transportar as cargas primárias?",
+         "result":0,
+         "options":[
+            "Principalmente da fuselagem seminocoque, pois a maioria das aeronaves modernas é considerada do tipo semimonocoque.",
+            "Dos formadores, dos conjuntos de estrutura e dos anteparos para dar forma à fuselagem.",
+            "Das asas, dos motores e dos estabilizadores.",
+            "Da força do revestimento ou cobertura.",
+         ],
+         "number":13
+      },
+      {
+         "title":"ttt",
+         "result":0,
+         "options":[
+            "The fuselage was set up lately, we did not have time to use it and ended up using the old one.",
+            "The fuselage was set up late, we did not have time to use it and ended up using the old one.",
+            "The fuselage was set up afternoonly, we did not have time to use it and ended up using the old one.",
+            "The fuselage was set up tardion, we did not have time to use it and ended up using the old one.",
+         ],
+         "number":14
+      },
+      {
+         "title":"Many modern light aircraft are constructed using composite (glass fibre) materials. This type of construction is effectively monocoque and is extremely strong. Extra rigidity can be achieved by using glass foam sandwich construction. Fonte: http://www.pilotfriend.com/training/flight_training/fxd_wing/fuse.htm",
+         "result":0,
+         "options":[
+            "Muitas aeronaves leves modernas são construídas usando materiais compostos (fibra de vidro). Este tipo de construção é efetivamente monocoque e é extremamente forte. A extra rigidalidade pode ser obtida usando a construção em sanduíche de espuma de vidro.",
+            "Muitas aeronaves leves modernas são construídas usando materiais compostos (fibra de vidro). Este tipo de construção é um monocoque efetivo e é de extrema força. A rigidez extra pode ser obtida usando a construção em sanduíche de espuma de vidro.",
+            "Muitas aeronaves leves modernas são construídas usando materiais compostos (fibra de vidro). Este tipo de construção é um monocoque efetivo e é de extrema força. A rigidalidade extra pode ser obtida usando a construção em sanduíche de espuma de vidro",
+            "Muitas aeronaves leves modernas são construídas usando materiais compostos (fibra de vidro). Este tipo de construção é efetivamente monocoque e é extremamente forte. A rigidez extra pode ser obtida usando a construção em sanduíche de espuma de vidro.",
+         ],
+         "number":15
+      },
+      {
+         "title":"Wire and cables, for example, normally carry only tension. Fonte: http://www.pilotfriend.com/training/flight_training/fxd_wing/fuse.htm",
+         "result":0,
+         "options":[
+            "Fios e cabos, por exemplo, naturalmente carregam apenas tensão.",
+            "Fios e cabos, por exemplo, carregam apenas tensão normal.",
+            "Fios e cabos, por exemplo, normalmente carregam apenas tensão.",
+            "Fios e cabos, por exemplo, normativamente carregam apenas tensão.",
+         ],
+         "number":16
+      },
+      {
+         "title":"Assinale a alternativa que melhor descreve o tipo de fuselagem em inglês que a figura representa. Fonte: http://www.free-online-private-pilot-ground-school.com/aircraft-structure.html",
+         "result":0,
+         "options":[
+            "A monocoque type fuselage.",
+            "A trellis-type fuselage.",
+            "A truss-type fuselage.",
+            "A seminonocoque type fuselage.",
+         ],
+         "number":17
+      },
+      {
+         "title":"Assinale a alternativa que melhor traduz a palavra longeron da figura anterior. . Fonte: http://www.free-online-private-pilot-ground-school.com/aircraft-structure.html",
+         "result":0,
+         "options":[
+            "Membro",
+            "Longarina",
+            "Molde",
+            "Longeratividade",
+         ],
+         "number":18
+      },
+      {
+         "title":"Indique a melhor tradução para a frase abaixo: It is the stress which tends to push materials together. Fonte: http://www.pilotfriend.com/training/flight_training/fxd_wing/fuse.htm",
+         "result":0,
+         "options":[
+            "É o stress que tenciona para empurrar os materiais juntos.",
+            "É a tensão que tenciona a empurrar materiais juntos.",
+            "É a tensão que empurra materiais juntos.",
+            "É o stress que tende a empurrar materiais juntos.",
+         ],
+         "number":19
+      }
+   ]
+}

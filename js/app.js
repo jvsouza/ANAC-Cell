@@ -73,7 +73,7 @@ function openFile(file) {
 };
 // ...
 function getListJson( baseFolder, filesJson ){
-    console.log(">getListJson");
+    //console.log(">getListJson");
     var fileNames = new Array();
     for (var n=0; n < filesJson.length ; n++) {
         fileNames.push(baseFolder+filesJson[n]+".json");
@@ -82,7 +82,7 @@ function getListJson( baseFolder, filesJson ){
 }
 // ...
 function createSelect( arrayJson ){
-    console.log(">createSelect");
+    //console.log(">createSelect");
     var options = '<option value="title" selected>Select content</option>';
     for (var n=0; n < arrayJson.length ; n++) {
         courseUnit = getJson(arrayJson[n]).courseunit;
@@ -111,6 +111,6 @@ $(document).ready(function(){
     });
 
     base = 'https://raw.githubusercontent.com/jvsouza/ANAC-Cell/main/json/';
-    filesJson = ['cel05','cel06','cel10','cel11'];
+    filesJson = ['cel01','cel05','cel06','cel10','cel11'];
     createSelect(getListJson(base, filesJson));
 });
