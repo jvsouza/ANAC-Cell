@@ -54,7 +54,7 @@ function getJson( nameFileJson ) {
     $.ajax({
         dataType: "json",
         url: nameFileJson,  
-        async: true,  
+        async: false,  
         success: function(data) {
             //result = data; 
             return data;
