@@ -49,16 +49,18 @@ function createList( arrayJson ) {
     $("#questions").append(list);
 }
 // ...
-function getJson( nameFileJson ) {
+async getJson( nameFileJson ) {
     var result;
-    $.ajax({
-        dataType: "json",
-        url: nameFileJson,  
-        async: false,  
-        success: function(data) {
-            result = data; 
-      }
-    });
+    
+    await   $.ajax({
+                dataType: "json",
+                url: nameFileJson,  
+                async: false,  
+                success: function(data) {
+                    result = data; 
+                }
+            });
+    
     return result;
 }
 // ...
