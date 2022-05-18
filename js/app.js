@@ -50,17 +50,16 @@ function createList( arrayJson ) {
 }
 // ...
 function getJson( nameFileJson ) {
-    //var result;
+    var result;
     $.ajax({
         dataType: "json",
         url: nameFileJson,  
         async: false,  
         success: function(data) {
-            //result = data; 
-            return data;
+            result = data; 
       }
     });
-    //return result;
+    return result;
 }
 // ...
 function openFile(file) {
