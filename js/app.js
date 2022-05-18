@@ -58,6 +58,8 @@ function getJson( nameFileJson ) {
         success: function(data) {
             result = data; 
       }
+    }).done(function (data) {
+        result = data; 
     });
     return result;
 }
