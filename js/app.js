@@ -49,7 +49,7 @@ function createList( arrayJson ) {
     $("#questions").append(list);
 }
 // ...
-async getJson( nameFileJson ) {
+async function getJson( nameFileJson ) {
     var result;
     
     await   $.ajax({
