@@ -55,9 +55,10 @@ function getJson( nameFileJson ) {
         dataType: "json",
         url: nameFileJson,  
         async: true,  
-    }).done(function (data) {
-        //result = data; 
-        return data
+        success: function(data) {
+            //result = data; 
+            return data;
+      }
     });
     //return result;
 }
