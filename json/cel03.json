@@ -1,0 +1,337 @@
+{
+   "contentType":"Cel",
+   "contentIndex":3,
+   "courseunit":"Fabricing",
+   "questions":[
+      {
+         "title":"Entendemos por fibra orgânica:",
+         "result":0,
+         "options":[
+            "Fibra de vidro",
+            "Fibra termo retrátil",
+            "Nylon",
+            "Algodão e linho"
+         ],
+         "number":0
+      },
+      {
+         "title":"A poliamida é tradicionalmente conhecida como:",
+         "result":0,
+         "options":[
+            "Fibra acrílica;",
+            "Algodão",
+            "Nylon",
+            "Fibra de vidro"
+         ],
+         "number":1
+      },
+      {
+         "title":"A fibra de poliéster é conhecida como:",
+         "result":0,
+         "options":[
+            "Orlon",
+            "Fibra de vidro",
+            "Dracon",
+            "Nylon"
+         ],
+         "number":2
+      },
+      {
+         "title":"O Orlon é uma fibra de:",
+         "result":0,
+         "options":[
+            "Vidro",
+            "Metal",
+            "Acrílico",
+            "Poliéster"
+         ],
+         "number":3
+      },
+      {
+         "title":"A resistência dos tecidos, fitas de superfícies, cordéis, linhas, etc., são determinadas:",
+         "result":1,
+         "options":[
+            "Pelo peso da aeronave e o limite de velocidade;",
+            "Pelo limite de velocidade e a pressão por pé quadrado na carga da asa;",
+            "Pela segurança do voo;",
+            "Pela carga da asa e o vento relativo."
+         ],
+         "number":4
+      },
+      {
+         "title":"O limite de velocidade de uma aeronave é:",
+         "result":2,
+         "options":[
+            "É aquela que a estrutura aguenta;",
+            "A velocidade máxima;",
+            "É aquela que não pode exceder a velocidade de segurança;",
+            "É aquela que as asas suportam somadas à potência do motor."
+         ],
+         "number":5
+      },
+      {
+         "title":"Dividindo-se a área total da asa (em pés quadrados) pela carga máxima suportada pela asa determinamos:",
+         "result":1,
+         "options":[
+            "A área da asa;",
+            "A carga da asa;",
+            "O tamanho da asa.",
+            "O peso da asa;"
+         ],
+         "number":6
+      },
+      {
+         "title":"O arremate feito no bordo do tecido, por máquina ou tesoura, numa série contínua de V, denominamos:",
+         "result":1,
+         "options":[
+            "Engomar",
+            "Picotar",
+            "Prega",
+            "Acetinar"
+         ],
+         "number":7
+      },
+      {
+         "title":"Como denominamos o número de jardas feitas com linha?",
+         "result":1,
+         "options":[
+            "Trama",
+            "Prega",
+            "Viés",
+            "Urdidura"
+         ],
+         "number":8
+      },
+      {
+         "title":"A borda do tecido para evitar desfiamento, chama-se:",
+         "result":1,
+         "options":[
+            "Count",
+            "Ourela",
+            "Viés",
+            "Urdimento"
+         ],
+         "number":9
+      },
+      {
+         "title":"Dos tecidos citados abaixo, qual é o normalmente usado em revestimento de aeronaves?",
+         "result":1,
+         "options":[
+            "Seda",
+            "Algodão",
+            "Tela",
+            "Tergal"
+         ],
+         "number":10
+      },
+      {
+         "title":"As três fibras sintéticas utilizadas em revestimento são:",
+         "result":2,
+         "options":[
+            "Orlon, Linho e Dacron;",
+            "Nylon, Orlon e Algodão;",
+            "Nylon, Orlon e Dacron;",
+            "Nylon, Orlon e tela."
+         ],
+         "number":11
+      },
+      {
+         "title":"Qual é o tipo de tecido de algodão utilizado para aeronaves?",
+         "result":0,
+         "options":[
+            "<ercerizado",
+            "Engomado",
+            "Picotado",
+            "Trama"
+         ],
+         "number":12
+      },
+      {
+         "title":"O que é Urdidura ou urdimento?",
+         "result":3,
+         "options":[
+            "Processo químico",
+            "Ato de colocar goma no tecido",
+            "Número de fios por polegada",
+            "Direção dos fios ao longo do comprimento do tecido"
+         ],
+         "number":13
+      },
+      {
+         "title":"A mercerização é um processo químico que:",
+         "result":0,
+         "options":[
+            "Encolhe o tecido ou fio de algodão, tornando-o mais forte;",
+            "Evita desfiamento do tecido;",
+            "Estica o tecido para aplicação de dope;",
+            "Remove as dobras dos tecidos."
+         ],
+         "number":14
+      },
+      {
+         "title":"Trama é a direção dos fios através:",
+         "result":0,
+         "options":[
+            "Da largura do tecido;",
+            "Do comprimento do tecido;",
+            "Das bordas do tecido;",
+            "Da diagonal do tecido."
+         ],
+         "number":15
+      },
+      {
+         "title":"Ourela é borda do tecido para evitar:",
+         "result":1,
+         "options":[
+            "Encolhimento",
+            "Desfiamento",
+            "Estiramento",
+            "Dobras"
+         ],
+         "number":16
+      },
+      {
+         "title":"Qual é o tecido de revestimento, que não é afetado por umidade e mofo?",
+         "result":1,
+         "options":[
+            "Linho",
+            "Fibra de vidro",
+            "Seda",
+            "Algodão"
+         ],
+         "number":17
+      },
+      {
+         "title":"Quais são os métodos de aplicação de revestimento de superfícies de aeronaves?",
+         "result":2,
+         "options":[
+            "Cobertura e colchão;",
+            "Cobertura e armação;",
+            "Cobertura e envelope;",
+            "Cobertura e cobertor."
+         ],
+         "number":18
+      },
+      {
+         "title":"O método de revestimento usado em superfícies irregulares é do tipo:",
+         "result":0,
+         "options":[
+            "Cobertura",
+            "Envelope",
+            "Colchão",
+            "Cobertor"
+         ],
+         "number":19
+      },
+      {
+         "title":"Qual o número de camadas requerido na aplicação de dope?",
+         "result":3,
+         "options":[
+            "Três",
+            "Seis",
+            "Cinco",
+            "Oito"
+         ],
+         "number":20
+      },
+      {
+         "title":"O dope confere ao material de revestimento qualidades adicionais de:",
+         "result":0,
+         "options":[
+            "Resistência, hermeticidade e impermeabilidade;",
+            "Resistência, hermeticidade e inflamabilidade;",
+            "Dureza, resistência aflexão;",
+            "Condutividade elétrica e térmica."
+         ],
+         "number":21
+      },
+      {
+         "title":"Um dope para aeronave é, essencialmente, uma solução:",
+         "result":0,
+         "options":[
+            "Coloidal de acetato de celulose;",
+            "Inodora de acetato de butil;",
+            "Tinta comum;",
+            "Tinta pigmentada."
+         ],
+         "number":22
+      },
+      {
+         "title":"Acabamento em aeronaves pode ser separado em três classes gerais:",
+         "result":1,
+         "options":[
+            "De proteção, de aparência e aplicação de decalques;",
+            "De proteção de aparência e decoração;",
+            "De letras de identificação, decoração e aparência;",
+            "De pintura de emblemas, decoração e aparência."
+         ],
+         "number":23
+      },
+      {
+         "title":"Antes da aplicação de tinta esmalte ou laca numa superfície metálica, devemos aplicar uma base de:",
+         "result":1,
+         "options":[
+            "Cromato de cobre;",
+            "Cromato de zinco;",
+            "Selante;",
+            "Verniz."
+         ],
+         "number":24
+      },
+      {
+         "title":"Qual o tipo de tinta usada para pintura de acabamento em aeronaves convencionais?",
+         "result":0,
+         "options":[
+            "Laca de nitrocelulose acrílica;",
+            "Tinta a óleo;",
+            "Cromato de zinco;",
+            "Tinta esmalte."
+         ],
+         "number":25
+      },
+      {
+         "title":"A laca transparente pode ser substituída por:",
+         "result":1,
+         "options":[
+            "Tinta esmalte;",
+            "Verniz naval sobre tela dopada;",
+            "Tinta epoxy;",
+            "Terebintina"
+         ],
+         "number":26
+      },
+      {
+         "title":"A tinta a óleo é usada para:",
+         "result":1,
+         "options":[
+            "Pintura de aviões a jato;",
+            "Pigmentar madeira com finalidade decorativa;",
+            "Base anti corrosiva;",
+            "Decapar pinturas."
+         ],
+         "number":27
+      },
+      {
+         "title":"O removedor de tinta é:",
+         "result":1,
+         "options":[
+            "Um material inflamável e lavável em água;",
+            "Um material não inflamável e lavável em água;",
+            "Um material impermeável;",
+            "Um material em pó."
+         ],
+         "number":28
+      },
+      {
+         "title":"Os veículos voláteis mais comuns são:",
+         "result":3,
+         "options":[
+            "Removedor, álcool e terebintina;",
+            "Cromato de zinco;",
+            "Óleo de linhaça:",
+            "Álcool, terebintina e benzina."
+         ],
+         "number":29
+      }
+   ]
+}
