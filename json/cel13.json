@@ -10,7 +10,7 @@
             "Válvulas de ar de impacto e de ar frio",
             "Válvulas de ar quente",
             "Válvulas de ar quente e de ar frio",
-            "Válvulas de ar frio",
+            "Válvulas de ar frio"
          ],
          "result":"2"
       },
@@ -21,7 +21,7 @@
             "A pressão atmosférica é maior que a pressão resultante em nosso sangue dependendo da temperatura",
             "A pressão atmosférica NUNCA é maior que a pressão resultante em nosso sangue",
             "A pressão atmosférica é maior que a pressão resultante em nosso sangue",
-            "A pressão atmosférica NORMALMENTE é maior que a pressão resultante em nosso sangue",
+            "A pressão atmosférica NORMALMENTE é maior que a pressão resultante em nosso sangue"
          ],
          "result":"2"
       },
@@ -32,7 +32,7 @@
             "É usado em aeronaves com motor a jato",
             "O ar que vai para a cabine não se mistura com os gases de exaustão",
             "Também é usado o ar de impacto para esquentar o ar que vai para a cabine",
-            "O ar que vai para a cabine se mistura com os gases de exaustão",
+            "O ar que vai para a cabine se mistura com os gases de exaustão"
          ],
          "result":"1"
       },
@@ -43,7 +43,7 @@
             "NDA",
             "Pressurização",
             "Aquecimento",
-            "Resfriamento",
+            "Resfriamento"
          ],
          "result":"1"
       },
@@ -54,7 +54,7 @@
             "6.000 PÉS",
             "8.000 PÉS",
             "9.000 PÉS",
-            "7.000 PÉS",
+            "7.000 PÉS"
          ],
          "result":"1"
       },
@@ -65,7 +65,7 @@
             "opt0",
             "Válvula de ressalto",
             "Válvula de alivio",
-            "Bomba de alivio",
+            "Bomba de alivio"
          ],
          "result":"1"
       },
@@ -76,7 +76,7 @@
             "Retorno",
             "Só uma direção",
             "Duas direções",
-            "Direção oposta",
+            "Direção oposta"
          ],
          "result":"1"
       },
@@ -87,7 +87,7 @@
             "Álcool etil-anídrico ou álcool isopropilico",
             "Mertiolate",
             "Álcool com uma solução de sabão",
-            "Álcool puro",
+            "Álcool puro"
          ],
          "result":"0"
       },
@@ -98,7 +98,7 @@
             "Somente as que voam acima de 8.000 Ft",
             "Todas estão erradas",
             "Somente as que voam abaixo de 8.000 Ft",
-            "Todas as aeronaves necessitam ser pressurizadas",
+            "Todas as aeronaves necessitam ser pressurizadas"
          ],
          "result":"0"
       },
@@ -109,7 +109,7 @@
             "Trem de pouso",
             "Cabine de comando",
             "Painel de controle de pressurização",
-            "Motor",
+            "Motor"
          ],
          "result":"0"
       },
@@ -120,7 +120,7 @@
             "Ela é o peso da coluna de ar sobre nós",
             "Ela é a pressão de ar sobre nós",
             "Ela é o peso do ar sobre nós",
-            "Ela somente funciona dentro dos aviões pressurizados",
+            "Ela somente funciona dentro dos aviões pressurizados"
          ],
          "result":"0"
       },
@@ -131,7 +131,7 @@
             "Usa-se resistência elétrica",
             "Usa-se trocador de calor",
             "Não usa trocador de calor",
-            "Nesse tipo de refrigeração não se usa o ar de impacto",
+            "Nesse tipo de refrigeração não se usa o ar de impacto"
          ],
          "result":"1"
       },
@@ -142,7 +142,7 @@
             "Existe um bulbo no duto de pressão que desligará o sistema",
             "Existe uma válvula de alívio de pressão que abrirá se essa não abrir",
             "Existe outra válvula igual a ela, que vai trabalhar no seu lugar se essa falhar",
-            "O piloto deverá comandar ela manualmente para abrir",
+            "O piloto deverá comandar ela manualmente para abrir"
          ],
          "result":"1"
       },
@@ -153,7 +153,7 @@
             "Avisa quando o seu elemento filtrante deve ser trocado ou limpo",
             "Separa as gotículas de água do ar frio que vai para a cabine",
             "Separa o ar quente do ar frio que vai para a cabine",
-            "Seca o ar que vai para a cabine",
+            "Seca o ar que vai para a cabine"
          ],
          "result":"1"
       },
@@ -164,7 +164,7 @@
             "Utiliza a compressão do gás e seu consecutivo aumento de temperatura",
             "Utiliza a compressão do gás e sua consecutiva diminuição de temperatura",
             "Utiliza a expansão do gás e seu consecutivo aumento de temperatura",
-            "Utiliza a expansão do gás e sua consecutiva diminuição de temperatura",
+            "Utiliza a expansão do gás e sua consecutiva diminuição de temperatura"
          ],
          "result":"3"
       },
@@ -175,7 +175,7 @@
             "Positiva e Negativa",
             "NDA",
             "Positiva",
-            "Negativa",
+            "Negativa"
          ],
          "result":"3"
       },
@@ -186,7 +186,7 @@
             "NDA",
             "21% Oxigênio, 1% de outros gases e 78% Nitrogênio",
             "78% outros gases, 21 Nitrogênio e 1% oxigênio",
-            "1% Oxigênio, 21% outros gases e 78% Nitrogênio",
+            "1% Oxigênio, 21% outros gases e 78% Nitrogênio"
          ],
          "result":"1"
       },
@@ -197,7 +197,7 @@
             "Sensor do trem de pouso principal",
             "Painel de Controle",
             "Reguladora de pressão",
-            "Válvula de fluxo de saída",
+            "Válvula de fluxo de saída"
          ],
          "result":"3"
       },
@@ -208,7 +208,7 @@
             "Uma atmosfera padrão",
             "A ciência de manter a atmosfera de um recinto em temperatura e umidade apropriadas e requeridas em função da área a ser condicionada",
             "A composição do ar atmosférico",
-            "A ciência que estuda o ar atmosférico",
+            "A ciência que estuda o ar atmosférico"
          ],
          "result":"1"
       },
@@ -219,7 +219,7 @@
             "Hidráulica",
             "Apagar o fogo",
             "Indicação de óleo",
-            "Freios",
+            "Freios"
          ],
          "result":"3"
       },
@@ -230,7 +230,7 @@
             "2.000 a 3.000",
             "3.000 a 5.000",
             "1.000 a 3.000",
-            "1.000 a 2.000",
+            "1.000 a 2.000"
          ],
          "result":"2"
       },
@@ -241,7 +241,7 @@
             "Engrenagens",
             "Pistão",
             "Rotor",
-            "Palheta",
+            "Palheta"
          ],
          "result":"3"
       },
@@ -252,7 +252,7 @@
             "A pressão atmosférica aumenta",
             "A pressão atmosférica aumenta um pouco e depois diminui",
             "A pressão atmosférica aumenta um pouco e depois fica a mesma",
-            "A pressão atmosférica diminui",
+            "A pressão atmosférica diminui"
          ],
          "result":"3"
       },
@@ -263,7 +263,7 @@
             "Para voar mais alto, gastando menos combustível",
             "Para voar mais alto, usando a temperatura fria de impacto para o ar condicionado",
             "Para suprir a falta de ar dentro dos aviões",
-            "Somente para utilizar o ar sangrado dos aviões",
+            "Somente para utilizar o ar sangrado dos aviões"
          ],
          "result":"0"
       },
@@ -274,7 +274,7 @@
             "Fazer a torça de ar dos trocadores de calor das aeronaves",
             "Suprir a falta de pressão atmosférica dentro dos aviões",
             "Pressurizar tanques e selos dos motores",
-            "Suprir ar frio dentro das aeronaves",
+            "Suprir ar frio dentro das aeronaves"
          ],
          "result":"1"
       },
@@ -285,7 +285,7 @@
             "10.000 Ft",
             "8.000 Ft",
             "12.000 Ft",
-            "9.000 Ft",
+            "9.000 Ft"
          ],
          "result":"1"
       },
@@ -296,7 +296,7 @@
             "Queremos dizer que essa é a altitude máxima da cabine numa subida",
             "A pressão interna do avião é essa, mas não necessariamente o avião está a esta altitude",
             "Somente a cabine está a esta altitude",
-            "O avião está a esta altitude",
+            "O avião está a esta altitude"
          ],
          "result":"1"
       },
@@ -307,7 +307,7 @@
             "A válvula de sangria de ar fecha e o ar que pressurizava a aeronave abre e fecha esta válvula",
             "O supercarregador abre e o ar que pressurizava a aeronave sai através dele",
             "A válvula de sangria de ar abre e o ar que pressurizava a aeronave sai por ela",
-            "A válvula de alívio de ar abre e o ar que pressurizava a aeronave sai também por ela",
+            "A válvula de alívio de ar abre e o ar que pressurizava a aeronave sai também por ela"
          ],
          "result":"2"
       },
@@ -318,7 +318,7 @@
             "Manter a pressão interna da aeronave quando a mesma estiver em voo",
             "Manter a pressão interna da aeronave quando a mesma estiver em solo",
             "Fechar quando a aeronave estiver em solo",
-            "Equalizar as pressões interna e externa de ar quando a aeronave estiver voando",
+            "Equalizar as pressões interna e externa de ar quando a aeronave estiver voando"
          ],
          "result":"0"
       },
@@ -329,7 +329,7 @@
             "Sempre acontecem, pois o sistema é falho",
             "Não acontecem",
             "Podemos detectá-los em solo",
-            "Não podemos detectá-los em solo",
+            "Não podemos detectá-los em solo"
          ],
          "result":"2"
       }
