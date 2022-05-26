@@ -5,14 +5,333 @@
    "questions":[
       {
          "number": 0,
-         "title":"title0",
+         "title":"Quando selecionamos a seletora de temperatura na cabine em uma aeronave pressurizada, estamos comandando:",
+         "options":[
+            "Válvulas de ar de impacto e de ar frio",
+            "Válvulas de ar quente",
+            "Válvulas de ar quente e de ar frio",
+            "Válvulas de ar frio",
+         ],
+         "result":"2"
+      },
+      {
+         "number": 1,
+         "title":"Em relação à pressão atmosférica, no nível do mar, podemos afirmar que:",
+         "options":[
+            "A pressão atmosférica é maior que a pressão resultante em nosso sangue dependendo da temperatura",
+            "A pressão atmosférica NUNCA é maior que a pressão resultante em nosso sangue",
+            "A pressão atmosférica é maior que a pressão resultante em nosso sangue",
+            "A pressão atmosférica NORMALMENTE é maior que a pressão resultante em nosso sangue",
+         ],
+         "result":"2"
+      },
+      {
+         "number": 2,
+         "title":"Com relação ao aquecimento a gás de exaustão para o sistema de ar condicionado, podemos afirmar que:",
+         "options":[
+            "É usado em aeronaves com motor a jato",
+            "O ar que vai para a cabine não se mistura com os gases de exaustão",
+            "Também é usado o ar de impacto para esquentar o ar que vai para a cabine",
+            "O ar que vai para a cabine se mistura com os gases de exaustão",
+         ],
+         "result":"1"
+      },
+      {
+         "number": 3,
+         "title":"Para aeronaves que voam em grandes altitudes, é exigido o sistema de oxigênio para suprir a necessidade do organismo humano, para o caso de falha do sistema de:",
+         "options":[
+            "NDA",
+            "Pressurização",
+            "Aquecimento",
+            "Resfriamento",
+         ],
+         "result":"1"
+      },
+      {
+         "number": 4,
+         "title":"Dentro de uma cabine pressurizada, os passageiros podem ser transportados confortavelmente e seguramente por longos períodos de tempo, se a altitude da cabine se mantiver?",
+         "options":[
+            "6.000 PÉS",
+            "8.000 PÉS",
+            "9.000 PÉS",
+            "7.000 PÉS",
+         ],
+         "result":"1"
+      },
+      {
+         "number": 5,
+         "title":"São usadas no sistema pneumático para prevenir danos, estamos falando de:",
          "options":[
             "opt0",
-            "opt1",
-            "opt2",
-            "opt3",
+            "Válvula de ressalto",
+            "Válvula de alivio",
+            "Bomba de alivio",
+         ],
+         "result":"1"
+      },
+      {
+         "number": 6,
+         "title":"Uma válvula pneumática unidirecional é uma válvula de controle de fluxo, ela possui:",
+         "options":[
+            "Retorno",
+            "Só uma direção",
+            "Duas direções",
+            "Direção oposta",
+         ],
+         "result":"1"
+      },
+      {
+         "number": 7,
+         "title":"A superfície externa dos componentes do sistema, tais como linhas, conexões, suportes dos montantes, usamos para limpeza?",
+         "options":[
+            "Álcool etil-anídrico ou álcool isopropilico",
+            "Mertiolate",
+            "Álcool com uma solução de sabão",
+            "Álcool puro",
          ],
          "result":"0"
+      },
+      {
+         "number": 8,
+         "title":"Todas as aeronaves necessitam ser pressurizadas?",
+         "options":[
+            "Somente as que voam acima de 8.000 Ft",
+            "Todas estão erradas",
+            "Somente as que voam abaixo de 8.000 Ft",
+            "Todas as aeronaves necessitam ser pressurizadas",
+         ],
+         "result":"0"
+      },
+      {
+         "number": 9,
+         "title":"No solo a SWITCH mantém aberta a válvula de saída de fluxo. Onde ela está localizada:",
+         "options":[
+            "Trem de pouso",
+            "Cabine de comando",
+            "Painel de controle de pressurização",
+            "Motor",
+         ],
+         "result":"0"
+      },
+      {
+         "number": 10,
+         "title":"Como podemos entender mais facilmente a pressão atmosférica?",
+         "options":[
+            "Ela é o peso da coluna de ar sobre nós",
+            "Ela é a pressão de ar sobre nós",
+            "Ela é o peso do ar sobre nós",
+            "Ela somente funciona dentro dos aviões pressurizados",
+         ],
+         "result":"0"
+      },
+      {
+         "number": 11,
+         "title":"Com relação ao sistema ciclo de ar podemos afirmar:",
+         "options":[
+            "Usa-se resistência elétrica",
+            "Usa-se trocador de calor",
+            "Não usa trocador de calor",
+            "Nesse tipo de refrigeração não se usa o ar de impacto",
+         ],
+         "result":"1"
+      },
+      {
+         "number": 12,
+         "title":"No caso de falha dessa válvula que permite que o ar pressurizado saia da aeronave:",
+         "options":[
+            "Existe um bulbo no duto de pressão que desligará o sistema",
+            "Existe uma válvula de alívio de pressão que abrirá se essa não abrir",
+            "Existe outra válvula igual a ela, que vai trabalhar no seu lugar se essa falhar",
+            "O piloto deverá comandar ela manualmente para abrir",
+         ],
+         "result":"1"
+      },
+      {
+         "number": 13,
+         "title":"Como funciona o separador de água?",
+         "options":[
+            "Avisa quando o seu elemento filtrante deve ser trocado ou limpo",
+            "Separa as gotículas de água do ar frio que vai para a cabine",
+            "Separa o ar quente do ar frio que vai para a cabine",
+            "Seca o ar que vai para a cabine",
+         ],
+         "result":"1"
+      },
+      {
+         "number": 14,
+         "title":"Com relação ao sistema de resfriamento de ar que usa freon, podemos afirmar que:",
+         "options":[
+            "Utiliza a compressão do gás e seu consecutivo aumento de temperatura",
+            "Utiliza a compressão do gás e sua consecutiva diminuição de temperatura",
+            "Utiliza a expansão do gás e seu consecutivo aumento de temperatura",
+            "Utiliza a expansão do gás e sua consecutiva diminuição de temperatura",
+         ],
+         "result":"3"
+      },
+      {
+         "number": 15,
+         "title":"A estrutura da aeronave jamais resiste a uma pressão diferencial:",
+         "options":[
+            "Positiva e Negativa",
+            "NDA",
+            "Positiva",
+            "Negativa",
+         ],
+         "result":"3"
+      },
+      {
+         "number": 16,
+         "title":"A atmosfera é composta de gases. Indique quais e a porcentagem dos mesmos:",
+         "options":[
+            "NDA",
+            "21% Oxigênio, 1% de outros gases e 78% Nitrogênio",
+            "78% outros gases, 21 Nitrogênio e 1% oxigênio",
+            "1% Oxigênio, 21% outros gases e 78% Nitrogênio",
+         ],
+         "result":"1"
+      },
+      {
+         "number": 17,
+         "title":"Qual é o elemento mais importante no sistema de pressurização:",
+         "options":[
+            "Sensor do trem de pouso principal",
+            "Painel de Controle",
+            "Reguladora de pressão",
+            "Válvula de fluxo de saída",
+         ],
+         "result":"3"
+      },
+      {
+         "number": 18,
+         "title":"Compreende-se como condicionamento de ar:",
+         "options":[
+            "Uma atmosfera padrão",
+            "A ciência de manter a atmosfera de um recinto em temperatura e umidade apropriadas e requeridas em função da área a ser condicionada",
+            "A composição do ar atmosférico",
+            "A ciência que estuda o ar atmosférico",
+         ],
+         "result":"1"
+      },
+      {
+         "number": 19,
+         "title":"Os sistemas pneumáticos são, algumas vezes, usados para:",
+         "options":[
+            "Hidráulica",
+            "Apagar o fogo",
+            "Indicação de óleo",
+            "Freios",
+         ],
+         "result":"3"
+      },
+      {
+         "number": 20,
+         "title":"Para sistemas de alta pressão, o ar é normalmente estocado em garrafas metálicas em pressões variando de.",
+         "options":[
+            "2.000 a 3.000",
+            "3.000 a 5.000",
+            "1.000 a 3.000",
+            "1.000 a 2.000",
+         ],
+         "result":"2"
+      },
+      {
+         "number": 21,
+         "title":"Muitas aeronaves equipadas com motores convencionais obtêm um suprimento de ar de baixa pressão de bombas tipo.",
+         "options":[
+            "Engrenagens",
+            "Pistão",
+            "Rotor",
+            "Palheta",
+         ],
+         "result":"3"
+      },
+      {
+         "number": 22,
+         "title":"Quanto mais eu subo em uma montanha:",
+         "options":[
+            "A pressão atmosférica aumenta",
+            "A pressão atmosférica aumenta um pouco e depois diminui",
+            "A pressão atmosférica aumenta um pouco e depois fica a mesma",
+            "A pressão atmosférica diminui",
+         ],
+         "result":"3"
+      },
+      {
+         "number": 23,
+         "title":"Por que o homem teve a necessidade primária de pressurizar as aeronaves?",
+         "options":[
+            "Para voar mais alto, gastando menos combustível",
+            "Para voar mais alto, usando a temperatura fria de impacto para o ar condicionado",
+            "Para suprir a falta de ar dentro dos aviões",
+            "Somente para utilizar o ar sangrado dos aviões",
+         ],
+         "result":"0"
+      },
+      {
+         "number": 24,
+         "title":"Qual é a finalidade do sistema de pressurização de uma aeronave, quando pressurizada?",
+         "options":[
+            "Fazer a torça de ar dos trocadores de calor das aeronaves",
+            "Suprir a falta de pressão atmosférica dentro dos aviões",
+            "Pressurizar tanques e selos dos motores",
+            "Suprir ar frio dentro das aeronaves",
+         ],
+         "result":"1"
+      },
+      {
+         "number": 25,
+         "title":"Qual é a altitude média que a cabine de uma aeronave costuma ficar em relação à pressurização?",
+         "options":[
+            "10.000 Ft",
+            "8.000 Ft",
+            "12.000 Ft",
+            "9.000 Ft",
+         ],
+         "result":"1"
+      },
+      {
+         "number": 26,
+         "title":"Quando falamos altitude de cabine, estamos querendo dizer que:",
+         "options":[
+            "Queremos dizer que essa é a altitude máxima da cabine numa subida",
+            "A pressão interna do avião é essa, mas não necessariamente o avião está a esta altitude",
+            "Somente a cabine está a esta altitude",
+            "O avião está a esta altitude",
+         ],
+         "result":"1"
+      },
+      {
+         "number": 27,
+         "title":"Quando a aeronave é despressurizada, o que acontece?",
+         "options":[
+            "A válvula de sangria de ar fecha e o ar que pressurizava a aeronave abre e fecha esta válvula",
+            "O supercarregador abre e o ar que pressurizava a aeronave sai através dele",
+            "A válvula de sangria de ar abre e o ar que pressurizava a aeronave sai por ela",
+            "A válvula de alívio de ar abre e o ar que pressurizava a aeronave sai também por ela",
+         ],
+         "result":"2"
+      },
+      {
+         "number": 28,
+         "title":"Qual é a função da válvula de sangria de ar?",
+         "options":[
+            "Manter a pressão interna da aeronave quando a mesma estiver em voo",
+            "Manter a pressão interna da aeronave quando a mesma estiver em solo",
+            "Fechar quando a aeronave estiver em solo",
+            "Equalizar as pressões interna e externa de ar quando a aeronave estiver voando",
+         ],
+         "result":"0"
+      },
+      {
+         "number": 29,
+         "title":"Em relação a vazamentos de pressurização, podemos afirmar que:",
+         "options":[
+            "Sempre acontecem, pois o sistema é falho",
+            "Não acontecem",
+            "Podemos detectá-los em solo",
+            "Não podemos detectá-los em solo",
+         ],
+         "result":"2"
       }
   ]
 }

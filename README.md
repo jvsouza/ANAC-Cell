@@ -4,7 +4,7 @@
 ## Collection of questions for the preparatory study of the theoretical exam of ANAC in aeronautical maintenance mechanics, cell group.
 > [As specified by ANAC](https://www.gov.br/anac/pt-br/assuntos/regulados/profissionais-da-aviacao-civil/processo-de-licencas-e-habilitacoes/arquivos/Port41452021ExamesteoricoseAnexos.pdf), the CHT (certificate of technical skill) is issued upon passing a theoretical knowledge exam in the respective category of activity.
 
-## For aeronautical maintenance mechanic, avionics group, the exam is composed of the basic and avionics modules. As table bellow:
+## For aeronautical maintenance mechanic, cell group, the exam is composed of the basic and cell module. As table bellow:
 | Type | Index | Progress | Contet |
 | :--: | :---: | :------: | :----- |
 | Cel | 01 | ![](https://img.shields.io/badge/-Done-success) | Technical English |
