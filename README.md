@@ -1,10 +1,10 @@
 # ANAC-Cell
-![Progress](https://progress-bar.dev/46/?title=Completed%20&width=160&color=54aeff)
+![Progress](https://progress-bar.dev/57/?title=Completed%20&width=160&color=54aeff)
 
 ## Collection of questions for the preparatory study of the theoretical exam of ANAC in aeronautical maintenance mechanics, cell group.
 > [As specified by ANAC](https://www.gov.br/anac/pt-br/assuntos/regulados/profissionais-da-aviacao-civil/processo-de-licencas-e-habilitacoes/arquivos/Port41452021ExamesteoricoseAnexos.pdf), the CHT (certificate of technical skill) is issued upon passing a theoretical knowledge exam in the respective category of activity.
 
-## For aeronautical maintenance mechanic, cell group, the exam is composed of the basic and cell module. As table bellow:
+## For aeronautical maintenance mechanic, cell group, the exam is composed of the basic and cell module. Below the cell module:
 | Type | Index | Progress | Contet |
 | :--: | :---: | :------: | :----- |
 | Cel | 01 | ![](https://img.shields.io/badge/-Done-success) | Technical English |
@@ -19,7 +19,7 @@
 | Cel | 10 | ![](https://img.shields.io/badge/-Done-success) | Communication And Navigation Systems |
 | Cel | 11 | ![](https://img.shields.io/badge/-Done-success) | Hydraulic And Landing Gear System |
 | Cel | 12 | ![](https://img.shields.io/badge/-ToDo-inactive) | Protection Systems Against The Effects Of Ice And Rain And Against Fire |
-| Cel | 13 | ![](https://img.shields.io/badge/-Doing-important) | Pneumatic And Cabin Environment Control Systems |
+| Cel | 13 | ![](https://img.shields.io/badge/-Done-success) | Pneumatic And Cabin Environment Control Systems |
 
 ## For that, I'm storing studied questions in this collection. As webpage struct bellow:
 ```text
