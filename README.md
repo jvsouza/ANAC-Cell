@@ -10,7 +10,7 @@
 | Cel | 01 | ![](https://img.shields.io/badge/-Done-success) | Technical English |
 | Cel | 02 | ![](https://img.shields.io/badge/-Doing-important) | Aircraft Structures And Flight Control Systems |
 | Cel | 03 | ![](https://img.shields.io/badge/-Done-success) | Fabricing |
-| Cel | 04 | ![](https://img.shields.io/badge/-ToDo-inactive) | Coating, Painting And Finishing Of Aircraft |
+| Cel | 04 | ![](https://img.shields.io/badge/-Doing-important) | Coating, Painting And Finishing Of Aircraft |
 | Cel | 05 | ![](https://img.shields.io/badge/-Done-success) | Repairs To Metallic Structures |
 | Cel | 06 | ![](https://img.shields.io/badge/-Done-success) | Welding In Aircraft |
 | Cel | 07 | ![](https://img.shields.io/badge/-ToDo-inactive) | Advanced Compound Materials |
@@ -35,6 +35,7 @@ page
 │   ├── cel01.json
 │   ├── cel02.json
 │   ├── cel03.json
+│   ├── cel04.json
 │   ├── cel05.json
 │   ├── cel06.json
 │   ├── cel10.json
