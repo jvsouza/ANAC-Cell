@@ -21,6 +21,10 @@
 | Cel | 12 | ![](https://img.shields.io/badge/-ToDo-inactive) | Protection Systems Against The Effects Of Ice And Rain And Against Fire |
 | Cel | 13 | ![](https://img.shields.io/badge/-Done-success) | Pneumatic And Cabin Environment Control Systems |
 
+## Mock exams were included:
+| Cel | 01 | ![](https://img.shields.io/badge/-Doing-important) | AeroTD 2020-2 |
+| Cel | 13 | ![](https://img.shields.io/badge/-ToDo-inactive) | Senai/SC 2022-1 |
+
 ## For that, I'm storing studied questions in this collection. As webpage struct bellow:
 ```text
 page
@@ -40,7 +44,8 @@ page
 │   ├── cel06.json
 │   ├── cel10.json
 │   ├── cel11.json
-│   └── cel13.json
+│   ├── cel13.json
+│   └── cel_aerotd_2020-2.json
 ├── README.md
 ├── favicon.png
 └── index.html

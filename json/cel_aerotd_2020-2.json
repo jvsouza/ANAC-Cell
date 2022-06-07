@@ -1,0 +1,229 @@
+{
+   "contentType":"Cel",
+   "contentIndex":13,
+   "courseunit": "Pneumatic And Cabin Environment Control Systems",
+   "questions":[
+      {
+         "title":"Em um sistema diretor de voo, o que ocorre com o comando “manter altitude” quando a rampa ILS é interceptada?",
+         "result":0,
+         "options":[
+            "Permanece ligado e soará um áudio de alerta informando a interceptação da rampa",
+            "O ILS não é interceptado se o comando para manter a altitude estiver ativado, para não comprometer a segurança da operação",
+            "O sistema ILS não permite seu acionamento quando outro comando foi inserido anteriormente",
+            "Ele desligará automaticamente"
+         ],
+         "number":0
+      },
+      {
+         "title":"Quais luzes cam acesas quando os trens de pouso estiverem em trânsito?",
+         "result":0,
+         "options":[
+            "Luz de aviso acesa e diagonal vermelha e listras uorescentes",
+            "Luz de aviso apagada e diagonal âmbar acesa com listras uorescentes",
+            "Luz âmbar acesa",
+            "Luz de aviso apagada e diagonal verde e listras uorescentes"
+         ],
+         "number":1
+      },
+      {
+         "title":"Qual das ferramentas abaixo, nunca devem ser usadas sem cabo de madeira, pois as pontas pontiagudas poderão ferir a mão, se a ferramenta se chocar contra algum obstáculo? Assinale a alternativa correta que identica a(s) ferramenta(s) relacionada(s) a essas características:",
+         "result":0,
+         "options":[
+            "Ferro de soldar",
+            "Alicates",
+            "Chave de fenda",
+            "Lima e raspadores"
+         ],
+         "number":2
+      },
+      {
+         "title":"Ao abastecer o sistema hidráulico de um avião:",
+         "result":0,
+         "options":[
+            "Na falta de óleo especíco, deve-se usar uma mistura de óleo mineral/vegetal",
+            "Na falta de uido especíco, pode-se empregar qualquer marca de óleo de base mineral",
+            "Deve-se empregar somente óleo do tipo especicado para o avião",
+            "Pode-se usar qualquer uído hidráulico, desde que seja limpo"
+         ],
+         "number":3
+      },
+      {
+         "title":"Um condutor central singelo isolado, com um condutor externo de revestimento metálico, dene:",
+         "result":0,
+         "options":[
+            "Cabo multicondutor",
+            "Cabo de R.F",
+            "Cabo blindado",
+            "Par torcido"
+         ],
+         "number":4
+      },
+      {
+         "title":"Quais são os pronomes relativos mais indicados para a frase abaixo? It was Cayley _________ rst stacked wings and created a tri-wing glider _________ ew a main in 1853.",
+         "result":0,
+         "options":[
+            "That / who",
+            "Who / that",
+            "Which / that",
+            "Where / when"
+         ],
+         "number":5
+      },
+      {
+         "title":"O processo de junção de metais, nos quais o material adesivo é um metal não ferroso ou uma liga, com o ponto de fusão maior que 800 º F, porém menor que o ponto de fusão do metal a ser soldado, é conhecido por?",
+         "result":0,
+         "options":[
+            "Integração",
+            "Fricção",
+            "Plasma",
+            "Brasagem"
+         ],
+         "number":6
+      },
+      {
+         "title":"A pressão diferencial é considerada positiva quando a pressão:",
+         "result":0,
+         "options":[
+            "Interna excede a externa",
+            "Igualam",
+            "Externa excede a interna",
+            "Ficam negativas"
+         ],
+         "number":7
+      },
+      {
+         "title":"Quais são os tipos de amortecedores de vibração (SHIMMY)?",
+         "result":0,
+         "options":[
+            "Rotor e Pistão",
+            "Pistão e Palheta",
+            "Engrenagem e Pistão",
+            "Palheta e Engrenagem"
+         ],
+         "number":8
+      },
+      {
+         "title":"São características consideradas problemas de pintura:",
+         "result":0,
+         "options":[
+            "Porosidade, Esticamento e ondulações.",
+            "Aderência, olhos de peixe, escorrimento.",
+            "Casca de laranja, manchas, esticamento.",
+            "Má aderência, ondulações, olhos de peixe."
+         ],
+         "number":9
+      },
+      {
+         "title":"Dois ou mais condutores isolados separadamente e torcidos juntos dene:",
+         "result":0,
+         "options":[
+            "Cabo de R.F",
+            "Cabo blindado",
+            "Par torcido",
+            "Cabo multicondutor"
+         ],
+         "number":10
+      },
+
+      {
+         "title":"Em quantas demãos a laca deve ser aplicada na pintura da aeronave?",
+         "result":0,
+         "options":[
+            "Quatro",
+            "Três",
+            "Duas",
+            "Uma"
+         ],
+         "number":11
+      },
+
+      {
+         "title":"Dispositivo que transforma ondas sonoras em sinais elétricos:",
+         "result":0,
+         "options":[
+            "Autofalante",
+            "Transmissor",
+            "Microfone",
+            "Receptor"
+         ],
+         "number":12
+      },
+      {
+         "title":"Quais são os dispositivos de segurança do trem de pouso?",
+         "result":0,
+         "options":[
+            "Tesoura, sensor e pino",
+            "Pino, indicadores e tesoura",
+            "Manetes, pinos, travamento no solo e trava mecânica",
+            "Trava mecânica do trem embaixo, interruptores de segurança e travamento de solo"
+         ],
+         "number":13
+      },
+      {
+         "title":"A pequena passagem de saída reduz a razão do uxo de ar e a velocidade de operação de uma unidade atuadora:",
+         "result":0,
+         "options":[
+            "Cross feed valve",
+            "Bomba",
+            "Válvula",
+            "Restritor"
+         ],
+         "number":14
+      },
+      {
+         "title":"É usado em aeronaves marítimas e agrícolas, devido a sua resistência a abrasão e ataques químicos:",
+         "result":0,
+         "options":[
+            "Dope",
+            "Epóxi",
+            "Poliuretano",
+            "Laca nitrocelulose"
+         ],
+         "number":15
+      },
+      {
+         "title":"É geralmente usado para encerar os de costura:",
+         "result":0,
+         "options":[
+            "Parana bruta",
+            "Cera de abelha com parana",
+            "Cera de abelha sem parana",
+            "Cera de carnaúba"
+         ],
+         "number":16
+      },
+      {
+         "title":"O modulador pode ser do tipo:",
+         "result":0,
+         "options":[
+            "AM e FM",
+            "RF e LF",
+            "HF e VHF",
+            "PTT e RT"
+         ],
+         "number":17
+      },
+      {
+         "title":"Podemos armar que pequenos pontos que se esmigalham na madeira são indicações de:",
+         "result":0,
+         "options":[
+            "Inltração",
+            "Trinca na madeira",
+            "Apodrecimento",
+            "Corrosão"
+         ],
+         "number":18
+      },
+      {
+         "title":"O tipo de teste elétrico requerido após um reparo depende do propósito do radome. Alguns testes elétricos típicos são:",
+         "result":0,
+         "options":[
+            "Isolamento, deexão ou refração",
+            "Transmissividade, reexão por incidência e deexão ou refração",
+            "Isolamento, reexão por incidência e deexão ou refração",
+            "Condutividade, refração"
+         ],
+         "number":19
+      }
+   ]
+}
