@@ -224,6 +224,146 @@
             "Condutividade, refração"
          ],
          "number":19
+      },
+      {
+         "title":"Dois ou mais condutores isolados separadamente e no mesmo invólucro, dene:",
+         "result":0,
+         "options":[
+            "Cabo blindado",
+            "Cabo de R.F",
+            "Cabo multicondutor",
+            "Par torcido"
+         ],
+         "number":1
+      },
+
+      {
+         "title":"Quando acionamos o interruptor do PTT (microfone) o que ocorre:",
+         "result":0,
+         "options":[
+            "Tanto o receptor como o transmissor desliga",
+            "Tanto o receptor como o transmissor liga",
+            "O receptor desliga e o transmissor liga",
+            "O transmissor desliga e o receptor liga"
+         ],
+         "number":1
+      },
+
+      {
+         "title":"Os dutos condutores são feitos de ligas de:",
+         "result":0,
+         "options":[
+            "Fibras de vidro e ange",
+            "Alumínio titânico, aço inoxidável",
+            "Antimônio, isolantes de calor",
+            "Aço inoxidável, revestimento isolante"
+         ],
+         "number":1
+      },
+
+      {
+         "title":"As superfícies a serem coladas devem sempre estar:",
+         "result":0,
+         "options":[
+            "Secas, com uma camada na de tinta e livres de graxa ou óleo",
+            "Úmidas, livres de óleo ou cera",
+            "Não precisa de uma limpeza para aplicação de cola",
+            "Limpas, secas, livres de graxa, óleo, cera, tinta, etc"
+         ],
+         "number":1
+      },
+
+      {
+         "title":"Os sistemas de direção da roda do nariz das aeronaves são:",
+         "result":0,
+         "options":[
+            "Pelos pedais em aeronaves pesadas e pelo volante em aeronaves leves",
+            "Somente pelo steering",
+            "Pelos pedais em aeronaves leves e por uma fonte de força para a direção da roda de nariz em aeronaves pesadas",
+            "Somente pelos pedais"
+         ],
+         "number":1
+      },
+
+      {
+         "title":"Os ailerons são operados por um movimento:",
+         "result":0,
+         "options":[
+            "Lateral do manche ou pelo movimento longitudinal do volante",
+            "Longitudinal do manche",
+            "Lateral do manche ou pelo movimento de rotação do volante",
+            "Longitudinal do manche ou pelo movimento de rotação do volante"
+         ],
+         "number":1
+      },
+
+      {
+         "title":"Quais são os três tipos de sistemas de controle de voo geralmente usados?",
+         "result":0,
+         "options":[
+            "Cabo, hastes rígidas e tubo de torque",
+            "Tubo de torque, tubo de compensação e engate",
+            "Hastes semirrígidas, rígidas e maleáveis",
+            "Cabo, os e por eixos extensivos"
+         ],
+         "number":1
+      },
+
+      {
+         "title":"A válvula de corte do sistema de ar condicionado é conhecida na prática como:",
+         "result":0,
+         "options":[
+            "Dump Valve",
+            "Bleed air shut off valve",
+            "Out Flow",
+            "Válvula de saída de ar"
+         ],
+         "number":1
+      },
+
+      {
+         "title":"É uma tira de metal que fundirá sob excessivo uxo de corrente, já que seu limite de condução é cuidadosamente pré-determinado, dene:",
+         "result":0,
+         "options":[
+            "Cablagem",
+            "Circuit Break",
+            "Disjuntor",
+            "Fusível"
+         ],
+         "number":1
+      },
+
+      {
+         "title":"O que faz um inversor?",
+         "result":0,
+         "options":[
+            "Modula um sinal de RF",
+            "Transforma corrente alternada em contínua",
+            "Transforma corrente contínua em alternada",
+            "Inverte o sinal de entrada"
+         ],
+         "number":1
+      },
+
+      {
+         "title":"O tempo máximo permitido para o armazenamento de um pré-impregnado a baixa temperatura é denominado?",
+         "result":0,
+         "options":[
+            "Tempo de restinga",
+            "Tempo derivado",
+            "Tempo de cura",
+            "Tempo de armazenamento"
+         ],
+         "number":1
       }
+
+
+
+
+
+
+
+
+
    ]
 }

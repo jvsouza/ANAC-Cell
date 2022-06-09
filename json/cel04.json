@@ -4,15 +4,334 @@
    "courseunit":"Coating, Painting And Finishing Of Aircraft",
    "questions":[
       {
-         "title":"t4",
-         "result":0,
+         "title":"O principal objetivo da pintura de uma aeronave é:",
+         "result":3,
          "options":[
-            "opt0",
-            "opt1",
-            "opt2",
-            "opt3"
+            "Aumentar a visibilidade da aeronave",
+            "Reduz o brilho com revestimentos não reflexivos",
+            "Reduz a absorção de calor através de cores claras",
+            "Proteger a superfície contra deterioração"
          ],
          "number":0
+      },
+      {
+         "title":"As lacas de nitrocelulose estão disponíveis:",
+         "result":1,
+         "options":[
+            "Tanto para acabamento brilhante como pulverizado",
+            "Tanto para acabamento brilhante como fosco",
+            "Tanto para acabamento brilhante como áspero",
+            "Tanto para acabamento liso como áspero"
+         ],
+         "number":1
+      },
+      {
+         "title":"Usado como catalisador para endurecimento de resina de poliéster e como meio de extração para gorduras, óleos, ceras e resinas",
+         "result":2,
+         "options":[
+            "Metanol (Álcool metílico)",
+            "Acetona",
+            "MEK (Metil Etil Cetona)",
+            "Benzeno"
+         ],
+         "number":2
+      },
+      {
+         "title":"Como forma protetiva para o sistema respiratório, durante o processo de pintura deve-se usar:",
+         "result":2,
+         "options":[
+            "Respirador de tecido",
+            "Máscara de plástico",
+            "Respirador com filtro de carvão",
+            "Máscara descartável"
+         ],
+         "number":3
+      },
+      {
+         "title":"Tal solvente não deve ser utilizado como diluente em dope devido à sua rápida ação de secagem o que provoca um resfriamento na área dopada, além da formação de umidade:",
+         "result":2,
+         "options":[
+            "Benzeno",
+            "Butanol (Álcool butílico)",
+            "Acetona",
+            "Isopropanol (Álcool Isopropílico)"
+         ],
+         "number":4
+      },
+      {
+         "title":"A aplicação de Metil Etil Cetona desbotará que tipo de acabamento de pintura?",
+         "result":1,
+         "options":[
+            "Verniz",
+            "Acrílico",
+            "Nitrocelulose",
+            "Epóxi"
+         ],
+         "number":5
+      },
+      {
+         "title":"É um solvente líquido, insolúvel em água obtido através da destilação de certos pinheiros?",
+         "result":3,
+         "options":[
+            "Acetona",
+            "Benzeno",
+            "Isopropanol",
+            "Terebintina"
+         ],
+         "number":6
+      },
+      {
+         "title":"Os solventes Butanol e Etanol são usados juntos quando da aplicação com pistola para diluir:",
+         "result":1,
+         "options":[
+            "Esmalte",
+            "Primer",
+            "Tinta",
+            "Verniz"
+         ],
+         "number":7
+      },
+      {
+         "title":"O solvente Terebintina é usado como diluente acelerador de secagem para vernizes, esmaltes e outras tintas à base de:",
+         "result":3,
+         "options":[
+            "Ácido",
+            "Álcool",
+            "Água",
+            "Óleo"
+         ],
+         "number":8
+      },
+      {
+         "title":"Produto que introduziu o visual molhado e possui propriedades resistentes a abrasão, manchas e produtos químicos:",
+         "result":0,
+         "options":[
+            "Poliuretano",
+            "Terebintina",
+            "Tolueno",
+            "Álcool Isopropílico"
+         ],
+         "number":9
+      },
+      {
+         "title":"Um redutor de secagem é utilizado quando:",
+         "result":0,
+         "options":[
+            "Um aumento nas propriedades secativas é desejada",
+            "Uma diminuição nas propriedades secativas é desejada",
+            "Um aumento na viscosidade é desejada",
+            "Uma diminuição na viscosidade é desejada"
+         ],
+         "number":10
+      },
+      {
+         "title":"A tinta é composta pelos seguintes componentes:",
+         "result":1,
+         "options":[
+            "Álcool, Solvente e Primer",
+            "Resina, Pigmento e Solventes",
+            "Verniz, Solvente e Álcool",
+            "Resina, Solvente e Pigmento"
+         ],
+         "number":11
+      },
+      {
+         "title":"Que equipamento deve ser utilizado para efetuar a mistura:",
+         "result":0,
+         "options":[
+            "Um bastão de madeira",
+            "Um agitador mecânico pneumático",
+            "Somente um agitador mecânico elétrico",
+            "Um bastão de plástico"
+         ],
+         "number":12
+      },
+      {
+         "title":"Como é feito a medição da viscosidade do revestimento líquido?",
+         "result":0,
+         "options":[
+            "Através de gotejamento",
+            "Através de um medidor de vazão denominado copo Zahn",
+            "Através do tempo de secagem",
+            "Através do tempo de escorrimento da tinta aplicada na superfície"
+         ],
+         "number":13
+      },
+      {
+         "title":"O solvente para verniz é usado para:",
+         "result":2,
+         "options":[
+            "Reduzir o material da camada sobreposta",
+            "Diluir a laca de nitrocelulose acrílica",
+            "Dar consistência adequada à aplicação com pistola",
+            "Diluir a base modificada"
+         ],
+         "number":14
+      },
+      {
+         "title":"Para identificar o tipo de tinta usado na pintura, quando se aplicar óleo de motor numa pequena superfície, qual acabamento amolecerá rapidamente?",
+         "result":0,
+         "options":[
+            "Nitrocelulose",
+            "Acrílico",
+            "Epóxi",
+            "Verniz"
+         ],
+         "number":15
+      },
+      {
+         "title":"Qual das alternativas abaixo é um diluidor para qualquer um dos numerosos tipos de primers?",
+         "result":0,
+         "options":[
+            "Thinner",
+            "Tolueno",
+            "Benzeno",
+            "Acetona"
+         ],
+         "number":16
+      },
+      {
+         "title":"Usado como diluidor de goma-laca e também como componente de removedor para tintas e vernizes:",
+         "result":1,
+         "options":[
+            "Álcool metílico+Álcool Etílico",
+            "Álcool Desnaturado",
+            "Álcool butílico",
+            "Álcool metílico"
+         ],
+         "number":17
+      },
+      {
+         "title":"Os materiais de acabamento devem ser armazenados:",
+         "result":2,
+         "options":[
+            "Em local sujo e com fonte de calor",
+            "Em locais fechados",
+            "Em gabinetes à prova de fogo",
+            "Em ambientes próximos a fonte de calor"
+         ],
+         "number":18
+      },
+      {
+         "title":"Quando apenas um painel tiver que ser repintado, o mascaramento deverá ser feito:",
+         "result":1,
+         "options":[
+            "Em toda a aeronave",
+            "Até a linha de união mais próxima",
+            "Não se faz mascaramento",
+            "Nenhuma das alternativas"
+         ],
+         "number":19
+      },
+      {
+         "title":"Qual dos solventes abaixo pode ser usado como removedor em acabamento fluorescente?",
+         "result":0,
+         "options":[
+            "Toluol (Tolueno)",
+            "Propanona (Acetona)",
+            "Butanol (Álcool butílico)",
+            "Etanol (Álcool etílico)"
+         ],
+         "number":20
+      },
+      {
+         "title":"Tal produto seca rapidamente e pode ser aplicada em camadas finas:",
+         "result":0,
+         "options":[
+            "Laca",
+            "Esmalte sintético",
+            "Primer",
+            "Poliuretano"
+         ],
+         "number":21
+      },
+      {
+         "title":"Tem como principal resultado final numa superfície uma película suave, flexível e homogênea:",
+         "result":3,
+         "options":[
+            "Água",
+            "Tinta",
+            "Verniz",
+            "Dope"
+         ],
+         "number":22
+      },
+      {
+         "title":"Para uma boa pintura deve-se:",
+         "result":1,
+         "options":[
+            "Lixar e pintar com qualquer pincel",
+            "Preparar a superfície e checar as condições da pistola quanto ao correto funcionamento",
+            "Utilizar a tinta sem diluir",
+            "Utilizar qualquer produto para diluir a tinta, desde que fique na viscosidade correta"
+         ],
+         "number":23
+      },
+      {
+         "title":"O ambiente ideal para se pintar uma aeronave:",
+         "result":1,
+         "options":[
+            "Externo e na sombra",
+            "Interno e bem iluminado",
+            "Externo e ao sol",
+            "Externo e frio"
+         ],
+         "number":24
+      },
+      {
+         "title":"Quando uma superfície pintada estiver muito deteriorada:",
+         "result":1,
+         "options":[
+            "Deverá ser retocada em duas etapas",
+            "Deverá ser isolada com máscara antes da pintura o painel inteiro",
+            "Deverá ser pintado",
+            "Deverá ser aplicada uma camada única de laca"
+         ],
+         "number":25
+      },
+      {
+         "title":"O acabamento em aeronaves pode ser classificado em três classes gerais:",
+         "result":0,
+         "options":[
+            "De proteção; de aparência; de decoração",
+            "Ruim; razoável; perfeito",
+            "Baixa; média; alta",
+            "De proteção; de exposição; de reflexão"
+         ],
+         "number":26
+      },
+      {
+         "title":"Solvente adequado para remoção de graxa de telas antes da dopagem, limpeza de pistolas de pinturas, e como um ingrediente em removedores de tintas e vernizes:",
+         "result":0,
+         "options":[
+            "Acetona",
+            "Butanol (Álcool butílico)",
+            "Isopropanol (Álcool isopropílico)",
+            "Benzeno"
+         ],
+         "number":27
+      },
+      {
+         "title":"Os tipos de verniz utilizados em aeronaves são:",
+         "result":2,
+         "options":[
+            "Alta viscosidade; média viscosidade; baixa viscosidade",
+            "Espesso; flexível; brilhante",
+            "Transparente; semi-pigmentado; pigmentado",
+            "Concentrado; diluído; pulverizado"
+         ],
+         "number":28
+      },
+      {
+         "title":"Usado como diluente na formulação de soluções para limpeza do sistema de oxigênio:",
+         "result":3,
+         "options":[
+            "Acetona",
+            "Álcool desnaturado",
+            "Álcool etílico",
+            "Álcool isopropílico"
+         ],
+         "number":29
       }
    ]
 }
