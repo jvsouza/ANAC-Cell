@@ -1,11 +1,11 @@
 {
    "contentType":"Cel",
    "contentIndex":13,
-   "courseunit": "Pneumatic And Cabin Environment Control Systems",
+   "courseunit":"Pneumatic And Cabin Environment Control Systems",
    "questions":[
       {
          "title":"Em um sistema diretor de voo, o que ocorre com o comando “manter altitude” quando a rampa ILS é interceptada?",
-         "result":0,
+         "result":3,
          "options":[
             "Permanece ligado e soará um áudio de alerta informando a interceptação da rampa",
             "O ILS não é interceptado se o comando para manter a altitude estiver ativado, para não comprometer a segurança da operação",
@@ -18,7 +18,7 @@
          "title":"Quais luzes cam acesas quando os trens de pouso estiverem em trânsito?",
          "result":0,
          "options":[
-            "Luz de aviso acesa e diagonal vermelha e listras uorescentes",
+            "Luz de aviso acesa e diagonal vermelha e listras fluorescentes",
             "Luz de aviso apagada e diagonal âmbar acesa com listras uorescentes",
             "Luz âmbar acesa",
             "Luz de aviso apagada e diagonal verde e listras uorescentes"
@@ -26,8 +26,8 @@
          "number":1
       },
       {
-         "title":"Qual das ferramentas abaixo, nunca devem ser usadas sem cabo de madeira, pois as pontas pontiagudas poderão ferir a mão, se a ferramenta se chocar contra algum obstáculo? Assinale a alternativa correta que identica a(s) ferramenta(s) relacionada(s) a essas características:",
-         "result":0,
+         "title":"Qual das ferramentas abaixo, nunca devem ser usadas sem cabo de madeira, pois as pontas pontiagudas poderão ferir a mão, se a ferramenta se chocar contra algum obstáculo?",
+         "result":3,
          "options":[
             "Ferro de soldar",
             "Alicates",
@@ -38,7 +38,7 @@
       },
       {
          "title":"Ao abastecer o sistema hidráulico de um avião:",
-         "result":0,
+         "result":2,
          "options":[
             "Na falta de óleo especíco, deve-se usar uma mistura de óleo mineral/vegetal",
             "Na falta de uido especíco, pode-se empregar qualquer marca de óleo de base mineral",
@@ -48,8 +48,8 @@
          "number":3
       },
       {
-         "title":"Um condutor central singelo isolado, com um condutor externo de revestimento metálico, dene:",
-         "result":0,
+         "title":"Um condutor central singelo isolado, com um condutor externo de revestimento metálico, define:",
+         "result":1,
          "options":[
             "Cabo multicondutor",
             "Cabo de R.F",
@@ -60,7 +60,7 @@
       },
       {
          "title":"Quais são os pronomes relativos mais indicados para a frase abaixo? It was Cayley _________ rst stacked wings and created a tri-wing glider _________ ew a main in 1853.",
-         "result":0,
+         "result":1,
          "options":[
             "That / who",
             "Who / that",
@@ -71,7 +71,7 @@
       },
       {
          "title":"O processo de junção de metais, nos quais o material adesivo é um metal não ferroso ou uma liga, com o ponto de fusão maior que 800 º F, porém menor que o ponto de fusão do metal a ser soldado, é conhecido por?",
-         "result":0,
+         "result":3,
          "options":[
             "Integração",
             "Fricção",
@@ -93,7 +93,7 @@
       },
       {
          "title":"Quais são os tipos de amortecedores de vibração (SHIMMY)?",
-         "result":0,
+         "result":1,
          "options":[
             "Rotor e Pistão",
             "Pistão e Palheta",
@@ -104,7 +104,7 @@
       },
       {
          "title":"São características consideradas problemas de pintura:",
-         "result":0,
+         "result":3,
          "options":[
             "Porosidade, Esticamento e ondulações.",
             "Aderência, olhos de peixe, escorrimento.",
@@ -115,7 +115,7 @@
       },
       {
          "title":"Dois ou mais condutores isolados separadamente e torcidos juntos dene:",
-         "result":0,
+         "result":2,
          "options":[
             "Cabo de R.F",
             "Cabo blindado",
@@ -124,7 +124,6 @@
          ],
          "number":10
       },
-
       {
          "title":"Em quantas demãos a laca deve ser aplicada na pintura da aeronave?",
          "result":0,
@@ -136,10 +135,9 @@
          ],
          "number":11
       },
-
       {
          "title":"Dispositivo que transforma ondas sonoras em sinais elétricos:",
-         "result":0,
+         "result":2,
          "options":[
             "Autofalante",
             "Transmissor",
@@ -150,7 +148,7 @@
       },
       {
          "title":"Quais são os dispositivos de segurança do trem de pouso?",
-         "result":0,
+         "result":3,
          "options":[
             "Tesoura, sensor e pino",
             "Pino, indicadores e tesoura",
@@ -161,7 +159,7 @@
       },
       {
          "title":"A pequena passagem de saída reduz a razão do uxo de ar e a velocidade de operação de uma unidade atuadora:",
-         "result":0,
+         "result":3,
          "options":[
             "Cross feed valve",
             "Bomba",
@@ -172,7 +170,7 @@
       },
       {
          "title":"É usado em aeronaves marítimas e agrícolas, devido a sua resistência a abrasão e ataques químicos:",
-         "result":0,
+         "result":2,
          "options":[
             "Dope",
             "Epóxi",
@@ -182,8 +180,8 @@
          "number":15
       },
       {
-         "title":"É geralmente usado para encerar os de costura:",
-         "result":0,
+         "title":"É geralmente usado para encerar os fios de costura:",
+         "result":2,
          "options":[
             "Parana bruta",
             "Cera de abelha com parana",
@@ -204,8 +202,8 @@
          "number":17
       },
       {
-         "title":"Podemos armar que pequenos pontos que se esmigalham na madeira são indicações de:",
-         "result":0,
+         "title":"Podemos afirmar que pequenos pontos que se esmigalham na madeira são indicações de:",
+         "result":2,
          "options":[
             "Inltração",
             "Trinca na madeira",
@@ -216,7 +214,7 @@
       },
       {
          "title":"O tipo de teste elétrico requerido após um reparo depende do propósito do radome. Alguns testes elétricos típicos são:",
-         "result":0,
+         "result":1,
          "options":[
             "Isolamento, deexão ou refração",
             "Transmissividade, reexão por incidência e deexão ou refração",
@@ -227,76 +225,70 @@
       },
       {
          "title":"Dois ou mais condutores isolados separadamente e no mesmo invólucro, dene:",
-         "result":0,
+         "result":2,
          "options":[
             "Cabo blindado",
             "Cabo de R.F",
             "Cabo multicondutor",
             "Par torcido"
          ],
-         "number":1
+         "number":20
       },
-
       {
          "title":"Quando acionamos o interruptor do PTT (microfone) o que ocorre:",
-         "result":0,
+         "result":2,
          "options":[
             "Tanto o receptor como o transmissor desliga",
             "Tanto o receptor como o transmissor liga",
             "O receptor desliga e o transmissor liga",
             "O transmissor desliga e o receptor liga"
          ],
-         "number":1
+         "number":21
       },
-
       {
          "title":"Os dutos condutores são feitos de ligas de:",
-         "result":0,
+         "result":1,
          "options":[
             "Fibras de vidro e ange",
             "Alumínio titânico, aço inoxidável",
             "Antimônio, isolantes de calor",
             "Aço inoxidável, revestimento isolante"
          ],
-         "number":1
+         "number":22
       },
-
       {
          "title":"As superfícies a serem coladas devem sempre estar:",
-         "result":0,
+         "result":3,
          "options":[
             "Secas, com uma camada na de tinta e livres de graxa ou óleo",
             "Úmidas, livres de óleo ou cera",
             "Não precisa de uma limpeza para aplicação de cola",
             "Limpas, secas, livres de graxa, óleo, cera, tinta, etc"
          ],
-         "number":1
+         "number":23
       },
-
       {
          "title":"Os sistemas de direção da roda do nariz das aeronaves são:",
-         "result":0,
+         "result":2,
          "options":[
             "Pelos pedais em aeronaves pesadas e pelo volante em aeronaves leves",
             "Somente pelo steering",
             "Pelos pedais em aeronaves leves e por uma fonte de força para a direção da roda de nariz em aeronaves pesadas",
             "Somente pelos pedais"
          ],
-         "number":1
+         "number":24
       },
-
       {
          "title":"Os ailerons são operados por um movimento:",
-         "result":0,
+         "result":1,
          "options":[
             "Lateral do manche ou pelo movimento longitudinal do volante",
             "Longitudinal do manche",
             "Lateral do manche ou pelo movimento de rotação do volante",
             "Longitudinal do manche ou pelo movimento de rotação do volante"
          ],
-         "number":1
+         "number":25
       },
-
       {
          "title":"Quais são os três tipos de sistemas de controle de voo geralmente usados?",
          "result":0,
@@ -306,64 +298,1030 @@
             "Hastes semirrígidas, rígidas e maleáveis",
             "Cabo, os e por eixos extensivos"
          ],
-         "number":1
+         "number":26
       },
-
       {
          "title":"A válvula de corte do sistema de ar condicionado é conhecida na prática como:",
-         "result":0,
+         "result":1,
          "options":[
             "Dump Valve",
             "Bleed air shut off valve",
             "Out Flow",
             "Válvula de saída de ar"
          ],
-         "number":1
+         "number":27
       },
-
       {
          "title":"É uma tira de metal que fundirá sob excessivo uxo de corrente, já que seu limite de condução é cuidadosamente pré-determinado, dene:",
-         "result":0,
+         "result":3,
          "options":[
             "Cablagem",
             "Circuit Break",
             "Disjuntor",
             "Fusível"
          ],
-         "number":1
+         "number":28
       },
-
       {
          "title":"O que faz um inversor?",
-         "result":0,
+         "result":2,
          "options":[
             "Modula um sinal de RF",
             "Transforma corrente alternada em contínua",
             "Transforma corrente contínua em alternada",
             "Inverte o sinal de entrada"
          ],
-         "number":1
+         "number":29
       },
-
       {
          "title":"O tempo máximo permitido para o armazenamento de um pré-impregnado a baixa temperatura é denominado?",
-         "result":0,
+         "result":3,
          "options":[
             "Tempo de restinga",
             "Tempo derivado",
             "Tempo de cura",
             "Tempo de armazenamento"
          ],
-         "number":1
+         "number":30
+      },
+      {
+         "title":"Em que tipo de falha o reparo é considerado como uma junta de topo, com a união das bordas porsoldagem, uso de vareta de enchimento e execução de furos de alívio?",
+         "result":1,
+         "options":[
+            "Corrosão",
+            "Rachadura",
+            "Fadiga",
+            "Dilatação"
+         ],
+         "number":31
+      },
+      {
+         "title":"Fluidos degeladores normalmente são compostos de:",
+         "result":1,
+         "options":[
+            "Butil-etil-cetona",
+            "Etileno glicol e álcool isopropílico",
+            "Álcool isopropílico e anticongelantes estáveis",
+            "Polietileno e álcool isopropílico  "
+         ],
+         "number":32
+      },
+      {
+         "title":"Produzem um acabamento duro e semiexível que pode ser polido para um alto brilho:   ",
+         "result":2,
+         "options":[
+            "Poliuretano",
+            "Revestimento de Uretano.",
+            "Lacas",
+            "Esmalte Sintético"
+         ],
+         "number":33
+      },
+      {
+         "title":"A fita de superfície de algodão pode serusada com:",
+         "result":0,
+         "options":[
+            "Algodão tipo A, linho ou dacron",
+            "Algodão tipo A, linho ou bra de vidro",
+            "Algodão tipo B, bra de vidro",
+            "Algodão tipo B, linho ou dacron"
+         ],
+         "number":34
+      },
+      {
+         "title":"O processo que consiste fundamentalmente na queima ou oxidação rápida do metal em uma árealocalizada é conhecido como?",
+         "result":3,
+         "options":[
+            "Fusão de metais usando plasma",
+            "Corte de metais usando brasagem",
+            "Fusão de metais usando brasagem",
+            "Corte de metais usando oxiacetileno"
+         ],
+         "number":35
+      },
+      {
+         "title":"Que tipo de soldagem é utilizado em metais como cobre, latão e ferro revestido ou onde se deseja uma junta àprova de vazamentos?",
+         "result":3,
+         "options":[
+            "De arco de plasma",
+            "Por arco voltaico",
+            "Com passe múltiplo",
+            "Tipo Macia"
+         ],
+         "number":36
+      },
+      {
+         "title":"Sistema de comunicação que utiliza um acoplador:",
+         "result":2,
+         "options":[
+            "UHF",
+            "ADF",
+            "HF",
+            "VHF"
+         ],
+         "number":37
+      },
+      {
+         "title":"De acordo com otexto, o que é um suporte de carga?Charging stand (air conditioning servisse equipment). A handy andcompact arrangement o fair conditioning servicing equipment. A chargingstand contains a vacum pum, a manifold gauge set, and a method ofmeasuring and dispensing the refrigerante",
+         "result":0,
+         "options":[
+            "Uma disposição prática e compacta de equipamentos demanutenção de ar condicionado.",
+            "Um conjunto de manómetros.",
+            "Uma bomba de vácuo.",
+            "Um método de medição e distribuição do refrigerador. "
+         ],
+         "number":38
+      },
+      {
+         "title":"Com relação ao aquecimento à combustãopara o sistema de ar condicionado podemos armar que:",
+         "result":0,
+         "options":[
+            "É uma turbina",
+            "Também têm resistência",
+            "Também usa ar de impacto",
+            "É um motor elétrico"
+         ],
+         "number":39
+      },
+      {
+         "title":"Dentre as superfícies abaixo, indique aquela que não necessita de mascaramento para aplicação de removedor:",
+         "result":3,
+         "options":[
+            "Borracha",
+            "Plástico",
+            "Acrílico",
+            "Metal"
+         ],
+         "number":40
+      },
+      {
+         "title":"Qual é o produto mais utilizado em pinturaa óleo deixando a tinta mais uida, transparente e brilhante?",
+         "result":0,
+         "options":[
+            "Óleo de linhaça.",
+            "Acetona ou Benzeno.",
+            "Água ou água destilada.",
+            "Ácido sulfúrico ou Ácido fólico."
+         ],
+         "number":41
+      },
+      {
+         "title":"Que fatores contribuem para gerar ump roblema de pintura?",
+         "result":0,
+         "options":[
+            "Pistola obstruída, Diluição inadequada, superfície com vestígios deóleo.",
+            "Pistola em perfeitas condições, pressão adequada do sistema de ar.",
+            "Superfície livre de impurezas, temperatura ideal, diluição correta.",
+            "Boa mistura, temperatura ideal, correto diluidor"
+         ],
+         "number":42
+      },
+      {
+         "title":"Qual é o método mais comum de colagem de plásticos transparentes?",
+         "result":0,
+         "options":[
+            "Método molhado",
+            "Método vaporização",
+            "Método único",
+            "Método seco"
+         ],
+         "number":43
+      },
+      {
+         "title":"Qual é o efeito do calor da solda sobre osmetais?",
+         "result":0,
+         "options":[
+            "Dilatação",
+            "Brasagem",
+            "Fricção",
+            "Contração"
+         ],
+         "number":44
+      },
+      {
+         "title":"As luzes de posição, anticolisão e de táxi,são exemplos comuns de luzes:",
+         "result":1,
+         "options":[
+            "Luzes de ponta de asa",
+            "Externas",
+            "Internas",
+            "Luzes de pouso"
+         ],
+         "number":45
+      },
+      {
+         "title":"Componente que tanto transmite como recebe ondas eletromagnéticas:",
+         "result":1,
+         "options":[
+            "Transmissor",
+            "Transceptor",
+            "Acoplador",
+            "Receptor"
+         ],
+         "number":46
+      },
+      {
+         "title":"Quais são os tipos de sistemas de freio usados?",
+         "result":1,
+         "options":[
+            "Tipo carretel, tipo esfera e redutores",
+            "Sistema independente, sistema de controle de força e sistema dereforço de força",
+            "Sistema de reforço de força, sistema independente e redutores",
+            "Sistema independente, sistema de reforço de força e tipo carretel "
+         ],
+         "number":47
+      },
+      {
+         "title":"Sistema de comunicação cujo alcance se limita a linha do horizonte:",
+         "result":1,
+         "options":[
+            "ELF",
+            "VHF",
+            "LF",
+            "HF"
+         ],
+         "number":48
+      },
+      {
+         "title":"A fita de superfície também é chamada de:",
+         "result":1,
+         "options":[
+            "Fita de reforço",
+            "Fita de acabamento",
+            "Fita de segurança",
+            "Fita anti rasgo  "
+         ],
+         "number":49
+      },
+      {
+         "title":"O ar do compressor, antes de entrar nacabine passa pelo sistema de:",
+         "result":1,
+         "options":[
+            "Congelamento",
+            "Refrigeração",
+            "Aquecimento",
+            "Nenhuma das alternativas acima"
+         ],
+         "number":50
+      },
+      {
+         "title":"São Válvulas que atuam como unidadeslimitadoras de pressão, e previnem contra pressões excessivas, quepoderiam romper as linhas e destruir os selos:",
+         "result":0,
+         "options":[
+            "Alívio",
+            "Fluxo reserva",
+            "De controle",
+            "De corte"
+         ],
+         "number":51
+      },
+      {
+         "title":"Necessidade de tratamento térmico eremoção do uxo de todo o metal após a soldagem, devido a possibilidadede corrosão, são limitações da soldagem em que tipo de metal?",
+         "result":1,
+         "options":[
+            "Titânio",
+            "Magnésio",
+            "Ferro",
+            "Aço"
+         ],
+         "number":52
+      },
+      {
+         "title":"Nos fatores que afetam a seleção da bitolado o, um deles é a capacidade de conduzir:",
+         "result":3,
+         "options":[
+            "Tensão",
+            "Potência",
+            "Resistência",
+            "Corrente"
+         ],
+         "number":53
+      },
+      {
+         "title":"Leia o texto abaixo e assinale a alternativa correta para pergunta: Qual éa ideia principal do texto?TEMPERATURE AND ALTITUDETemperature variations in the atmosphere are of concern to aviators.Weather systems produce changes in temperature near the earth’s surface.Temperature also changes as altitude is increase",
+         "result":3,
+         "options":[
+            "A variação de temperatura nas superfícies terrestres.",
+            "A variação de temperatura na mudança dos hemisférios a partir dalinha do equador.",
+            "A variação de temperatura nas aeronaves.",
+            "A variação de temperatura nas diferentes camadas da atmosfera"
+         ],
+         "number":54
+      },
+      {
+         "title":"Não se usa água em fogo de classe B, pois ela irá:",
+         "result":2,
+         "options":[
+            "Apagar o fogo",
+            "Espalhar o fogo",
+            "Cessar o fogo",
+            "Nenhuma das alternativas acima"
+         ],
+         "number":55
+      },
+      {
+         "title":"Tecidos de bra de vidro quandocosturados, são com:",
+         "result":2,
+         "options":[
+            "Fios de bra de vidro",
+            "Fios de algodão",
+            "Fios sintéticos especiais",
+            "Fios de dacron"
+         ],
+         "number":56
+      },
+      {
+         "title":"Qual é a melhor tradução da palavra to nafrase abaixo?The pilot only noticed when he tried to rotate off the runway and foundthe nose very heavy.",
+         "result":2,
+         "options":[
+            "O piloto só percebeu quando ele tentou fora fazer a rotação da pistae achou o nariz muito pesado.",
+            "O piloto só percebeu quando ele tentou de fora da rotação da pista eachou o nariz muito pesado.",
+            "O piloto só percebeu quando ele tentou girar pra fora da pista eachou o nariz muito pesado.",
+            "O piloto só percebeu quando ele tentou para a rotação fora da pistae achou o nariz muito pesado."
+         ],
+         "number":57
+      },
+      {
+         "title":"Os guias nunca alteram o alinhamento docabo mais do que:",
+         "result":1,
+         "options":[
+            "5 graus da linha reta",
+            "3 graus da linha reta",
+            "4 graus da linha reta",
+            "6 graus da linha reta"
+         ],
+         "number":58
+      },
+      {
+         "title":"A maioria dos materiais diluidores tem umponto de fulgor:",
+         "result":2,
+         "options":[
+            "Padrão",
+            "Muito alto.",
+            "Muito baixo.",
+            "Variável"
+         ],
+         "number":59
+      },
+      {
+         "title":"Quais são as posições de soldagem?",
+         "result":3,
+         "options":[
+            "Transversal, horizontal, plana e sobre cabeça",
+            "Para frente, para trás, chata e plana",
+            "Chata ou plana, horizontal, transversal e para trás",
+            "Chata ou plana, horizontal, vertical e sobre cabeça"
+         ],
+         "number":60
+      },
+      {
+         "title":"A cola utilizada no reparo de aeronavesenquadra-se em dois grupos gerais:",
+         "result":3,
+         "options":[
+            "Cola líquida e de contato",
+            "Cola ativa e reativa",
+            "Cafeínas e resinas",
+            "Caseínas e resinas  "
+         ],
+         "number":61
+      },
+      {
+         "title":"Qual a finalidade do sistema diretor de voo?",
+         "result":2,
+         "options":[
+            "Proporcionar operações seguras de pouso e decolagem.",
+            "Facilitar o desempenho das atividades do piloto, substituindo-onos momentos críticos da operação de aeronaves modernas ecomplexas.",
+            "Indicar a atitude necessária para que uma aeronave permaneça emuma condição de voo pré-determinada.",
+            "Direcionar a aeronave a um rumo pré-determinado."
+         ],
+         "number":62
+      },
+      {
+         "title":"Qual a função do sal eutético em um sensor contínuo:",
+         "result":2,
+         "options":[
+            "Aumentar a resistência de isolamento da cerâmica quando estiverfrio",
+            "Diminuir a resistência de isolamento da cerâmica quando estiverfrio",
+            "Diminuir a resistência de isolamento da cerâmica quando estiverquente",
+            "Aumentar a resistência de isolamento de cerâmica"
+         ],
+         "number":63
+      },
+      {
+         "title":"O regulador de pressão tem por finalidade:",
+         "result":0,
+         "options":[
+            "Manter a pressão do sistema num valor xo pré-determinado",
+            "Manter o uxo do uido nas linhas do sistema, dentro de um valorpré-determinado",
+            "Fazer variar a pressão do uido de acordo com a demanda dosistema",
+            "Controlar o sentido de deslocamento dos mecanismos hidráulicos"
+         ],
+         "number":64
+      },
+      {
+         "title":"Uma pressão não uniforme de colagem,comumente resulta em áreas fracas e fortes na mesma juntA quantidade de pressão requerida para fazer juntas fortes pode variarentre:",
+         "result":3,
+         "options":[
+            "200 a 300 p.s.i. para madeiras macias, e 300 a 400 p.s.i. paramadeiras duras",
+            "100 a 200 p.s.i. para madeiras macias, e 200 a 300 p.s.i. paramadeiras duras",
+            "90 a 150 p.s.i. para madeiras macias, e 50 a 250 p.s.i. para madeirasduras",
+            "125 a 150 p.s.i. para madeiras macias, e 150 a 200 p.s.i. paramadeiras duras"
+         ],
+         "number":65
+      },
+      {
+         "title":"É um solvente usado para retardar asecagem da película de dope nos dias úmidos, prevenindo contra aformação de manchas:",
+         "result":1,
+         "options":[
+            "Álcool etílico.",
+            "Álcool butílico.",
+            "Benzeno",
+            "Álcool desnaturado."
+         ],
+         "number":66
+      },
+      {
+         "title":"De que consiste um material pré-impregnado?",
+         "result":1,
+         "options":[
+            "Matriz e epóxi",
+            "Combinação de matriz e reforço de bra",
+            "Combinação de epóxi e matriz",
+            "Fibras"
+         ],
+         "number":67
+      },
+      {
+         "title":"Qual a característica da segunda demão deacabamento em laca nitrocelulose acrílica?",
+         "result":2,
+         "options":[
+            "Névoa na.",
+            "Demão cruzada, aplicada uma hora depois da primeira.",
+            "Demão cruzada, aplicada 30 minutos depois da primeira.",
+            "Névoa cruzad"
+         ],
+         "number":68
+      },
+      {
+         "title":"Como se processa a secagem do acabamento epóxi?",
+         "result":0,
+         "options":[
+            "Lentamente",
+            "Com velocidade mediana",
+            "Rapidamente",
+            "De forma semelhante ao acabamento em lac"
+         ],
+         "number":69
+      },
+      {
+         "title":"Os três tipos de dope usados para pinturaem aeronaves são:",
+         "result":1,
+         "options":[
+            "Claro, semi corante e corante.",
+            "Transparente, semi pigmentado e pigmentado.",
+            "Branco, semi brilho e fosco.",
+            "Incolor, semi incolor e resinado.  "
+         ],
+         "number":70
+      },
+      {
+         "title":"O melhor condutor metálico é o (a):",
+         "result":0,
+         "options":[
+            "Prata",
+            "Ouro",
+            "Níquel",
+            "Alumínio"
+         ],
+         "number":71
+      },
+      {
+         "title":"Nas aeronaves, as luzes de posição são:",
+         "result":2,
+         "options":[
+            "Branca na asa direita, verde na asa esquerda e vermelha noestabilizador vertical",
+            "Verde na asa direita, branca na asa esquerda e vermelha noestabilizador vertical",
+            "Verde na asa direita, vermelha na asa esquerda e branca noestabilizador vertical",
+            "Vermelha na asa direita, verde na asa esquerda e branca noestabilizador vertical"
+         ],
+         "number":72
+      },
+      {
+         "title":"Antes que qualquer carga elétrica de aviãoseja aumentada, deverão ser vericados para determinar que a novacarga elétrica não exceda aos limites estabelecidos, as seguintes partesexceto:",
+         "result":2,
+         "options":[
+            "Dispositivos de proteção de circuitos",
+            "Fios",
+            "Grumetes e braçadeiras",
+            "Cabos"
+         ],
+         "number":73
+      },
+      {
+         "title":"No caso de Superaquecimento do Parabrisa, a proteção será automática pelos:",
+         "result":1,
+         "options":[
+            "Elementos sensores",
+            "Interruptores térmicos",
+            "Luzes de indicação",
+            "Transformadores"
+         ],
+         "number":74
+      },
+      {
+         "title":"A finalidade do fluido hidráulico é:",
+         "result":0,
+         "options":[
+            "Lubricar e transmitir força",
+            "Lubricar e conservar",
+            "Lubricar o sistema",
+            "Remover a corrosão"
+         ],
+         "number":75
+      },
+      {
+         "title":"São instalados em aeronaves pressurizadas devido a sua maior resistência ao estilhaçamento e adescompressão explosiva:",
+         "result":1,
+         "options":[
+            "Fibra de vidro",
+            "Plásticos laminados",
+            "Fibra plástica",
+            "Fibra sintética"
+         ],
+         "number":76
+      },
+      {
+         "title":"Material utilizado por fabricantes dehelicópteros como substituto leve para certas partes metálicas:",
+         "result":3,
+         "options":[
+            "Liga de aço",
+            "Fibra de carbono",
+            "Fibra de titânio",
+            "Fibra de vidro"
+         ],
+         "number":77
+      },
+      {
+         "title":"Qual é o sistema de controle de voo mais utilizado?",
+         "result":3,
+         "options":[
+            "Tubo de torque",
+            "Eixos extensivos",
+            "Hastes rígidas",
+            "Cabo"
+         ],
+         "number":78
+      },
+      {
+         "title":"Para guiar e mudar a direção do movimento dos cabos utiliza-se:",
+         "result":0,
+         "options":[
+            "Roldanas",
+            "Grometes",
+            "Guias",
+            "Selos"
+         ],
+         "number":79
+      },
+      {
+         "title":"A deterioração máxima permissível de umtecido, já em uso nas aeronaves, baseado num grande número de testes éde:",
+         "result":0,
+         "options":[
+            "30%",
+            "40%",
+            "25%",
+            "35%"
+         ],
+         "number":80
+      },
+      {
+         "title":"Quais os servos mais utilizados naaviação?",
+         "result":0,
+         "options":[
+            "Motores elétricos e motores eletropneumáticos",
+            "Sistemas hidropneumáticos",
+            "Sistemas síncronos",
+            "Sistemas híbridos"
+         ],
+         "number":81
+      },
+      {
+         "title":"O calor pode derreter o alumínio e queimaro metal por isso nunca devemos pré-aquecer o alumínio a umatemperatura maior que...?",
+         "result":2,
+         "options":[
+            "800 ºF",
+            "500 ºF",
+            "800 ºC",
+            "500 ºC"
+         ],
+         "number":82
+      },
+      {
+         "title":"Qual o nome dado à antena que recebe sinais eletromagnéticos?",
+         "result":0,
+         "options":[
+            "Antena receptora",
+            "Antena VHF",
+            "Antena transmissora",
+            "Antena radiante"
+         ],
+         "number":83
+      },
+      {
+         "title":"Por que os instrumentos de voo estãolocalizados no painel principal?",
+         "result":1,
+         "options":[
+            "Por estarem diretamente relacionados aos comandos de vooprimários",
+            "Eles devem estar ao alcance de uma rápida referência visual para opiloto, fornecendo informações instantaneamente",
+            "Para facilitar as interpretações do piloto automático",
+            "Porque as instalações complexas dos instrumentos de voorequerem uma grande proximidade dos eixos de rotação da aeronave"
+         ],
+         "number":84
+      },
+      {
+         "title":"Indique a melhor tradução para a frase abaixo, assinalando a alternativacorreta:A fuselagem foi montada tardiamente, não tivemos tempo de usá-la eacabamos usando a antiga",
+         "result":3,
+         "options":[
+            "The fuselage was set up lately, we did not have time to use it andended up using the old one.",
+            "The fuselage was set up afternoonly, we did not have time to use itand ended up using the old one.",
+            "The fuselage was set up tardion, we did not have time to use it andended up using the old one.",
+            "The fuselage was set up late, we did not have time to use it andended up using the old one."
+         ],
+         "number":85
+      },
+      {
+         "title":"No grupo das superfícies de comando secundárias (auxiliares), temos:",
+         "result":0,
+         "options":[
+            "Compensadores, painéis de balanceamento, servo-compensadores,apes, spoilers e dispositivos de bordo de ataque",
+            "Compensadores, ailerons, leme de direção, apes, spoilers eprofundores",
+            "Compensadores, profundores, servo-compensadores, apes,spoilers e dispositivos de bordo de ataque",
+            "Compensadores, ailerons, servo-compensadores, apes, spoilers eslats"
+         ],
+         "number":86
+      },
+      {
+         "title":"O fogo na parte interna do escapamento dos motores a reação, durante o corte ou falsa partida, pode ser eliminadopor:",
+         "result":2,
+         "options":[
+            "Puxar punha de fogo",
+            "Arranque elétrico",
+            "Motor partida pneumático",
+            "Nenhuma das alternativas acima"
+         ],
+         "number":87
+      },
+      {
+         "title":"Os plásticos podem ser divididos em duas classicações principais:",
+         "result":0,
+         "options":[
+            "Termoplásticos e Termo endurecível",
+            "Plásticos e acrílicos",
+            "Termo endurecível e acrílico",
+            "Termoplásticos e Acrílicos"
+         ],
+         "number":88
+      },
+      {
+         "title":"O aquecimento do para-brisa em Aeronaves pressurizadas é por meio de:",
+         "result":3,
+         "options":[
+            "Pneumáticos",
+            "Etileno glicol",
+            "Material condutor de calor",
+            "Elementos Elétricos"
+         ],
+         "number":89
+      },
+      {
+         "title":"Identique o material que devido suainigualável taxa de resistência/peso, a habilidade de ser atravessada porondas de rádio e radar, imunidade a mofo entre outros:",
+         "result":2,
+         "options":[
+            "Nylon",
+            "Fibra de vidro",
+            "Poliéster",
+            "Dacron"
+         ],
+         "number":90
+      },
+      {
+         "title":"É vantagem do reparo aparafusado:",
+         "result":3,
+         "options":[
+            "Perfeição e lógica",
+            "Selecionar todos os materiais de remendo",
+            "Selecionar todos os materiais e equipamentos",
+            " Selecionar apenas material de remendo e xador"
+         ],
+         "number":91
+      },
+      {
+         "title":"Quais são os instrumentos que auxiliam no controle da atitude da aeronave em voo?",
+         "result":0,
+         "options":[
+            "Os instrumentos de voo",
+            "Os instrumentos do motor",
+            "Os instrumentos de navegação",
+            "Os instrumentos anemométricos"
+         ],
+         "number":92
+      },
+      {
+         "title":"Qual o Método de Inspeção que consisteem tocar a superfícies com uma moeda?",
+         "result":0,
+         "options":[
+            "Tap test",
+            "Raio X",
+            "Tap choque",
+            "Termograa"
+         ],
+         "number":93
+      },
+      {
+         "title":"Antes de instalarmos uma bomba hidráulica devemos, mesmo que venha do estoque:",
+         "result":3,
+         "options":[
+            "Vericar o seu fácil funcionamento e drenar o uido",
+            "Remover o uido hidráulico da estocagem",
+            "Lavá-la com uido usado no sistema do avião e após lavá-la comuido neutro",
+            "Vericar quanto ao tipo da mesma, se é idêntica à que foi removidae lavá-la com uido hidráulico usado no sistema"
+         ],
+         "number":94
+      },
+      {
+         "title":"Os tipos de juntas soldadas existentes são:",
+         "result":2,
+         "options":[
+            "Transversal, horizontal, sobreposta, em quina e de aresta",
+            " Transversal, horizontal, plana, vertical e de quina",
+            "De topo, ângulo em “T”, sobreposta, em quina e de aresta",
+            "De topo, ângulo em “T”, plana, vertical e de quina"
+         ],
+         "number":95
+      },
+      {
+         "title":"Como são operados os instrumentos de voo?",
+         "result":3,
+         "options":[
+            "Anaerobicamente, pelas condições atmosféricas apresentadas, oupor giro livre",
+            "Manualmente, por seleção do piloto",
+            "Por geradores acionados pelos motores da aeronave",
+            "Pelas pressões atmosféricas, de impacto, diferencial e estática, oupor um giroscópio"
+         ],
+         "number":96
+      },
+      {
+         "title":"O sistema que remove o gelo já formado é chamado de:",
+         "result":3,
+         "options":[
+            "Antigelo",
+            "Antigelo e Degelo",
+            "Sistema pneumático",
+            "Degelo"
+         ],
+         "number":97
+      },
+      {
+         "title":"Sistema de comunicação de longo alcance que tem suas ondas refletidas na ionosfera:",
+         "result":2,
+         "options":[
+            "UHF",
+            "VHF",
+            "HF",
+            "LF"
+         ],
+         "number":98
+      },
+      {
+         "title":"Com relação ao aquecimento a arcomprimido para o sistema de ar condicionado podemos armar que:      ",
+         "result":0,
+         "options":[
+            "Usa o ar que sai de um estágio do compressor",
+            "Usa resistências elétricas",
+            "Usa o ar de impacto",
+            "Usa o ar que sai da exaustão dos motores"
+         ],
+         "number":99
+      },
+      {
+         "title":"Qual a finalidade dos instrumentos dos motores?",
+         "result":0,
+         "options":[
+            "Medir a quantidade e pressão dos líquidos (óleo e combustível) edos gases (pressão de admissão), rotação do motor (R.P.M.) etemperatura.",
+            "Regular o funcionamento dos motores",
+            "Equalizar o funcionamento dos motores",
+            "Regular e equalizar o funcionamento dos motores sob quaisquercondições de pressão e temperatur"
+         ],
+         "number":100
+      },
+      {
+         "title":"Solvente utilizado em dias úmidos para retardar a secagem da película de dope a m de prevenir a formação demanchas:",
+         "result":3,
+         "options":[
+            "Álcool desnaturado.",
+            "Álcool isopropílico.",
+            "Acetona",
+            "Álcool butílico"
+         ],
+         "number":101
+      },
+      {
+         "title":"Dispositivo usado nos sistemas de cabo decontrole para o ajuste da tensão do cabo:",
+         "result":1,
+         "options":[
+            "Trava",
+            "Esticador",
+            "Gabarito",
+            "Conector"
+         ],
+         "number":102
+      },
+      {
+         "title":"As válvulas de controle são também peças necessárias em um sistema pneumático típico. Válvula é usada paracontrolar o ar dos:",
+         "result":3,
+         "options":[
+            "Calibrar rodas",
+            "Trem de pouso",
+            "Limpar para brisa",
+            "Freios"
+         ],
+         "number":103
+      },
+      {
+         "title":"Normalmente, a cabine do helicóptero é deplexiglass, que em alguns modelos é suportado por:",
+         "result":3,
+         "options":[
+            "Tubos de titânio",
+            "Tubos de aço",
+            "Tubos de bra de vidro",
+            "Tubos de alumínio"
+         ],
+         "number":104
+      },
+      {
+         "title":"Que tipo de material é feito o tubo dos detectores tipo KIDDE e FENWAL?",
+         "result":2,
+         "options":[
+            "Cromel e Constantan",
+            "Liga de Aço com Inconel, a m de aumentar a durabilidade",
+            "Inconel",
+            "Sal eutético para diminuir a resistência interna"
+         ],
+         "number":105
+      },
+      {
+         "title":"Todos os parafusos e buchas usados em estruturas de aeronaves devem:",
+         "result":1,
+         "options":[
+            "Se encaixar com certa folga para que possa assentar com o tempo",
+            "Se encaixar em seus orifícios de forma justa",
+            "Estar lubricadas para melhor colocação",
+            "Ser do mesmo material estrutural "
+         ],
+         "number":106
+      },
+      {
+         "title":"O que pode ser usado como um primerpara LACA NITROCELULOSE:",
+         "result":3,
+         "options":[
+            "Primer de laca",
+            "Poliuretano",
+            "Esmalte",
+            "Primer de cromato de zinco"
+         ],
+         "number":107
+      },
+      {
+         "title":"Qual é o pigmento resistente à corrosão que pode ser adicionado a PRIMERS feitos de diferentes tipos de resina?",
+         "result":2,
+         "options":[
+            "Thinner",
+            "Óxido de ferro.",
+            "Cromato de zinco.",
+            "Naft"
+         ],
+         "number":108
+      },
+      {
+         "title":"Nos Motores Turbo Jato, qual a finalidade da válvula unidirecional no sistema de extinção:",
+         "result":0,
+         "options":[
+            "Evitar que um reservatório descarregue o seu conteúdo dentro deoutra garrafa",
+            "Evitar a descarga de agente extintor no compartimento debagagens",
+            "Evitar a entrada de água dentro do reservatório",
+            "Nenhuma das alternativas "
+         ],
+         "number":109
+      },
+      {
+         "title":"O ventilador da unidade de refrigeração é acionado pelo (a):",
+         "result":1,
+         "options":[
+            "Tachometro de N 1",
+            "APU",
+            "Compressor",
+            "Turbina"
+         ],
+         "number":110
+      },
+      {
+         "title":"Em um helicóptero monomotor típico, a traseira consiste de:",
+         "result":0,
+         "options":[
+            "Cone de cauda, barbatana (FIN), alojamento da caixa de 45º, pilonedo rotor de cauda e carenagem do m da cauda",
+            "Cone de cauda, quilha ventral, alojamento da caixa de 90º, pilonedo rotor principal e carenagem do m da cauda",
+            "Cone de cauda, quilha dorsal (FIN), alojamento da caixa de 30º,pilone do rotor de cauda e carenagem do m da cauda",
+            "Cone de cauda, barbatana (FIN), alojamento da caixa de 25º, pilonedo rotor principal e carenagem do m da cauda"
+         ],
+         "number":111
+      },
+      {
+         "title":"Sistema de pouso por instrumentos que indica a rampa de descida:",
+         "result":2,
+         "options":[
+            "Marker Beacon",
+            "Variômetro",
+            "Glide slope",
+            "Localizer"
+         ],
+         "number":112
+      },
+      {
+         "title":"Com relação ao aquecimento tipo painéis radiantes para o sistema de ar condicionado, podemos armar que:",
+         "result":2,
+         "options":[
+            "Podemos compara-los com secadores de cabelo",
+            "Utiliza os quentes e ar de impacto",
+            "Utiliza os que esquentam painéis",
+            "Utiliza somente ar de impacto"
+         ],
+         "number":113
+      },
+      {
+         "title":"Para a fabricação de linhas de oxigênio de alta pressão e partes que devam suportar vibração e altas temperaturasutiliza-se que tipo de solda?",
+         "result":3,
+         "options":[
+            "Brasagem",
+            "Fricção",
+            "Junta de topo",
+            "Prata"
+         ],
+         "number":114
+      },
+      {
+         "title":"Quais são os instrumentos de vooc onsiderados como básicos em uma aeronave?",
+         "result":3,
+         "options":[
+            "Bússola magnética, climb e altímetro",
+            "Climb, turn and bank e velocímetro",
+            "Indicador de atitude, altímetro e giro-direcional",
+            "Velocímetro, altímetro e bússola magnética "
+         ],
+         "number":115
+      },
+      {
+         "title":"O que dene o número e os tipos de funções disponíveis em um sistema diretor de voo?",
+         "result":1,
+         "options":[
+            "O tipo de aeronave, o espaço aéreo por ela ocupado e o tipo deoperação",
+            "A missão (finalidade) da aeronave, o espaço disponível para suainstalação e o custo (evitar gastos com funções que não sãoabsolutamente necessárias)",
+            "A quantidade de servos de comando associados ao sistema",
+            "A capacidade de comando e execução de manobras pela aeronavenos três eixos"
+         ],
+         "number":116
+      },
+      {
+         "title":"A finalidade dos reservatórios serem pressurizados é:",
+         "result":0,
+         "options":[
+            "Facilita a alimentação das bombas, com pressão positiva emqualquer altitude",
+            "O sistema dispensa o regulador, pois o reservatório possui seupróprio regulador",
+            "Facilita o suprimento de uido para os sistemas atuadores",
+            "O sistema dispensa o acumulador"
+         ],
+         "number":117
+      },
+      {
+         "title":"De que modo os membros de uma longarina ou nervura podem ser reparados?",
+         "result":1,
+         "options":[
+            "Aplicando-se um remendo interno ou embutido desde que a áreaseja pequena",
+            "Aplicando-se um remendo externo ou embutido desde que a áreaseja pequena",
+            "Aplicando um remendo externo ou embutido desde que a área sejagrande",
+            "Aplicando todas as técnicas acima mencionadas  "
+         ],
+         "number":118
+      },
+      {
+         "title":"O que é o sinal de “follow up”?",
+         "result":3,
+         "options":[
+            "Informação originada no sistema giroscópico da aeronave quepermite a coordenação dos comandos do piloto automático para cessaro movimento de curva quando o curso desejado é atingido",
+            "Sinal de comando de ascensão da aeronave (climb)",
+            "É um sinal de continuidade que garante prosseguimento deoperação de comando das superfícies primárias pelo piloto automático",
+            "É um sinal de acompanhamento que se opõe ao sinal original demodo que, quando iguais, o servo para de se mover, bem como retorna oleme à sua posição inicial quando o curso selecionado é atingido"
+         ],
+         "number":119
       }
-
-
-
-
-
-
-
-
-
    ]
 }

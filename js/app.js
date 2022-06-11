@@ -111,6 +111,6 @@ $(document).ready(function(){
     });
 
     base = 'https://raw.githubusercontent.com/jvsouza/ANAC-Cell/main/json/';
-    filesJson = ['cel01', 'cel02', 'cel03', 'cel04', 'cel05', 'cel06', 'cel10', 'cel11', 'cel13'];
+    filesJson = ['cel01', 'cel02', 'cel03', 'cel04', 'cel05', 'cel06', 'cel10', 'cel11', 'cel13', 'cel_aerotd_2020-2'];
     createSelect(getListJson(base, filesJson));
 });

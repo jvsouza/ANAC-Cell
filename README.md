@@ -24,7 +24,7 @@
 ## Mock exams were included:
 | Type | Index | Progress | Contet |
 | :--: | :---: | :------: | :----- |
-| Cel | 01 | ![](https://img.shields.io/badge/-Doing-important) | AeroTD 2020-2 |
+| Cel | 01 | ![](https://img.shields.io/badge/-Done-success) | AeroTD 2020-2 |
 | Cel | 13 | ![](https://img.shields.io/badge/-ToDo-inactive) | Senai/SC 2022-1 |
 
 ## For that, I'm storing studied questions in this collection. As webpage struct bellow:
