@@ -158,7 +158,7 @@
          "number":13
       },
       {
-         "title":"A pequena passagem de saída reduz a razão do uxo de ar e a velocidade de operação de uma unidade atuadora:",
+         "title":"A pequena passagem de saída reduz a razão do fluxo de ar e a velocidade de operação de uma unidade atuadora:",
          "result":3,
          "options":[
             "Cross feed valve",
@@ -312,7 +312,7 @@
          "number":27
       },
       {
-         "title":"É uma tira de metal que fundirá sob excessivo uxo de corrente, já que seu limite de condução é cuidadosamente pré-determinado, dene:",
+         "title":"É uma tira de metal que fundirá sob excessivo fluxo de corrente, já que seu limite de condução é cuidadosamente pré-determinado, dene:",
          "result":3,
          "options":[
             "Cablagem",
@@ -455,7 +455,7 @@
          "number":40
       },
       {
-         "title":"Qual é o produto mais utilizado em pinturaa óleo deixando a tinta mais uida, transparente e brilhante?",
+         "title":"Qual é o produto mais utilizado em pintura a óleo deixando a tinta mais uida, transparente e brilhante?",
          "result":0,
          "options":[
             "Óleo de linhaça.",
@@ -466,7 +466,7 @@
          "number":41
       },
       {
-         "title":"Que fatores contribuem para gerar ump roblema de pintura?",
+         "title":"Que fatores contribuem para gerar um problema de pintura?",
          "result":0,
          "options":[
             "Pistola obstruída, Diluição inadequada, superfície com vestígios deóleo.",
@@ -488,7 +488,7 @@
          "number":43
       },
       {
-         "title":"Qual é o efeito do calor da solda sobre osmetais?",
+         "title":"Qual é o efeito do calor da solda sobre os metais?",
          "result":0,
          "options":[
             "Dilatação",
@@ -554,7 +554,7 @@
          "number":49
       },
       {
-         "title":"O ar do compressor, antes de entrar nacabine passa pelo sistema de:",
+         "title":"O ar do compressor, antes de entrar na cabine passa pelo sistema de:",
          "result":1,
          "options":[
             "Congelamento",
@@ -587,7 +587,7 @@
          "number":52
       },
       {
-         "title":"Nos fatores que afetam a seleção da bitolado o, um deles é a capacidade de conduzir:",
+         "title":"Nos fatores que afetam a seleção da bitola do fio, um deles é a capacidade de conduzir:",
          "result":3,
          "options":[
             "Tensão",
@@ -620,7 +620,7 @@
          "number":55
       },
       {
-         "title":"Tecidos de bra de vidro quandocosturados, são com:",
+         "title":"Tecidos de fibra de vidro quando costurados, são com:",
          "result":2,
          "options":[
             "Fios de bra de vidro",
@@ -700,9 +700,9 @@
          "title":"Qual a função do sal eutético em um sensor contínuo:",
          "result":2,
          "options":[
-            "Aumentar a resistência de isolamento da cerâmica quando estiverfrio",
-            "Diminuir a resistência de isolamento da cerâmica quando estiverfrio",
-            "Diminuir a resistência de isolamento da cerâmica quando estiverquente",
+            "Aumentar a resistência de isolamento da cerâmica quando estiver frio",
+            "Diminuir a resistência de isolamento da cerâmica quando estiver frio",
+            "Diminuir a resistência de isolamento da cerâmica quando estiver quente",
             "Aumentar a resistência de isolamento de cerâmica"
          ],
          "number":63
@@ -752,7 +752,7 @@
          "number":67
       },
       {
-         "title":"Qual a característica da segunda demão deacabamento em laca nitrocelulose acrílica?",
+         "title":"Qual a característica da segunda demão de acabamento em laca nitrocelulose acrílica?",
          "result":2,
          "options":[
             "Névoa na.",
@@ -807,7 +807,7 @@
          "number":72
       },
       {
-         "title":"Antes que qualquer carga elétrica de aviãoseja aumentada, deverão ser vericados para determinar que a novacarga elétrica não exceda aos limites estabelecidos, as seguintes partesexceto:",
+         "title":"Antes que qualquer carga elétrica de avião seja aumentada, deverão ser verificados para determinar que a nova carga elétrica não exceda aos limites estabelecidos, as seguintes partes exceto:",
          "result":2,
          "options":[
             "Dispositivos de proteção de circuitos",
@@ -895,7 +895,7 @@
          "number":80
       },
       {
-         "title":"Quais os servos mais utilizados naaviação?",
+         "title":"Quais os servos mais utilizados na aviação?",
          "result":0,
          "options":[
             "Motores elétricos e motores eletropneumáticos",
@@ -972,7 +972,7 @@
          "number":87
       },
       {
-         "title":"Os plásticos podem ser divididos em duas classicações principais:",
+         "title":"Os plásticos podem ser divididos em duas classificações principais:",
          "result":0,
          "options":[
             "Termoplásticos e Termo endurecível",
@@ -994,7 +994,7 @@
          "number":89
       },
       {
-         "title":"Identique o material que devido suainigualável taxa de resistência/peso, a habilidade de ser atravessada porondas de rádio e radar, imunidade a mofo entre outros:",
+         "title":"Identifique o material que devido suainigualável taxa de resistência/peso, a habilidade de ser atravessada porondas de rádio e radar, imunidade a mofo entre outros:",
          "result":2,
          "options":[
             "Nylon",
@@ -1027,7 +1027,7 @@
          "number":92
       },
       {
-         "title":"Qual o Método de Inspeção que consisteem tocar a superfícies com uma moeda?",
+         "title":"Qual o Método de Inspeção que consiste em tocar a superfícies com uma moeda?",
          "result":0,
          "options":[
             "Tap test",
@@ -1215,7 +1215,7 @@
       },
       {
          "title":"O ventilador da unidade de refrigeração é acionado pelo (a):",
-         "result":1,
+         "result":3,
          "options":[
             "Tachometro de N 1",
             "APU",
@@ -1280,7 +1280,7 @@
          "number":115
       },
       {
-         "title":"O que dene o número e os tipos de funções disponíveis em um sistema diretor de voo?",
+         "title":"O que define o número e os tipos de funções disponíveis em um sistema diretor de voo?",
          "result":1,
          "options":[
             "O tipo de aeronave, o espaço aéreo por ela ocupado e o tipo deoperação",

@@ -14,6 +14,7 @@ function num2letter( number ){
         return "D";
     }
 }
+
 // ...
 function createList( arrayJson ) {
     var questions = arrayJson.questions;
@@ -48,6 +49,7 @@ function createList( arrayJson ) {
     list += '</ul>';
     $("#questions").append(list);
 }
+
 // ...
 function getJson( nameFileJson ) {
     var result;
@@ -61,25 +63,7 @@ function getJson( nameFileJson ) {
     });
     return result;
 }
-// ...
-function openFile(file) {
-    var extension = file.substr( (file.lastIndexOf('.') +1) );
-    switch(extension) {
-        case 'json':
-            return true;
-        default:
-            return false;
-    }
-};
-// ...
-function getListJson( baseFolder, filesJson ){
-    console.log(">getListJson");
-    var fileNames = new Array();
-    for (var n=0; n < filesJson.length ; n++) {
-        fileNames.push(baseFolder+filesJson[n]+".json");
-    }
-    return fileNames;
-}
+
 // ...
 function createSelect( baseUrl, cu ){
     var options = '<option value="title" selected>Select content</option>';
@@ -90,23 +74,26 @@ function createSelect( baseUrl, cu ){
     }
      $("#select").append(options);
 }
+
 // ...
 $(document).ready(function(){
 
     var arrayJson;
+
     // ...
     $(document).on('click','.btn', function() {
         let questionNumber = $(this).data('question');
         let correctOption = arrayJson.questions[questionNumber].result;
         $("li[data-li="+questionNumber+"] li.options div button[value="+correctOption+"]").addClass( "optionCorrect" );
     });
+
     // ...
     $(document).on("change","#select",function(){
         let nameJson = $(this).val();
         $("#questions").empty();
         if (nameJson != 'title'){
-            arrayJson = getJson(nameJson);
-            createList(arrayJson);            
+            arrayQuestions = getJson(nameJson);
+            createList(arrayQuestions);            
         }
     });
 
