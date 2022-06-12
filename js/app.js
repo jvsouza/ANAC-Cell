@@ -81,12 +81,12 @@ function getListJson( baseFolder, filesJson ){
     return fileNames;
 }
 // ...
-function createSelect( arrayJson ){
-    console.log(">createSelect");
+function createSelect( baseUrl, cu ){
     var options = '<option value="title" selected>Select content</option>';
-    for (var n=0; n < arrayJson.length ; n++) {
-        courseUnit = getJson(arrayJson[n]).courseunit;
-        options += '<option value="' + arrayJson[n] + '">' + courseUnit + '</option>';
+    for (var n=0; n < cu.courses_updated.length ; n++) {
+        jsonUrl = baseUrl + cu.courses_updated[n].file_json + '.json'
+        courseUnit = cu.courses_updated[n].course_unit;
+        options += '<option value="' + jsonUrl + '">' + courseUnit + '</option>';
     }
      $("#select").append(options);
 }
@@ -110,7 +110,23 @@ $(document).ready(function(){
         }
     });
 
-    base = 'https://raw.githubusercontent.com/jvsouza/ANAC-Cell/main/json/';
-    filesJson = ['cel01', 'cel02', 'cel03', 'cel04', 'cel05', 'cel06', 'cel10', 'cel11', 'cel13', 'cel_aerotd_2020-2'];
-    createSelect(getListJson(base, filesJson));
+    
+    let baseUrl = 'https://raw.githubusercontent.com/jvsouza/ANAC-Cell/main/json/';
+
+    let coursesUpdated = {
+        "courses_updated":[
+            {"file_json":"cel01", "course_unit":"Technical English"},
+            {"file_json":"cel03", "course_unit":"Fabricing"},
+            {"file_json":"cel04", "course_unit":"Coating, Painting And Finishing Of Aircraft"},
+            {"file_json":"cel05", "course_unit":"Repairs To Metallic Structures"},
+            {"file_json":"cel06", "course_unit":"Welding In Aircraft"},
+            {"file_json":"cel10", "course_unit":"Communication And Navigation Systems"},
+            {"file_json":"cel11", "course_unit":"Hydraulic And Landing Gear System"},
+            {"file_json":"cel13", "course_unit":"Pneumatic And Cabin Environment Control Systems"},
+            {"file_json":"cel_aerotd_2020-2", "course_unit":"Mock exam :: Aerotd 2020-2"},
+        ]
+    };
+
+    createSelect( baseUrl, coursesUpdated );
+
 });

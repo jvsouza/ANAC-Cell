@@ -15,7 +15,7 @@
          "number":0
       },
       {
-         "title":"Quais luzes cam acesas quando os trens de pouso estiverem em trânsito?",
+         "title":"Quais luzes ficam acesas quando os trens de pouso estiverem em trânsito?",
          "result":0,
          "options":[
             "Luz de aviso acesa e diagonal vermelha e listras fluorescentes",
@@ -114,7 +114,7 @@
          "number":9
       },
       {
-         "title":"Dois ou mais condutores isolados separadamente e torcidos juntos dene:",
+         "title":"Dois ou mais condutores isolados separadamente e torcidos juntos define:",
          "result":2,
          "options":[
             "Cabo de R.F",
@@ -280,7 +280,7 @@
       },
       {
          "title":"Os ailerons são operados por um movimento:",
-         "result":1,
+         "result":2,
          "options":[
             "Lateral do manche ou pelo movimento longitudinal do volante",
             "Longitudinal do manche",
@@ -433,7 +433,7 @@
          "number":38
       },
       {
-         "title":"Com relação ao aquecimento à combustãopara o sistema de ar condicionado podemos armar que:",
+         "title":"Com relação ao aquecimento à combustão para o sistema de ar condicionado podemos armar que:",
          "result":0,
          "options":[
             "É uma turbina",
@@ -576,7 +576,7 @@
          "number":51
       },
       {
-         "title":"Necessidade de tratamento térmico eremoção do uxo de todo o metal após a soldagem, devido a possibilidadede corrosão, são limitações da soldagem em que tipo de metal?",
+         "title":"Necessidade de tratamento térmico e remoção do fluxo de todo o metal após a soldagem, devido a possibilidadede corrosão, são limitações da soldagem em que tipo de metal?",
          "result":1,
          "options":[
             "Titânio",
@@ -610,7 +610,7 @@
       },
       {
          "title":"Não se usa água em fogo de classe B, pois ela irá:",
-         "result":2,
+         "result":1,
          "options":[
             "Apagar o fogo",
             "Espalhar o fogo",
@@ -631,7 +631,7 @@
          "number":56
       },
       {
-         "title":"Qual é a melhor tradução da palavra to nafrase abaixo?The pilot only noticed when he tried to rotate off the runway and foundthe nose very heavy.",
+         "title":"Qual é a melhor tradução da palavra to na frase abaixo? The pilot only noticed when he tried to rotate off the runway and foundthe nose very heavy.",
          "result":2,
          "options":[
             "O piloto só percebeu quando ele tentou fora fazer a rotação da pistae achou o nariz muito pesado.",
@@ -681,7 +681,7 @@
             "Cola líquida e de contato",
             "Cola ativa e reativa",
             "Cafeínas e resinas",
-            "Caseínas e resinas  "
+            "Caseínas e resinas"
          ],
          "number":61
       },
@@ -730,7 +730,7 @@
          "number":65
       },
       {
-         "title":"É um solvente usado para retardar asecagem da película de dope nos dias úmidos, prevenindo contra aformação de manchas:",
+         "title":"É um solvente usado para retardar a secagem da película de dope nos dias úmidos, prevenindo contra aformação de manchas:",
          "result":1,
          "options":[
             "Álcool etílico.",
@@ -769,12 +769,12 @@
             "Lentamente",
             "Com velocidade mediana",
             "Rapidamente",
-            "De forma semelhante ao acabamento em lac"
+            "De forma semelhante ao acabamento em laca"
          ],
          "number":69
       },
       {
-         "title":"Os três tipos de dope usados para pinturaem aeronaves são:",
+         "title":"Os três tipos de dope usados para pintura em aeronaves são:",
          "result":1,
          "options":[
             "Claro, semi corante e corante.",
@@ -851,7 +851,7 @@
          "number":76
       },
       {
-         "title":"Material utilizado por fabricantes dehelicópteros como substituto leve para certas partes metálicas:",
+         "title":"Material utilizado por fabricantes de helicópteros como substituto leve para certas partes metálicas:",
          "result":3,
          "options":[
             "Liga de aço",
@@ -884,7 +884,7 @@
          "number":79
       },
       {
-         "title":"A deterioração máxima permissível de umtecido, já em uso nas aeronaves, baseado num grande número de testes éde:",
+         "title":"A deterioração máxima permissível de um tecido, já em uso nas aeronaves, baseado num grande número de testes éde:",
          "result":0,
          "options":[
             "30%",
@@ -928,7 +928,7 @@
          "number":83
       },
       {
-         "title":"Por que os instrumentos de voo estãolocalizados no painel principal?",
+         "title":"Por que os instrumentos de voo estão localizados no painel principal?",
          "result":1,
          "options":[
             "Por estarem diretamente relacionados aos comandos de vooprimários",
@@ -1011,7 +1011,7 @@
             "Perfeição e lógica",
             "Selecionar todos os materiais de remendo",
             "Selecionar todos os materiais e equipamentos",
-            " Selecionar apenas material de remendo e xador"
+            "Selecionar apenas material de remendo e fixador"
          ],
          "number":91
       },
@@ -1053,7 +1053,7 @@
          "result":2,
          "options":[
             "Transversal, horizontal, sobreposta, em quina e de aresta",
-            " Transversal, horizontal, plana, vertical e de quina",
+            "Transversal, horizontal, plana, vertical e de quina",
             "De topo, ângulo em “T”, sobreposta, em quina e de aresta",
             "De topo, ângulo em “T”, plana, vertical e de quina"
          ],
@@ -1126,7 +1126,7 @@
          "number":101
       },
       {
-         "title":"Dispositivo usado nos sistemas de cabo decontrole para o ajuste da tensão do cabo:",
+         "title":"Dispositivo usado nos sistemas de cabo de controle para o ajuste da tensão do cabo:",
          "result":1,
          "options":[
             "Trava",
@@ -1196,9 +1196,9 @@
          "result":2,
          "options":[
             "Thinner",
-            "Óxido de ferro.",
-            "Cromato de zinco.",
-            "Naft"
+            "Óxido de ferro",
+            "Cromato de zinco",
+            "Nafta"
          ],
          "number":108
       },
@@ -1269,7 +1269,7 @@
          "number":114
       },
       {
-         "title":"Quais são os instrumentos de vooc onsiderados como básicos em uma aeronave?",
+         "title":"Quais são os instrumentos de voo considerados como básicos em uma aeronave?",
          "result":3,
          "options":[
             "Bússola magnética, climb e altímetro",
@@ -1305,8 +1305,8 @@
          "title":"De que modo os membros de uma longarina ou nervura podem ser reparados?",
          "result":1,
          "options":[
-            "Aplicando-se um remendo interno ou embutido desde que a áreaseja pequena",
-            "Aplicando-se um remendo externo ou embutido desde que a áreaseja pequena",
+            "Aplicando-se um remendo interno ou embutido desde que a área seja pequena",
+            "Aplicando-se um remendo externo ou embutido desde que a área seja pequena",
             "Aplicando um remendo externo ou embutido desde que a área sejagrande",
             "Aplicando todas as técnicas acima mencionadas  "
          ],
