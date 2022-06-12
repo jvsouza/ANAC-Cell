@@ -92,8 +92,8 @@ $(document).ready(function(){
         let nameJson = $(this).val();
         $("#questions").empty();
         if (nameJson != 'title'){
-            arrayQuestions = getJson(nameJson);
-            createList(arrayQuestions);            
+            arrayJson = getJson(nameJson);
+            createList(arrayJson);            
         }
     });
 
