@@ -59,7 +59,7 @@
          "number":4
       },
       {
-         "title":"Quais são os pronomes relativos mais indicados para a frase abaixo? It was Cayley _________ rst stacked wings and created a tri-wing glider _________ ew a main in 1853.",
+         "title":"It was Cayley _________ first stacked wings and created a tri-wing glider _________ flew a main in 1853.",
          "result":1,
          "options":[
             "That / who",
@@ -126,7 +126,7 @@
       },
       {
          "title":"Em quantas demãos a laca deve ser aplicada na pintura da aeronave?",
-         "result":0,
+         "result":2,
          "options":[
             "Quatro",
             "Três",
@@ -184,8 +184,8 @@
          "result":2,
          "options":[
             "Parana bruta",
-            "Cera de abelha com parana",
-            "Cera de abelha sem parana",
+            "Cera de abelha com parafina",
+            "Cera de abelha sem parafina",
             "Cera de carnaúba"
          ],
          "number":16
@@ -216,15 +216,15 @@
          "title":"O tipo de teste elétrico requerido após um reparo depende do propósito do radome. Alguns testes elétricos típicos são:",
          "result":1,
          "options":[
-            "Isolamento, deexão ou refração",
-            "Transmissividade, reexão por incidência e deexão ou refração",
-            "Isolamento, reexão por incidência e deexão ou refração",
+            "Isolamento, deflexão ou refração",
+            "Transmissividade, reflexão por incidência e deflexão ou refração",
+            "Isolamento, reexão por incidência e deflexão ou refração",
             "Condutividade, refração"
          ],
          "number":19
       },
       {
-         "title":"Dois ou mais condutores isolados separadamente e no mesmo invólucro, dene:",
+         "title":"Dois ou mais condutores isolados separadamente e no mesmo invólucro, define:",
          "result":2,
          "options":[
             "Cabo blindado",
@@ -345,7 +345,7 @@
          "number":30
       },
       {
-         "title":"Em que tipo de falha o reparo é considerado como uma junta de topo, com a união das bordas porsoldagem, uso de vareta de enchimento e execução de furos de alívio?",
+         "title":"Em que tipo de falha o reparo é considerado como uma junta de topo, com a união das bordas por soldagem, uso de vareta de enchimento e execução de furos de alívio?",
          "result":1,
          "options":[
             "Corrosão",
@@ -367,7 +367,7 @@
          "number":32
       },
       {
-         "title":"Produzem um acabamento duro e semiexível que pode ser polido para um alto brilho:   ",
+         "title":"Produzem um acabamento duro e semiflexível que pode ser polido para um alto brilho:   ",
          "result":2,
          "options":[
             "Poliuretano",
@@ -378,18 +378,18 @@
          "number":33
       },
       {
-         "title":"A fita de superfície de algodão pode serusada com:",
+         "title":"A fita de superfície de algodão pode ser usada com:",
          "result":0,
          "options":[
             "Algodão tipo A, linho ou dacron",
-            "Algodão tipo A, linho ou bra de vidro",
-            "Algodão tipo B, bra de vidro",
+            "Algodão tipo A, linho ou fibra de vidro",
+            "Algodão tipo B, fibra de vidro",
             "Algodão tipo B, linho ou dacron"
          ],
          "number":34
       },
       {
-         "title":"O processo que consiste fundamentalmente na queima ou oxidação rápida do metal em uma árealocalizada é conhecido como?",
+         "title":"O processo que consiste fundamentalmente na queima ou oxidação rápida do metal em uma área localizada é conhecido como?",
          "result":3,
          "options":[
             "Fusão de metais usando plasma",
@@ -400,7 +400,7 @@
          "number":35
       },
       {
-         "title":"Que tipo de soldagem é utilizado em metais como cobre, latão e ferro revestido ou onde se deseja uma junta àprova de vazamentos?",
+         "title":"Que tipo de soldagem é utilizado em metais como cobre, latão e ferro revestido ou onde se deseja uma junta à prova de vazamentos?",
          "result":3,
          "options":[
             "De arco de plasma",
@@ -422,10 +422,10 @@
          "number":37
       },
       {
-         "title":"De acordo com otexto, o que é um suporte de carga?Charging stand (air conditioning servisse equipment). A handy andcompact arrangement o fair conditioning servicing equipment. A chargingstand contains a vacum pum, a manifold gauge set, and a method ofmeasuring and dispensing the refrigerante",
+         "title":"Charging stand (air conditioning servisse equipment). A handy andcompact arrangement o fair conditioning servicing equipment. A charging stand contains a vacum pum, a manifold gauge set, and a method of measuring and dispensing the refrigerante",
          "result":0,
          "options":[
-            "Uma disposição prática e compacta de equipamentos demanutenção de ar condicionado.",
+            "Uma disposição prática e compacta de equipamentos de manutenção de ar condicionado.",
             "Um conjunto de manómetros.",
             "Uma bomba de vácuo.",
             "Um método de medição e distribuição do refrigerador. "
@@ -433,7 +433,7 @@
          "number":38
       },
       {
-         "title":"Com relação ao aquecimento à combustão para o sistema de ar condicionado podemos armar que:",
+         "title":"Com relação ao aquecimento à combustão para o sistema de ar condicionado podemos afirmar que:",
          "result":0,
          "options":[
             "É uma turbina",
@@ -455,7 +455,7 @@
          "number":40
       },
       {
-         "title":"Qual é o produto mais utilizado em pintura a óleo deixando a tinta mais uida, transparente e brilhante?",
+         "title":"Qual é o produto mais utilizado em pintura a óleo deixando a tinta mais fluida, transparente e brilhante?",
          "result":0,
          "options":[
             "Óleo de linhaça.",
@@ -469,7 +469,7 @@
          "title":"Que fatores contribuem para gerar um problema de pintura?",
          "result":0,
          "options":[
-            "Pistola obstruída, Diluição inadequada, superfície com vestígios deóleo.",
+            "Pistola obstruída, Diluição inadequada, superfície com vestígios de óleo.",
             "Pistola em perfeitas condições, pressão adequada do sistema de ar.",
             "Superfície livre de impurezas, temperatura ideal, diluição correta.",
             "Boa mistura, temperatura ideal, correto diluidor"
@@ -525,7 +525,7 @@
          "result":1,
          "options":[
             "Tipo carretel, tipo esfera e redutores",
-            "Sistema independente, sistema de controle de força e sistema dereforço de força",
+            "Sistema independente, sistema de controle de força e sistema de reforço de força",
             "Sistema de reforço de força, sistema independente e redutores",
             "Sistema independente, sistema de reforço de força e tipo carretel "
          ],
@@ -565,7 +565,7 @@
          "number":50
       },
       {
-         "title":"São Válvulas que atuam como unidadeslimitadoras de pressão, e previnem contra pressões excessivas, quepoderiam romper as linhas e destruir os selos:",
+         "title":"São Válvulas que atuam como unidades limitadoras de pressão, e previnem contra pressões excessivas, que poderiam romper as linhas e destruir os selos:",
          "result":0,
          "options":[
             "Alívio",
@@ -598,7 +598,7 @@
          "number":53
       },
       {
-         "title":"Leia o texto abaixo e assinale a alternativa correta para pergunta: Qual éa ideia principal do texto?TEMPERATURE AND ALTITUDETemperature variations in the atmosphere are of concern to aviators.Weather systems produce changes in temperature near the earth’s surface.Temperature also changes as altitude is increase",
+         "title":"TEMPERATURE AND ALTITUDE. Temperature variations in the atmosphere are of concern to aviators. Weather systems produce changes in temperature near the earth’s surface. Temperature also changes as altitude is increase",
          "result":3,
          "options":[
             "A variação de temperatura nas superfícies terrestres.",
@@ -631,18 +631,18 @@
          "number":56
       },
       {
-         "title":"Qual é a melhor tradução da palavra to na frase abaixo? The pilot only noticed when he tried to rotate off the runway and foundthe nose very heavy.",
+         "title":"The pilot only noticed when he tried to rotate off the runway and foundthe nose very heavy.",
          "result":2,
          "options":[
             "O piloto só percebeu quando ele tentou fora fazer a rotação da pistae achou o nariz muito pesado.",
             "O piloto só percebeu quando ele tentou de fora da rotação da pista eachou o nariz muito pesado.",
-            "O piloto só percebeu quando ele tentou girar pra fora da pista eachou o nariz muito pesado.",
+            "O piloto só percebeu quando ele tentou girar pra fora da pista e achou o nariz muito pesado.",
             "O piloto só percebeu quando ele tentou para a rotação fora da pistae achou o nariz muito pesado."
          ],
          "number":57
       },
       {
-         "title":"Os guias nunca alteram o alinhamento docabo mais do que:",
+         "title":"Os guias nunca alteram o alinhamento do cabo mais do que:",
          "result":1,
          "options":[
             "5 graus da linha reta",
@@ -653,7 +653,7 @@
          "number":58
       },
       {
-         "title":"A maioria dos materiais diluidores tem umponto de fulgor:",
+         "title":"A maioria dos materiais diluidores tem um ponto de fulgor:",
          "result":2,
          "options":[
             "Padrão",
@@ -675,7 +675,7 @@
          "number":60
       },
       {
-         "title":"A cola utilizada no reparo de aeronavesenquadra-se em dois grupos gerais:",
+         "title":"A cola utilizada no reparo de aeronaves enquadra-se em dois grupos gerais:",
          "result":3,
          "options":[
             "Cola líquida e de contato",
@@ -691,7 +691,7 @@
          "options":[
             "Proporcionar operações seguras de pouso e decolagem.",
             "Facilitar o desempenho das atividades do piloto, substituindo-onos momentos críticos da operação de aeronaves modernas ecomplexas.",
-            "Indicar a atitude necessária para que uma aeronave permaneça emuma condição de voo pré-determinada.",
+            "Indicar a atitude necessária para que uma aeronave permaneça em uma condição de voo pré-determinada.",
             "Direcionar a aeronave a um rumo pré-determinado."
          ],
          "number":62
@@ -711,7 +711,7 @@
          "title":"O regulador de pressão tem por finalidade:",
          "result":0,
          "options":[
-            "Manter a pressão do sistema num valor xo pré-determinado",
+            "Manter a pressão do sistema num valor fixo pré-determinado",
             "Manter o uxo do uido nas linhas do sistema, dentro de um valorpré-determinado",
             "Fazer variar a pressão do uido de acordo com a demanda dosistema",
             "Controlar o sentido de deslocamento dos mecanismos hidráulicos"
@@ -719,7 +719,7 @@
          "number":64
       },
       {
-         "title":"Uma pressão não uniforme de colagem,comumente resulta em áreas fracas e fortes na mesma juntA quantidade de pressão requerida para fazer juntas fortes pode variarentre:",
+         "title":"Uma pressão não uniforme de colagem, comumente resulta em áreas fracas e fortes na mesma junta. A quantidade de pressão requerida para fazer juntas fortes pode variar entre:",
          "result":3,
          "options":[
             "200 a 300 p.s.i. para madeiras macias, e 300 a 400 p.s.i. paramadeiras duras",
@@ -730,7 +730,7 @@
          "number":65
       },
       {
-         "title":"É um solvente usado para retardar a secagem da película de dope nos dias úmidos, prevenindo contra aformação de manchas:",
+         "title":"É um solvente usado para retardar a secagem da película de dope nos dias úmidos, prevenindo contra a formação de manchas:",
          "result":1,
          "options":[
             "Álcool etílico.",
@@ -745,7 +745,7 @@
          "result":1,
          "options":[
             "Matriz e epóxi",
-            "Combinação de matriz e reforço de bra",
+            "Combinação de matriz e reforço de fibra",
             "Combinação de epóxi e matriz",
             "Fibras"
          ],
@@ -755,7 +755,7 @@
          "title":"Qual a característica da segunda demão de acabamento em laca nitrocelulose acrílica?",
          "result":2,
          "options":[
-            "Névoa na.",
+            "Névoa fina.",
             "Demão cruzada, aplicada uma hora depois da primeira.",
             "Demão cruzada, aplicada 30 minutos depois da primeira.",
             "Névoa cruzad"
@@ -785,7 +785,7 @@
          "number":70
       },
       {
-         "title":"O melhor condutor metálico é o (a):",
+         "title":"O melhor condutor metálico é:",
          "result":0,
          "options":[
             "Prata",
@@ -799,10 +799,10 @@
          "title":"Nas aeronaves, as luzes de posição são:",
          "result":2,
          "options":[
-            "Branca na asa direita, verde na asa esquerda e vermelha noestabilizador vertical",
-            "Verde na asa direita, branca na asa esquerda e vermelha noestabilizador vertical",
-            "Verde na asa direita, vermelha na asa esquerda e branca noestabilizador vertical",
-            "Vermelha na asa direita, verde na asa esquerda e branca noestabilizador vertical"
+            "Branca na asa direita, verde na asa esquerda e vermelha no estabilizador vertical",
+            "Verde na asa direita, branca na asa esquerda e vermelha no estabilizador vertical",
+            "Verde na asa direita, vermelha na asa esquerda e branca no estabilizador vertical",
+            "Vermelha na asa direita, verde na asa esquerda e branca no estabilizador vertical"
          ],
          "number":72
       },
@@ -840,7 +840,7 @@
          "number":75
       },
       {
-         "title":"São instalados em aeronaves pressurizadas devido a sua maior resistência ao estilhaçamento e adescompressão explosiva:",
+         "title":"São instalados em aeronaves pressurizadas devido a sua maior resistência ao estilhaçamento e a descompressão explosiva:",
          "result":1,
          "options":[
             "Fibra de vidro",
@@ -884,7 +884,7 @@
          "number":79
       },
       {
-         "title":"A deterioração máxima permissível de um tecido, já em uso nas aeronaves, baseado num grande número de testes éde:",
+         "title":"A deterioração máxima permissível de um tecido, já em uso nas aeronaves, baseado num grande número de testes é de:",
          "result":0,
          "options":[
             "30%",
@@ -906,8 +906,8 @@
          "number":81
       },
       {
-         "title":"O calor pode derreter o alumínio e queimaro metal por isso nunca devemos pré-aquecer o alumínio a umatemperatura maior que...?",
-         "result":2,
+         "title":"O calor pode derreter o alumínio e queimar o metal por isso nunca devemos pré-aquecer o alumínio a uma temperatura maior que...?",
+         "result":0,
          "options":[
             "800 ºF",
             "500 ºF",
@@ -932,14 +932,14 @@
          "result":1,
          "options":[
             "Por estarem diretamente relacionados aos comandos de vooprimários",
-            "Eles devem estar ao alcance de uma rápida referência visual para opiloto, fornecendo informações instantaneamente",
+            "Eles devem estar ao alcance de uma rápida referência visual para o piloto, fornecendo informações instantaneamente",
             "Para facilitar as interpretações do piloto automático",
             "Porque as instalações complexas dos instrumentos de voorequerem uma grande proximidade dos eixos de rotação da aeronave"
          ],
          "number":84
       },
       {
-         "title":"Indique a melhor tradução para a frase abaixo, assinalando a alternativacorreta:A fuselagem foi montada tardiamente, não tivemos tempo de usá-la eacabamos usando a antiga",
+         "title":"A fuselagem foi montada tardiamente, não tivemos tempo de usá-la e acabamos usando a antiga",
          "result":3,
          "options":[
             "The fuselage was set up lately, we did not have time to use it andended up using the old one.",
@@ -953,15 +953,15 @@
          "title":"No grupo das superfícies de comando secundárias (auxiliares), temos:",
          "result":0,
          "options":[
-            "Compensadores, painéis de balanceamento, servo-compensadores,apes, spoilers e dispositivos de bordo de ataque",
-            "Compensadores, ailerons, leme de direção, apes, spoilers eprofundores",
-            "Compensadores, profundores, servo-compensadores, apes,spoilers e dispositivos de bordo de ataque",
-            "Compensadores, ailerons, servo-compensadores, apes, spoilers eslats"
+            "Compensadores, painéis de balanceamento, servo-compensadores, flapes, spoilers e dispositivos de bordo de ataque",
+            "Compensadores, ailerons, leme de direção, flapes, spoilers eprofundores",
+            "Compensadores, profundores, servo-compensadores, flapes,spoilers e dispositivos de bordo de ataque",
+            "Compensadores, ailerons, servo-compensadores, flapes, spoilers eslats"
          ],
          "number":86
       },
       {
-         "title":"O fogo na parte interna do escapamento dos motores a reação, durante o corte ou falsa partida, pode ser eliminadopor:",
+         "title":"O fogo na parte interna do escapamento dos motores a reação, durante o corte ou falsa partida, pode ser eliminado por:",
          "result":2,
          "options":[
             "Puxar punha de fogo",
@@ -994,7 +994,7 @@
          "number":89
       },
       {
-         "title":"Identifique o material que devido suainigualável taxa de resistência/peso, a habilidade de ser atravessada porondas de rádio e radar, imunidade a mofo entre outros:",
+         "title":"Identifique o material que devido sua inigualável taxa de resistência/peso, a habilidade de ser atravessada por ondas de rádio e radar, imunidade a mofo entre outros:",
          "result":2,
          "options":[
             "Nylon",
@@ -1044,7 +1044,7 @@
             "Vericar o seu fácil funcionamento e drenar o uido",
             "Remover o uido hidráulico da estocagem",
             "Lavá-la com uido usado no sistema do avião e após lavá-la comuido neutro",
-            "Vericar quanto ao tipo da mesma, se é idêntica à que foi removidae lavá-la com uido hidráulico usado no sistema"
+            "Vericar quanto ao tipo da mesma, se é idêntica à que foi removida e lavá-la com uido hidráulico usado no sistema"
          ],
          "number":94
       },
@@ -1066,7 +1066,7 @@
             "Anaerobicamente, pelas condições atmosféricas apresentadas, oupor giro livre",
             "Manualmente, por seleção do piloto",
             "Por geradores acionados pelos motores da aeronave",
-            "Pelas pressões atmosféricas, de impacto, diferencial e estática, oupor um giroscópio"
+            "Pelas pressões atmosféricas, de impacto, diferencial e estática, ou por um giroscópio"
          ],
          "number":96
       },
@@ -1093,7 +1093,7 @@
          "number":98
       },
       {
-         "title":"Com relação ao aquecimento a arcomprimido para o sistema de ar condicionado podemos armar que:      ",
+         "title":"Com relação ao aquecimento a ar-comprimido para o sistema de ar condicionado podemos afirmar que:      ",
          "result":0,
          "options":[
             "Usa o ar que sai de um estágio do compressor",
@@ -1107,7 +1107,7 @@
          "title":"Qual a finalidade dos instrumentos dos motores?",
          "result":0,
          "options":[
-            "Medir a quantidade e pressão dos líquidos (óleo e combustível) edos gases (pressão de admissão), rotação do motor (R.P.M.) etemperatura.",
+            "Medir a quantidade e pressão dos líquidos (óleo e combustível) e dos gases (pressão de admissão), rotação do motor (R.P.M.) etemperatura.",
             "Regular o funcionamento dos motores",
             "Equalizar o funcionamento dos motores",
             "Regular e equalizar o funcionamento dos motores sob quaisquercondições de pressão e temperatur"
@@ -1115,7 +1115,7 @@
          "number":100
       },
       {
-         "title":"Solvente utilizado em dias úmidos para retardar a secagem da película de dope a m de prevenir a formação demanchas:",
+         "title":"Solvente utilizado em dias úmidos para retardar a secagem da película de dope afim de prevenir a formação demanchas:",
          "result":3,
          "options":[
             "Álcool desnaturado.",
@@ -1137,7 +1137,7 @@
          "number":102
       },
       {
-         "title":"As válvulas de controle são também peças necessárias em um sistema pneumático típico. Válvula é usada paracontrolar o ar dos:",
+         "title":"As válvulas de controle são também peças necessárias em um sistema pneumático típico. Válvula é usada para controlar o ar dos:",
          "result":3,
          "options":[
             "Calibrar rodas",
@@ -1148,7 +1148,7 @@
          "number":103
       },
       {
-         "title":"Normalmente, a cabine do helicóptero é deplexiglass, que em alguns modelos é suportado por:",
+         "title":"Normalmente, a cabine do helicóptero é de plexiglass, que em alguns modelos é suportado por:",
          "result":3,
          "options":[
             "Tubos de titânio",
@@ -1181,7 +1181,7 @@
          "number":106
       },
       {
-         "title":"O que pode ser usado como um primerpara LACA NITROCELULOSE:",
+         "title":"O que pode ser usado como um primer para LACA NITROCELULOSE:",
          "result":3,
          "options":[
             "Primer de laca",
@@ -1206,7 +1206,7 @@
          "title":"Nos Motores Turbo Jato, qual a finalidade da válvula unidirecional no sistema de extinção:",
          "result":0,
          "options":[
-            "Evitar que um reservatório descarregue o seu conteúdo dentro deoutra garrafa",
+            "Evitar que um reservatório descarregue o seu conteúdo dentro de outra garrafa",
             "Evitar a descarga de agente extintor no compartimento debagagens",
             "Evitar a entrada de água dentro do reservatório",
             "Nenhuma das alternativas "
@@ -1214,7 +1214,7 @@
          "number":109
       },
       {
-         "title":"O ventilador da unidade de refrigeração é acionado pelo (a):",
+         "title":"O ventilador da unidade de refrigeração é acionado por:",
          "result":3,
          "options":[
             "Tachometro de N 1",
@@ -1228,10 +1228,10 @@
          "title":"Em um helicóptero monomotor típico, a traseira consiste de:",
          "result":0,
          "options":[
-            "Cone de cauda, barbatana (FIN), alojamento da caixa de 45º, pilonedo rotor de cauda e carenagem do m da cauda",
-            "Cone de cauda, quilha ventral, alojamento da caixa de 90º, pilonedo rotor principal e carenagem do m da cauda",
-            "Cone de cauda, quilha dorsal (FIN), alojamento da caixa de 30º,pilone do rotor de cauda e carenagem do m da cauda",
-            "Cone de cauda, barbatana (FIN), alojamento da caixa de 25º, pilonedo rotor principal e carenagem do m da cauda"
+            "Cone de cauda, barbatana (FIN), alojamento da caixa de 45º, pilone do rotor de cauda e carenagem do fim da cauda",
+            "Cone de cauda, quilha ventral, alojamento da caixa de 90º, pilone do rotor principal e carenagem do fim da cauda",
+            "Cone de cauda, quilha dorsal (FIN), alojamento da caixa de 30º,pilone do rotor de cauda e carenagem do fim da cauda",
+            "Cone de cauda, barbatana (FIN), alojamento da caixa de 25º, pilone do rotor principal e carenagem do fim da cauda"
          ],
          "number":111
       },
@@ -1258,7 +1258,7 @@
          "number":113
       },
       {
-         "title":"Para a fabricação de linhas de oxigênio de alta pressão e partes que devam suportar vibração e altas temperaturasutiliza-se que tipo de solda?",
+         "title":"Para a fabricação de linhas de oxigênio de alta pressão e partes que devam suportar vibração e altas temperaturas utiliza-se que tipo de solda?",
          "result":3,
          "options":[
             "Brasagem",
@@ -1284,9 +1284,9 @@
          "result":1,
          "options":[
             "O tipo de aeronave, o espaço aéreo por ela ocupado e o tipo deoperação",
-            "A missão (finalidade) da aeronave, o espaço disponível para suainstalação e o custo (evitar gastos com funções que não sãoabsolutamente necessárias)",
+            "A missão (finalidade) da aeronave, o espaço disponível para sua instalação e o custo (evitar gastos com funções que não são absolutamente necessárias)",
             "A quantidade de servos de comando associados ao sistema",
-            "A capacidade de comando e execução de manobras pela aeronavenos três eixos"
+            "A capacidade de comando e execução de manobras pela aeronave nos três eixos"
          ],
          "number":116
       },
@@ -1294,9 +1294,9 @@
          "title":"A finalidade dos reservatórios serem pressurizados é:",
          "result":0,
          "options":[
-            "Facilita a alimentação das bombas, com pressão positiva emqualquer altitude",
-            "O sistema dispensa o regulador, pois o reservatório possui seupróprio regulador",
-            "Facilita o suprimento de uido para os sistemas atuadores",
+            "Facilita a alimentação das bombas, com pressão positiva em qualquer altitude",
+            "O sistema dispensa o regulador, pois o reservatório possui seu próprio regulador",
+            "Facilita o suprimento de fluido para os sistemas atuadores",
             "O sistema dispensa o acumulador"
          ],
          "number":117
@@ -1316,10 +1316,10 @@
          "title":"O que é o sinal de “follow up”?",
          "result":3,
          "options":[
-            "Informação originada no sistema giroscópico da aeronave quepermite a coordenação dos comandos do piloto automático para cessaro movimento de curva quando o curso desejado é atingido",
+            "Informação originada no sistema giroscópico da aeronave que permite a coordenação dos comandos do piloto automático para cessaro movimento de curva quando o curso desejado é atingido",
             "Sinal de comando de ascensão da aeronave (climb)",
             "É um sinal de continuidade que garante prosseguimento deoperação de comando das superfícies primárias pelo piloto automático",
-            "É um sinal de acompanhamento que se opõe ao sinal original demodo que, quando iguais, o servo para de se mover, bem como retorna oleme à sua posição inicial quando o curso selecionado é atingido"
+            "É um sinal de acompanhamento que se opõe ao sinal original de modo que, quando iguais, o servo para de se mover, bem como retorna o leme à sua posição inicial quando o curso selecionado é atingido"
          ],
          "number":119
       }
