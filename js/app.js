@@ -33,7 +33,7 @@ function createList( arrayJson ) {
                             list += questions[n].title;
                         list += '</div>';
                         list += '<div class="col-2">';
-                            list += '<button type="button" class="btn btn-outline-primary w-100 h-100" data-question="'+ n +'">Verificar</button>';
+                            list += '<button type="button" class="btn btn-outline-primary w-100 h-100" data-question="'+ n +'"></button>';
                         list += '</div>';
                     list += '</div>';
                 list += '<li class="liMed options">';

@@ -36,3 +36,34 @@ background-color: #0d6efd;
     background-color: #0b5ed7;
     border-color: #0a58ca; 
 }
+
+
+/* to width greater than 770px, txt of button is ... */
+.btn::before {
+    content: "Verificar";
+}
+
+/* to width less than 770px, txt of button is ... */
+@media (max-width: 770px) {
+    .btn::before {
+        content: ">";
+    }
+}
+
+/* background-color of title question */
+.liMed.title{
+    background-color: #abc2d93b;
+}
+
+/* text center vertical */
+.liMed.title .col-1{
+    border-right: 10px solid #408bfa;
+}
+
+/* text center vertical */
+.liMed.title .col-9{
+  display: -webkit-flex;
+  display: flex;
+  align-items: center;    
+}
+
