@@ -26,9 +26,9 @@ function createList( arrayJson ) {
             list += '<ul class="ulMid list-group">';
                 list += '<li class="liMed title list-group-item">';
                     list += '<div class="row">';
-                        list += '<div class="col-1 text-center align-items-center justify-content-center d-inline-flex">';
+                        list += '<div class="col-1 text-center align-items-center justify-content-center d-inline-flex"><label>';
                             list += parseInt(n+1, 10);
-                        list += '</div>';
+                        list += '</label></div>';
                         list += '<div class="col-9">';
                             list += questions[n].title;
                         list += '</div>';
