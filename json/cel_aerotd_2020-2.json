@@ -250,9 +250,9 @@
          "result":0,
          "options":[
             "Aço inoxidável, alumínio titânico",
-            "Aço inoxidável, revestimento isolante"
+            "Aço inoxidável, revestimento isolante",
             "Ange, Fibras de vidro",
-            "Antimônio, isolantes de calor",
+            "Antimônio, isolantes de calor"
          ],
          "number":22
       },
@@ -1019,10 +1019,10 @@
          "title":"Quais são os instrumentos que auxiliam no controle da atitude da aeronave em voo?",
          "result":3,
          "options":[
-            "Anemométricos"
+            "Anemométricos",
             "Motor",
             "Navegação",
-            "Voo",
+            "Voo"
          ],
          "number":92
       },
@@ -1143,7 +1143,7 @@
             "Calibrar rodas",
             "Freios",
             "Limpar para brisa",
-            "Trem de pouso"0
+            "Trem de pouso"
             
          ],
          "number":103
