@@ -4,7 +4,7 @@
    "courseunit":"Mock exam :: Aerotd 2020-2",
    "questions":[
       {
-         "title":"Em um sistema diretor de voo, o que ocorre com o comando “manter altitude” quando a rampa ILS é interceptada?",
+         "title":"Em um sistema diretor de voo, o que ocorre com o comando “manter altitude” quando a rampa ILS (Instrument Landing System) é interceptada?",
          "result":3,
          "options":[
             "Permanece ligado e soará um áudio de alerta informando a interceptação da rampa",
@@ -42,7 +42,7 @@
          "options":[
             "Na falta de óleo especíco, deve-se usar uma mistura de óleo mineral/vegetal",
             "Na falta de uido especíco, pode-se empregar qualquer marca de óleo de base mineral",
-            "Deve-se empregar somente óleo do tipo especicado para o avião",
+            "Deve-se empregar somente óleo do tipo especificado para o avião",
             "Pode-se usar qualquer uído hidráulico, desde que seja limpo"
          ],
          "number":3
@@ -247,12 +247,12 @@
       },
       {
          "title":"Os dutos condutores são feitos de ligas de:",
-         "result":1,
+         "result":0,
          "options":[
-            "Fibras de vidro e ange",
-            "Alumínio titânico, aço inoxidável",
-            "Antimônio, isolantes de calor",
+            "Aço inoxidável, alumínio titânico",
             "Aço inoxidável, revestimento isolante"
+            "Ange, Fibras de vidro",
+            "Antimônio, isolantes de calor",
          ],
          "number":22
       },
@@ -359,10 +359,10 @@
          "title":"Fluidos degeladores normalmente são compostos de:",
          "result":1,
          "options":[
-            "Butil-etil-cetona",
-            "Etileno glicol e álcool isopropílico",
-            "Álcool isopropílico e anticongelantes estáveis",
-            "Polietileno e álcool isopropílico  "
+            "Álcool isopropílico e Anticongelantes estáveis",
+            "Álcool isopropílico e Etileno glicol",
+            "Álcool isopropílico e Polietileno",
+            "Butil-etil-cetona"
          ],
          "number":32
       },
@@ -481,9 +481,9 @@
          "result":0,
          "options":[
             "Método molhado",
-            "Método vaporização",
+            "Método seco",
             "Método único",
-            "Método seco"
+            "Método vaporização"
          ],
          "number":43
       },
@@ -499,7 +499,7 @@
          "number":44
       },
       {
-         "title":"As luzes de posição, anticolisão e de táxi,são exemplos comuns de luzes:",
+         "title":"As luzes de posição, anticolisão e de táxi são exemplos comuns de luzes:",
          "result":1,
          "options":[
             "Luzes de ponta de asa",
@@ -642,23 +642,23 @@
          "number":57
       },
       {
-         "title":"Os guias nunca alteram o alinhamento do cabo mais do que:",
-         "result":1,
+         "title":"As guias nunca alteram o alinhamento do cabo mais do que quantos graus da linha reta:",
+         "result":0,
          "options":[
-            "5 graus da linha reta",
-            "3 graus da linha reta",
-            "4 graus da linha reta",
-            "6 graus da linha reta"
+            "3 graus",
+            "4 graus",
+            "5 graus",
+            "6 graus"
          ],
          "number":58
       },
       {
          "title":"A maioria dos materiais diluidores tem um ponto de fulgor:",
-         "result":2,
+         "result":0,
          "options":[
+            "Muito baixo.",
             "Padrão",
             "Muito alto.",
-            "Muito baixo.",
             "Variável"
          ],
          "number":59
@@ -698,11 +698,11 @@
       },
       {
          "title":"Qual a função do sal eutético em um sensor contínuo:",
-         "result":2,
-         "options":[
-            "Aumentar a resistência de isolamento da cerâmica quando estiver frio",
+         "result":1,
+         "options":[         
             "Diminuir a resistência de isolamento da cerâmica quando estiver frio",
             "Diminuir a resistência de isolamento da cerâmica quando estiver quente",
+            "Aumentar a resistência de isolamento da cerâmica quando estiver frio",
             "Aumentar a resistência de isolamento de cerâmica"
          ],
          "number":63
@@ -720,12 +720,12 @@
       },
       {
          "title":"Uma pressão não uniforme de colagem, comumente resulta em áreas fracas e fortes na mesma junta. A quantidade de pressão requerida para fazer juntas fortes pode variar entre:",
-         "result":3,
-         "options":[
-            "200 a 300 p.s.i. para madeiras macias, e 300 a 400 p.s.i. paramadeiras duras",
-            "100 a 200 p.s.i. para madeiras macias, e 200 a 300 p.s.i. paramadeiras duras",
-            "90 a 150 p.s.i. para madeiras macias, e 50 a 250 p.s.i. para madeirasduras",
-            "125 a 150 p.s.i. para madeiras macias, e 150 a 200 p.s.i. paramadeiras duras"
+         "result":2,
+         "options":[            
+            "090 a 150 p.s.i. para madeiras macias, e 050 a 250 p.s.i. para madeiras duras",
+            "100 a 200 p.s.i. para madeiras macias, e 200 a 300 p.s.i. para madeiras duras",
+            "125 a 150 p.s.i. para madeiras macias, e 150 a 200 p.s.i. para madeiras duras",
+            "200 a 300 p.s.i. para madeiras macias, e 300 a 400 p.s.i. para madeiras duras"
          ],
          "number":65
       },
@@ -742,12 +742,12 @@
       },
       {
          "title":"De que consiste um material pré-impregnado?",
-         "result":1,
+         "result":2,
          "options":[
-            "Matriz e epóxi",
-            "Combinação de matriz e reforço de fibra",
-            "Combinação de epóxi e matriz",
-            "Fibras"
+            "Epóxi",
+            "Epóxi e matriz",
+            "Matriz e fibra",
+            "Fibra"
          ],
          "number":67
       },
@@ -758,7 +758,7 @@
             "Névoa fina.",
             "Demão cruzada, aplicada uma hora depois da primeira.",
             "Demão cruzada, aplicada 30 minutos depois da primeira.",
-            "Névoa cruzad"
+            "Névoa cruzada"
          ],
          "number":68
       },
@@ -775,12 +775,12 @@
       },
       {
          "title":"Os três tipos de dope usados para pintura em aeronaves são:",
-         "result":1,
+         "result":3,
          "options":[
-            "Claro, semi corante e corante.",
-            "Transparente, semi pigmentado e pigmentado.",
             "Branco, semi brilho e fosco.",
-            "Incolor, semi incolor e resinado.  "
+            "Claro, semi corante e corante.",
+            "Incolor, semi incolor e resinado.  ",
+            "Transparente, semi pigmentado e pigmentado."
          ],
          "number":70
       },
@@ -796,13 +796,13 @@
          "number":71
       },
       {
-         "title":"Nas aeronaves, as luzes de posição são:",
+         "title":"Nas aeronaves, as luzes de posição :asa direita, asas esquerda e estabiliador vertical; respectivamente são:",
          "result":2,
          "options":[
-            "Branca na asa direita, verde na asa esquerda e vermelha no estabilizador vertical",
-            "Verde na asa direita, branca na asa esquerda e vermelha no estabilizador vertical",
-            "Verde na asa direita, vermelha na asa esquerda e branca no estabilizador vertical",
-            "Vermelha na asa direita, verde na asa esquerda e branca no estabilizador vertical"
+            "Branca,   verde,    vermelha",
+            "Verde,    branca,   vermelha",
+            "Verde,    vermelha, branca",
+            "Vermelha, verde,    branca"
          ],
          "number":72
       },
@@ -818,7 +818,7 @@
          "number":73
       },
       {
-         "title":"No caso de Superaquecimento do Parabrisa, a proteção será automática pelos:",
+         "title":"No caso de super-aquecimento do para-brisa a proteção será automática pelos:",
          "result":1,
          "options":[
             "Elementos sensores",
@@ -830,23 +830,23 @@
       },
       {
          "title":"A finalidade do fluido hidráulico é:",
-         "result":0,
+         "result":2,
          "options":[
-            "Lubricar e transmitir força",
             "Lubricar e conservar",
             "Lubricar o sistema",
+            "Lubricar e transmitir força",
             "Remover a corrosão"
          ],
          "number":75
       },
       {
          "title":"São instalados em aeronaves pressurizadas devido a sua maior resistência ao estilhaçamento e a descompressão explosiva:",
-         "result":1,
+         "result":3,
          "options":[
+            "Fibra de plástica",
+            "Fibra sintética",
             "Fibra de vidro",
-            "Plásticos laminados",
-            "Fibra plástica",
-            "Fibra sintética"
+            "Plásticos laminados"
          ],
          "number":76
       },
@@ -874,23 +874,23 @@
       },
       {
          "title":"Para guiar e mudar a direção do movimento dos cabos utiliza-se:",
-         "result":0,
+         "result":2,
          "options":[
-            "Roldanas",
             "Grometes",
             "Guias",
+            "Roldanas",
             "Selos"
          ],
          "number":79
       },
       {
          "title":"A deterioração máxima permissível de um tecido, já em uso nas aeronaves, baseado num grande número de testes é de:",
-         "result":0,
+         "result":1,
          "options":[
-            "30%",
-            "40%",
             "25%",
-            "35%"
+            "30%",
+            "35%",
+            "40%"
          ],
          "number":80
       },
@@ -898,7 +898,7 @@
          "title":"Quais os servos mais utilizados na aviação?",
          "result":0,
          "options":[
-            "Motores elétricos e motores eletropneumáticos",
+            "Motores elétricos e motores eletro-pneumáticos",
             "Sistemas hidropneumáticos",
             "Sistemas síncronos",
             "Sistemas híbridos"
@@ -906,24 +906,24 @@
          "number":81
       },
       {
-         "title":"O calor pode derreter o alumínio e queimar o metal por isso nunca devemos pré-aquecer o alumínio a uma temperatura maior que...?",
-         "result":0,
+         "title":"O calor pode derreter o alumínio e queimar o metal por isso nunca devemos pré-aquecer o alumínio a uma temperatura maior que:?",
+         "result":1,
          "options":[
-            "800 ºF",
             "500 ºF",
-            "800 ºC",
-            "500 ºC"
+            "800 ºF",
+            "500 ºC",
+            "800 ºC"
          ],
          "number":82
       },
       {
          "title":"Qual o nome dado à antena que recebe sinais eletromagnéticos?",
-         "result":0,
+         "result":1,
          "options":[
+            "Antena radiante",
             "Antena receptora",
-            "Antena VHF",
             "Antena transmissora",
-            "Antena radiante"
+            "Antena VHF"
          ],
          "number":83
       },
@@ -932,7 +932,7 @@
          "result":1,
          "options":[
             "Por estarem diretamente relacionados aos comandos de vooprimários",
-            "Eles devem estar ao alcance de uma rápida referência visual para o piloto, fornecendo informações instantaneamente",
+            "Para o piloto ter rápida referência visual, fornecendo informações instantaneamente",
             "Para facilitar as interpretações do piloto automático",
             "Porque as instalações complexas dos instrumentos de voorequerem uma grande proximidade dos eixos de rotação da aeronave"
          ],
@@ -954,9 +954,9 @@
          "result":0,
          "options":[
             "Compensadores, painéis de balanceamento, servo-compensadores, flapes, spoilers e dispositivos de bordo de ataque",
-            "Compensadores, ailerons, leme de direção, flapes, spoilers eprofundores",
+            "Compensadores, ailerons, leme de direção, flapes, spoilers e profundores",
             "Compensadores, profundores, servo-compensadores, flapes,spoilers e dispositivos de bordo de ataque",
-            "Compensadores, ailerons, servo-compensadores, flapes, spoilers eslats"
+            "Compensadores, ailerons, servo-compensadores, flapes, spoilers e slats"
          ],
          "number":86
       },
@@ -973,17 +973,17 @@
       },
       {
          "title":"Os plásticos podem ser divididos em duas classificações principais:",
-         "result":0,
+         "result":3,
          "options":[
-            "Termoplásticos e Termo endurecível",
             "Plásticos e acrílicos",
             "Termo endurecível e acrílico",
-            "Termoplásticos e Acrílicos"
+            "Termoplásticos e Acrílicos",
+            "Termoplásticos e Termo endurecível"
          ],
          "number":88
       },
       {
-         "title":"O aquecimento do para-brisa em Aeronaves pressurizadas é por meio de:",
+         "title":"O aquecimento do para-brisa em aeronaves pressurizadas é por meio de:",
          "result":3,
          "options":[
             "Pneumáticos",
@@ -994,7 +994,7 @@
          "number":89
       },
       {
-         "title":"Identifique o material que devido sua inigualável taxa de resistência/peso, a habilidade de ser atravessada por ondas de rádio e radar, imunidade a mofo entre outros:",
+         "title":"Identifique o material que devido sua singularidade taxa de resistência/peso, a habilidade de ser atravessada por ondas de rádio e radar, imunidade a mofo entre outros:",
          "result":2,
          "options":[
             "Nylon",
@@ -1017,17 +1017,17 @@
       },
       {
          "title":"Quais são os instrumentos que auxiliam no controle da atitude da aeronave em voo?",
-         "result":0,
+         "result":3,
          "options":[
-            "Os instrumentos de voo",
-            "Os instrumentos do motor",
-            "Os instrumentos de navegação",
-            "Os instrumentos anemométricos"
+            "Anemométricos"
+            "Motor",
+            "Navegação",
+            "Voo",
          ],
          "number":92
       },
       {
-         "title":"Qual o Método de Inspeção que consiste em tocar a superfícies com uma moeda?",
+         "title":"Qual o método de inspeção que consiste em tocar a superfícies com uma moeda?",
          "result":0,
          "options":[
             "Tap test",
@@ -1044,18 +1044,18 @@
             "Vericar o seu fácil funcionamento e drenar o uido",
             "Remover o uido hidráulico da estocagem",
             "Lavá-la com uido usado no sistema do avião e após lavá-la comuido neutro",
-            "Vericar quanto ao tipo da mesma, se é idêntica à que foi removida e lavá-la com uido hidráulico usado no sistema"
+            "Vericar quanto ao tipo da mesma, se é idêntica à que foi removida e lavá-la com fluido hidráulico usado no sistema"
          ],
          "number":94
       },
       {
          "title":"Os tipos de juntas soldadas existentes são:",
-         "result":2,
+         "result":1,
          "options":[
-            "Transversal, horizontal, sobreposta, em quina e de aresta",
-            "Transversal, horizontal, plana, vertical e de quina",
+            "De topo, ângulo em “T”, plana, vertical e de quina",
             "De topo, ângulo em “T”, sobreposta, em quina e de aresta",
-            "De topo, ângulo em “T”, plana, vertical e de quina"
+            "Transversal, horizontal, sobreposta, em quina e de aresta",
+            "Transversal, horizontal, plana, vertical e de quina"
          ],
          "number":95
       },
@@ -1072,12 +1072,12 @@
       },
       {
          "title":"O sistema que remove o gelo já formado é chamado de:",
-         "result":3,
+         "result":2,
          "options":[
             "Antigelo",
             "Antigelo e Degelo",
-            "Sistema pneumático",
-            "Degelo"
+            "Degelo",
+            "Sistema pneumático"
          ],
          "number":97
       },
@@ -1097,9 +1097,9 @@
          "result":0,
          "options":[
             "Usa o ar que sai de um estágio do compressor",
-            "Usa resistências elétricas",
             "Usa o ar de impacto",
-            "Usa o ar que sai da exaustão dos motores"
+            "Usa o ar que sai da exaustão dos motores",
+            "Usa resistências elétricas"
          ],
          "number":99
       },
@@ -1110,7 +1110,7 @@
             "Medir a quantidade e pressão dos líquidos (óleo e combustível) e dos gases (pressão de admissão), rotação do motor (R.P.M.) etemperatura.",
             "Regular o funcionamento dos motores",
             "Equalizar o funcionamento dos motores",
-            "Regular e equalizar o funcionamento dos motores sob quaisquercondições de pressão e temperatur"
+            "Regular e equalizar o funcionamento dos motores sob quaisquercondições de pressão e temperatura"
          ],
          "number":100
       },
@@ -1129,32 +1129,33 @@
          "title":"Dispositivo usado nos sistemas de cabo de controle para o ajuste da tensão do cabo:",
          "result":1,
          "options":[
-            "Trava",
+            "Conector",
             "Esticador",
             "Gabarito",
-            "Conector"
+            "Trava"
          ],
          "number":102
       },
       {
          "title":"As válvulas de controle são também peças necessárias em um sistema pneumático típico. Válvula é usada para controlar o ar dos:",
-         "result":3,
+         "result":1,
          "options":[
             "Calibrar rodas",
-            "Trem de pouso",
+            "Freios",
             "Limpar para brisa",
-            "Freios"
+            "Trem de pouso"0
+            
          ],
          "number":103
       },
       {
          "title":"Normalmente, a cabine do helicóptero é de plexiglass, que em alguns modelos é suportado por:",
-         "result":3,
+         "result":0,
          "options":[
-            "Tubos de titânio",
+            "Tubos de alumínio",
             "Tubos de aço",
-            "Tubos de bra de vidro",
-            "Tubos de alumínio"
+            "Tubos de fibra de vidro",
+            "Tubos de titânio"
          ],
          "number":104
       },
@@ -1181,29 +1182,29 @@
          "number":106
       },
       {
-         "title":"O que pode ser usado como um primer para LACA NITROCELULOSE:",
+         "title":"O que pode ser usado como um primer para laca nitrocelulose:",
          "result":3,
          "options":[
-            "Primer de laca",
-            "Poliuretano",
             "Esmalte",
+            "Poliuretano",
+            "Primer de laca",
             "Primer de cromato de zinco"
          ],
          "number":107
       },
       {
-         "title":"Qual é o pigmento resistente à corrosão que pode ser adicionado a PRIMERS feitos de diferentes tipos de resina?",
-         "result":2,
+         "title":"Qual é o pigmento resistente à corrosão que pode ser adicionado a primer's feitos de diferentes tipos de resina?",
+         "result":0,
          "options":[
-            "Thinner",
-            "Óxido de ferro",
             "Cromato de zinco",
-            "Nafta"
+            "Nafta",
+            "Óxido de ferro",
+            "Thinner"
          ],
          "number":108
       },
       {
-         "title":"Nos Motores Turbo Jato, qual a finalidade da válvula unidirecional no sistema de extinção:",
+         "title":"Nos motores turbo jato, qual a finalidade da válvula unidirecional no sistema de extinção:",
          "result":0,
          "options":[
             "Evitar que um reservatório descarregue o seu conteúdo dentro de outra garrafa",
@@ -1217,32 +1218,32 @@
          "title":"O ventilador da unidade de refrigeração é acionado por:",
          "result":3,
          "options":[
-            "Tachometro de N 1",
             "APU",
             "Compressor",
+            "Tachometro",
             "Turbina"
          ],
          "number":110
       },
       {
          "title":"Em um helicóptero monomotor típico, a traseira consiste de:",
-         "result":0,
+         "result":1,
          "options":[
+            "Cone de cauda, barbatana (FIN), alojamento da caixa de 25º, pilone do rotor principal e carenagem do fim da cauda",
             "Cone de cauda, barbatana (FIN), alojamento da caixa de 45º, pilone do rotor de cauda e carenagem do fim da cauda",
-            "Cone de cauda, quilha ventral, alojamento da caixa de 90º, pilone do rotor principal e carenagem do fim da cauda",
             "Cone de cauda, quilha dorsal (FIN), alojamento da caixa de 30º,pilone do rotor de cauda e carenagem do fim da cauda",
-            "Cone de cauda, barbatana (FIN), alojamento da caixa de 25º, pilone do rotor principal e carenagem do fim da cauda"
+            "Cone de cauda, quilha ventral, alojamento da caixa de 90º, pilone do rotor principal e carenagem do fim da cauda"
          ],
          "number":111
       },
       {
          "title":"Sistema de pouso por instrumentos que indica a rampa de descida:",
-         "result":2,
+         "result":0,
          "options":[
-            "Marker Beacon",
-            "Variômetro",
             "Glide slope",
-            "Localizer"
+            "Localizer",
+            "Marker Beacon",
+            "Variômetro"
          ],
          "number":112
       },
