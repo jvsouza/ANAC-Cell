@@ -623,7 +623,7 @@
          "title":"Tecidos de fibra de vidro quando costurados, são com:",
          "result":2,
          "options":[
-            "Fios de bra de vidro",
+            "Fios de fibra de vidro",
             "Fios de algodão",
             "Fios sintéticos especiais",
             "Fios de dacron"
@@ -634,10 +634,10 @@
          "title":"The pilot only noticed when he tried to rotate off the runway and foundthe nose very heavy.",
          "result":2,
          "options":[
-            "O piloto só percebeu quando ele tentou fora fazer a rotação da pistae achou o nariz muito pesado.",
-            "O piloto só percebeu quando ele tentou de fora da rotação da pista eachou o nariz muito pesado.",
-            "O piloto só percebeu quando ele tentou girar pra fora da pista e achou o nariz muito pesado.",
-            "O piloto só percebeu quando ele tentou para a rotação fora da pistae achou o nariz muito pesado."
+            "O piloto só percebeu quando ele tentou fora fazer a rotação da pista e achou o nariz muito pesado.",
+            "O piloto só percebeu quando ele tentou de   fora da rotação da pista e achou o nariz muito pesado.",
+            "O piloto só percebeu quando ele tentou -- girar -- pra fora da pista e achou o nariz muito pesado.",
+            "O piloto só percebeu quando ele tentou  para a rotação fora da pista e achou o nariz muito pesado."
          ],
          "number":57
       },
@@ -670,7 +670,7 @@
             "Transversal, horizontal, plana e sobre cabeça",
             "Para frente, para trás, chata e plana",
             "Chata ou plana, horizontal, transversal e para trás",
-            "Chata ou plana, horizontal, vertical e sobre cabeça"
+            "Chata ou plana, horizontal, -- vertical -- e sobre cabeça"
          ],
          "number":60
       },
@@ -709,12 +709,12 @@
       },
       {
          "title":"O regulador de pressão tem por finalidade:",
-         "result":0,
+         "result":2,
          "options":[
+            "Controlar o sentido de deslocamento dos mecanismos hidráulicos",
+            "Fazer variar a pressão do uido de acordo com a demanda dos istema",
             "Manter a pressão do sistema num valor fixo pré-determinado",
-            "Manter o uxo do uido nas linhas do sistema, dentro de um valorpré-determinado",
-            "Fazer variar a pressão do uido de acordo com a demanda dosistema",
-            "Controlar o sentido de deslocamento dos mecanismos hidráulicos"
+            "Manter o fluxo do fluido nas linhas do sistema, dentro de um valor pré-determinado"
          ],
          "number":64
       },
@@ -724,7 +724,7 @@
          "options":[            
             "090 a 150 p.s.i. para madeiras macias, e 050 a 250 p.s.i. para madeiras duras",
             "100 a 200 p.s.i. para madeiras macias, e 200 a 300 p.s.i. para madeiras duras",
-            "125 a 150 p.s.i. para madeiras macias, e 150 a 200 p.s.i. para madeiras duras",
+            "--125 a 150 p.s.i.-- para madeiras macias, e 150 a 200 p.s.i. para madeiras duras",
             "200 a 300 p.s.i. para madeiras macias, e 300 a 400 p.s.i. para madeiras duras"
          ],
          "number":65
@@ -735,8 +735,8 @@
          "options":[
             "Álcool etílico.",
             "Álcool butílico.",
-            "Benzeno",
-            "Álcool desnaturado."
+            "Álcool desnaturado.",
+            "Benzeno"
          ],
          "number":66
       },
@@ -756,8 +756,8 @@
          "result":2,
          "options":[
             "Névoa fina.",
-            "Demão cruzada, aplicada uma hora depois da primeira.",
-            "Demão cruzada, aplicada 30 minutos depois da primeira.",
+            "Demão cruzada, aplicada 60 minutos depois da primeira.",
+            "Demão cruzada, aplicada -- 30 minutos -- depois da primeira.",
             "Névoa cruzada"
          ],
          "number":68
@@ -780,18 +780,18 @@
             "Branco, semi brilho e fosco.",
             "Claro, semi corante e corante.",
             "Incolor, semi incolor e resinado.  ",
-            "Transparente, semi pigmentado e pigmentado."
+            "--Transparente--, semi pigmentado e pigmentado."
          ],
          "number":70
       },
       {
          "title":"O melhor condutor metálico é:",
-         "result":0,
+         "result":3,
          "options":[
-            "Prata",
-            "Ouro",
+            "Alumínio",
             "Níquel",
-            "Alumínio"
+            "Ouro",
+            "Prata"
          ],
          "number":71
       },
@@ -808,12 +808,12 @@
       },
       {
          "title":"Antes que qualquer carga elétrica de avião seja aumentada, deverão ser verificados para determinar que a nova carga elétrica não exceda aos limites estabelecidos, as seguintes partes exceto:",
-         "result":2,
+         "result":0,
          "options":[
+            "Braçadeiras e grumetes",
+            "Cabos",
             "Dispositivos de proteção de circuitos",
-            "Fios",
-            "Grumetes e braçadeiras",
-            "Cabos"
+            "Fios"
          ],
          "number":73
       },
@@ -852,23 +852,23 @@
       },
       {
          "title":"Material utilizado por fabricantes de helicópteros como substituto leve para certas partes metálicas:",
-         "result":3,
+         "result":2,
          "options":[
-            "Liga de aço",
             "Fibra de carbono",
             "Fibra de titânio",
-            "Fibra de vidro"
+            "Fibra de vidro",
+            "Liga de aço"
          ],
          "number":77
       },
       {
          "title":"Qual é o sistema de controle de voo mais utilizado?",
-         "result":3,
+         "result":0,
          "options":[
-            "Tubo de torque",
+            "Cabo",
             "Eixos extensivos",
             "Hastes rígidas",
-            "Cabo"
+            "Tubo de torque"
          ],
          "number":78
       },
@@ -899,9 +899,9 @@
          "result":0,
          "options":[
             "Motores elétricos e motores eletro-pneumáticos",
+            "Sistemas híbridos",
             "Sistemas hidropneumáticos",
-            "Sistemas síncronos",
-            "Sistemas híbridos"
+            "Sistemas síncronos"
          ],
          "number":81
       },
@@ -931,7 +931,7 @@
          "title":"Por que os instrumentos de voo estão localizados no painel principal?",
          "result":1,
          "options":[
-            "Por estarem diretamente relacionados aos comandos de vooprimários",
+            "Por estarem diretamente relacionados aos comandos de voos primários",
             "Para o piloto ter rápida referência visual, fornecendo informações instantaneamente",
             "Para facilitar as interpretações do piloto automático",
             "Porque as instalações complexas dos instrumentos de voorequerem uma grande proximidade dos eixos de rotação da aeronave"
@@ -940,23 +940,23 @@
       },
       {
          "title":"A fuselagem foi montada tardiamente, não tivemos tempo de usá-la e acabamos usando a antiga",
-         "result":3,
+         "result":1,
          "options":[
-            "The fuselage was set up lately, we did not have time to use it andended up using the old one.",
             "The fuselage was set up afternoonly, we did not have time to use itand ended up using the old one.",
-            "The fuselage was set up tardion, we did not have time to use it andended up using the old one.",
-            "The fuselage was set up late, we did not have time to use it andended up using the old one."
+            "The fuselage was set up --late--, we did not have time to use it andended up using the old one.",
+            "The fuselage was set up lately, we did not have time to use it andended up using the old one.",
+            "The fuselage was set up tardion, we did not have time to use it andended up using the old one."
          ],
          "number":85
       },
       {
          "title":"No grupo das superfícies de comando secundárias (auxiliares), temos:",
-         "result":0,
+         "result":2,
          "options":[
-            "Compensadores, painéis de balanceamento, servo-compensadores, flapes, spoilers e dispositivos de bordo de ataque",
-            "Compensadores, ailerons, leme de direção, flapes, spoilers e profundores",
-            "Compensadores, profundores, servo-compensadores, flapes,spoilers e dispositivos de bordo de ataque",
-            "Compensadores, ailerons, servo-compensadores, flapes, spoilers e slats"
+            "Compensadores, flapes, spoilers, ailerons, leme de direção  e profundores",
+            "Compensadores, flapes, spoilers, servo-compensadores, ailerons,  e slats",
+            "Compensadores, flapes, spoilers, servo-compensadores, dispositivos de bordo de ataque e --painéis de balanceamento--",
+            "Compensadores, flapes, spoilers, servo-compensadores, dispositivos de bordo de ataque e profundores"
          ],
          "number":86
       },
@@ -1028,12 +1028,12 @@
       },
       {
          "title":"Qual o método de inspeção que consiste em tocar a superfícies com uma moeda?",
-         "result":0,
+         "result":2,
          "options":[
-            "Tap test",
             "Raio X",
             "Tap choque",
-            "Termograa"
+            "Tap test",
+            "Termografia"
          ],
          "number":93
       },
@@ -1110,7 +1110,7 @@
             "Medir a quantidade e pressão dos líquidos (óleo e combustível) e dos gases (pressão de admissão), rotação do motor (R.P.M.) etemperatura.",
             "Regular o funcionamento dos motores",
             "Equalizar o funcionamento dos motores",
-            "Regular e equalizar o funcionamento dos motores sob quaisquercondições de pressão e temperatura"
+            "Regular e equalizar o funcionamento dos motores sob qualquer condições de pressão e temperatura"
          ],
          "number":100
       },
@@ -1306,10 +1306,10 @@
          "title":"De que modo os membros de uma longarina ou nervura podem ser reparados?",
          "result":1,
          "options":[
-            "Aplicando-se um remendo interno ou embutido desde que a área seja pequena",
-            "Aplicando-se um remendo externo ou embutido desde que a área seja pequena",
-            "Aplicando um remendo externo ou embutido desde que a área sejagrande",
-            "Aplicando todas as técnicas acima mencionadas  "
+            "Aplicando um remendo interno ou embutido desde que a área seja pequena",
+            "Aplicando um remendo externo ou embutido desde que a área seja pequena",
+            "Aplicando um remendo externo ou embutido desde que a área seja grande",
+            "Aplicando todas as técnicas acima mencionadas"
          ],
          "number":118
       },
@@ -1317,8 +1317,8 @@
          "title":"O que é o sinal de “follow up”?",
          "result":3,
          "options":[
-            "Informação originada no sistema giroscópico da aeronave que permite a coordenação dos comandos do piloto automático para cessaro movimento de curva quando o curso desejado é atingido",
-            "Sinal de comando de ascensão da aeronave (climb)",
+            "É um sinal do sistema giroscópico da aeronave que permite a coordenação dos comandos do piloto automático para cessaro movimento de curva quando o curso desejado é atingido",
+            "É um sinal de comando de ascensão da aeronave (climb)",
             "É um sinal de continuidade que garante prosseguimento deoperação de comando das superfícies primárias pelo piloto automático",
             "É um sinal de acompanhamento que se opõe ao sinal original de modo que, quando iguais, o servo para de se mover, bem como retorna o leme à sua posição inicial quando o curso selecionado é atingido"
          ],
