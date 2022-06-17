@@ -7,10 +7,10 @@
          "title":"Em um sistema diretor de voo, o que ocorre com o comando “manter altitude” quando a rampa ILS (Instrument Landing System) é interceptada?",
          "result":3,
          "options":[
-            "Permanece ligado e soará um áudio de alerta informando a interceptação da rampa",
-            "O ILS não é interceptado se o comando para manter a altitude estiver ativado, para não comprometer a segurança da operação",
+            "Ele desligará automaticamente!",
+            "O sistema ILS não é interceptado se o comando para manter a altitude estiver ativado, para não comprometer a segurança da operação",
             "O sistema ILS não permite seu acionamento quando outro comando foi inserido anteriormente",
-            "Ele desligará automaticamente"
+            "Permanece ligado e soará um áudio de alerta informando a interceptação da rampa"
          ],
          "number":0
       },
@@ -18,10 +18,10 @@
          "title":"Quais luzes ficam acesas quando os trens de pouso estiverem em trânsito?",
          "result":0,
          "options":[
-            "Luz de aviso acesa e diagonal vermelha e listras fluorescentes",
-            "Luz de aviso apagada e diagonal âmbar acesa com listras uorescentes",
             "Luz âmbar acesa",
-            "Luz de aviso apagada e diagonal verde e listras uorescentes"
+            "Luz de aviso acesa e 'diagonal vermelha' e listras fluorescentes",
+            "Luz de aviso apagada e diagonal âmbar acesa com listras fluorescentes",
+            "Luz de aviso apagada e diagonal verde e listras fluorescentes",
          ],
          "number":1
       },
@@ -29,20 +29,20 @@
          "title":"Qual das ferramentas abaixo, nunca devem ser usadas sem cabo de madeira, pois as pontas pontiagudas poderão ferir a mão, se a ferramenta se chocar contra algum obstáculo?",
          "result":3,
          "options":[
-            "Ferro de soldar",
             "Alicates",
             "Chave de fenda",
+            "Ferro de soldar",
             "Lima e raspadores"
          ],
          "number":2
       },
       {
          "title":"Ao abastecer o sistema hidráulico de um avião:",
-         "result":2,
+         "result":0,
          "options":[
+            "Deve-se empregar somente óleo do tipo especificado para o avião",
             "Na falta de óleo especíco, deve-se usar uma mistura de óleo mineral/vegetal",
             "Na falta de uido especíco, pode-se empregar qualquer marca de óleo de base mineral",
-            "Deve-se empregar somente óleo do tipo especificado para o avião",
             "Pode-se usar qualquer uído hidráulico, desde que seja limpo"
          ],
          "number":3
@@ -51,32 +51,32 @@
          "title":"Um condutor central singelo isolado, com um condutor externo de revestimento metálico, define:",
          "result":1,
          "options":[
-            "Cabo multicondutor",
-            "Cabo de R.F",
             "Cabo blindado",
+            "Cabo de R.F",
+            "Cabo multicondutor",
             "Par torcido"
          ],
          "number":4
       },
       {
          "title":"It was Cayley _________ first stacked wings and created a tri-wing glider _________ flew a main in 1853.",
-         "result":1,
+         "result":3,
          "options":[
             "That / who",
-            "Who / that",
+            "Where / when",
             "Which / that",
-            "Where / when"
+            "Who / that"
          ],
          "number":5
       },
       {
          "title":"O processo de junção de metais, nos quais o material adesivo é um metal não ferroso ou uma liga, com o ponto de fusão maior que 800 º F, porém menor que o ponto de fusão do metal a ser soldado, é conhecido por?",
-         "result":3,
+         "result":0,
          "options":[
-            "Integração",
+            "Brasagem",
             "Fricção",
-            "Plasma",
-            "Brasagem"
+            "Integração",
+            "Plasma"
          ],
          "number":6
       },
@@ -93,12 +93,12 @@
       },
       {
          "title":"Quais são os tipos de amortecedores de vibração (SHIMMY)?",
-         "result":1,
+         "result":2,
          "options":[
-            "Rotor e Pistão",
-            "Pistão e Palheta",
+            "Engrenagem e Palheta",
             "Engrenagem e Pistão",
-            "Palheta e Engrenagem"
+            "Palheta e Pistão",
+            "Rotor e Pistão"
          ],
          "number":8
       },
@@ -106,43 +106,43 @@
          "title":"São características consideradas problemas de pintura:",
          "result":3,
          "options":[
-            "Porosidade, Esticamento e ondulações.",
-            "Aderência, olhos de peixe, escorrimento.",
-            "Casca de laranja, manchas, esticamento.",
-            "Má aderência, ondulações, olhos de peixe."
+            "Aderência, olhos de peixe, escorrimento",
+            "Casca de laranja, manchas, esticamento",
+            "Má aderência, ondulações, olhos de peixe",
+            "Porosidade, Esticamento e ondulações"
          ],
          "number":9
       },
       {
          "title":"Dois ou mais condutores isolados separadamente e torcidos juntos define:",
-         "result":2,
+         "result":3,
          "options":[
-            "Cabo de R.F",
             "Cabo blindado",
-            "Par torcido",
-            "Cabo multicondutor"
+            "Cabo multicondutor",
+            "Cabo R.F",
+            "Par torcido"
          ],
          "number":10
       },
       {
          "title":"Em quantas demãos a laca deve ser aplicada na pintura da aeronave?",
-         "result":2,
+         "result":1,
          "options":[
-            "Quatro",
-            "Três",
+            "Uma",
             "Duas",
-            "Uma"
+            "Três",
+            "Quatro"
          ],
          "number":11
       },
       {
          "title":"Dispositivo que transforma ondas sonoras em sinais elétricos:",
-         "result":2,
+         "result":1,
          "options":[
-            "Autofalante",
-            "Transmissor",
+            "Auto-falante",
             "Microfone",
-            "Receptor"
+            "Receptor",
+            "Transmissor"
          ],
          "number":12
       },
@@ -150,43 +150,44 @@
          "title":"Quais são os dispositivos de segurança do trem de pouso?",
          "result":3,
          "options":[
-            "Tesoura, sensor e pino",
-            "Pino, indicadores e tesoura",
             "Manetes, pinos, travamento no solo e trava mecânica",
+            "Pino, indicadores e tesoura",
+            "Tesoura, sensor e pino",
             "Trava mecânica do trem embaixo, interruptores de segurança e travamento de solo"
          ],
          "number":13
       },
       {
          "title":"A pequena passagem de saída reduz a razão do fluxo de ar e a velocidade de operação de uma unidade atuadora:",
-         "result":3,
+         "result":2,
          "options":[
-            "Cross feed valve",
             "Bomba",
-            "Válvula",
-            "Restritor"
+            "Cross feed valve",
+            "Restritor",
+            "Válvula"
          ],
          "number":14
       },
       {
          "title":"É usado em aeronaves marítimas e agrícolas, devido a sua resistência a abrasão e ataques químicos:",
-         "result":2,
+         "result":3,
          "options":[
             "Dope",
             "Epóxi",
-            "Poliuretano",
-            "Laca nitrocelulose"
+            "Laca nitrocelulose",
+            "Poliuretano"
+            
          ],
          "number":15
       },
       {
          "title":"É geralmente usado para encerar os fios de costura:",
-         "result":2,
+         "result":1,
          "options":[
-            "Parana bruta",
             "Cera de abelha com parafina",
             "Cera de abelha sem parafina",
-            "Cera de carnaúba"
+            "Cera de carnaúba",
+            "Parana bruta"
          ],
          "number":16
       },
@@ -195,31 +196,31 @@
          "result":0,
          "options":[
             "AM e FM",
-            "RF e LF",
             "HF e VHF",
+            "LF e RF",
             "PTT e RT"
          ],
          "number":17
       },
       {
          "title":"Podemos afirmar que pequenos pontos que se esmigalham na madeira são indicações de:",
-         "result":2,
+         "result":0,
          "options":[
-            "Inltração",
-            "Trinca na madeira",
             "Apodrecimento",
-            "Corrosão"
+            "Corrosão",
+            "Infiltração",
+            "Trinca na madeira"
          ],
          "number":18
       },
       {
          "title":"O tipo de teste elétrico requerido após um reparo depende do propósito do radome. Alguns testes elétricos típicos são:",
-         "result":1,
+         "result":3,
          "options":[
+            "Condutividade, refração",
             "Isolamento, deflexão ou refração",
-            "Transmissividade, reflexão por incidência e deflexão ou refração",
             "Isolamento, reexão por incidência e deflexão ou refração",
-            "Condutividade, refração"
+            "Transmissividade, reflexão por incidência e deflexão ou refração"
          ],
          "number":19
       },
@@ -228,7 +229,7 @@
          "result":2,
          "options":[
             "Cabo blindado",
-            "Cabo de R.F",
+            "Cabo R.F",
             "Cabo multicondutor",
             "Par torcido"
          ],
@@ -236,12 +237,12 @@
       },
       {
          "title":"Quando acionamos o interruptor do PTT (microfone) o que ocorre:",
-         "result":2,
+         "result":0,
          "options":[
-            "Tanto o receptor como o transmissor desliga",
-            "Tanto o receptor como o transmissor liga",
             "O receptor desliga e o transmissor liga",
-            "O transmissor desliga e o receptor liga"
+            "O transmissor desliga e o receptor liga",
+            "Tanto o receptor como o transmissor desliga",
+            "Tanto o receptor como o transmissor liga"
          ],
          "number":21
       },
@@ -258,33 +259,33 @@
       },
       {
          "title":"As superfícies a serem coladas devem sempre estar:",
-         "result":3,
+         "result":0,
          "options":[
-            "Secas, com uma camada na de tinta e livres de graxa ou óleo",
-            "Úmidas, livres de óleo ou cera",
+            "Limpas, secas, livres de graxa, óleo, cera, tinta, etc",
             "Não precisa de uma limpeza para aplicação de cola",
-            "Limpas, secas, livres de graxa, óleo, cera, tinta, etc"
+            "Secas, com uma camada na de tinta e livres de graxa ou óleo",
+            "Úmidas, livres de óleo ou cera"
          ],
          "number":23
       },
       {
          "title":"Os sistemas de direção da roda do nariz das aeronaves são:",
-         "result":2,
+         "result":1,
          "options":[
             "Pelos pedais em aeronaves pesadas e pelo volante em aeronaves leves",
-            "Somente pelo steering",
-            "Pelos pedais em aeronaves leves e por uma fonte de força para a direção da roda de nariz em aeronaves pesadas",
-            "Somente pelos pedais"
+            "Pelos pedais em aeronaves leves e por fonte externa em aeronaves pesadas",
+            "Somente pelos pedais",
+            "Somente pelo steering"
          ],
          "number":24
       },
       {
          "title":"Os ailerons são operados por um movimento:",
-         "result":2,
+         "result":0,
          "options":[
+            "--Lateral-- do manche ou pelo movimento --rotação-- do volante",
             "Lateral do manche ou pelo movimento longitudinal do volante",
             "Longitudinal do manche",
-            "Lateral do manche ou pelo movimento de rotação do volante",
             "Longitudinal do manche ou pelo movimento de rotação do volante"
          ],
          "number":25
@@ -294,9 +295,9 @@
          "result":0,
          "options":[
             "Cabo, hastes rígidas e tubo de torque",
-            "Tubo de torque, tubo de compensação e engate",
+            "Cabo, fios e por eixos extensivos",
             "Hastes semirrígidas, rígidas e maleáveis",
-            "Cabo, os e por eixos extensivos"
+            "Tubo de torque, tubo de compensação e engate"
          ],
          "number":26
       },
@@ -328,30 +329,30 @@
          "options":[
             "Modula um sinal de RF",
             "Transforma corrente alternada em contínua",
-            "Transforma corrente contínua em alternada",
+            "Transforma corrente Contínua em Alternada",
             "Inverte o sinal de entrada"
          ],
          "number":29
       },
       {
-         "title":"O tempo máximo permitido para o armazenamento de um pré-impregnado a baixa temperatura é denominado?",
-         "result":3,
+         "title":"O tempo máximo permitido para o 'armazenamento' de um pré-impregnado a baixa temperatura é denominado?",
+         "result":0,
          "options":[
-            "Tempo de restinga",
-            "Tempo derivado",
+            "Tempo de 'armazenamento'",
             "Tempo de cura",
-            "Tempo de armazenamento"
+            "Tempo de derivado",
+            "Tempo de restinga"
          ],
          "number":30
       },
       {
          "title":"Em que tipo de falha o reparo é considerado como uma junta de topo, com a união das bordas por soldagem, uso de vareta de enchimento e execução de furos de alívio?",
-         "result":1,
+         "result":0,
          "options":[
             "Corrosão",
-            "Rachadura",
+            "Dilatação",
             "Fadiga",
-            "Dilatação"
+            "Rachadura"
          ],
          "number":31
       },
@@ -360,20 +361,20 @@
          "result":1,
          "options":[
             "Álcool isopropílico e Anticongelantes estáveis",
-            "Álcool isopropílico e Etileno glicol",
+            "Álcool isopropílico e Etileno glicol!",
             "Álcool isopropílico e Polietileno",
             "Butil-etil-cetona"
          ],
          "number":32
       },
       {
-         "title":"Produzem um acabamento duro e semiflexível que pode ser polido para um alto brilho:   ",
-         "result":2,
+         "title":"Produzem um acabamento duro e semi-flexível que pode ser polido para um alto brilho:",
+         "result":1,
          "options":[
-            "Poliuretano",
-            "Revestimento de Uretano.",
+            "Esmalte Sintético",
             "Lacas",
-            "Esmalte Sintético"
+            "Poliuretano",
+            "Revestimento de Uretano."
          ],
          "number":33
       },
@@ -381,7 +382,7 @@
          "title":"A fita de superfície de algodão pode ser usada com:",
          "result":0,
          "options":[
-            "Algodão tipo A, linho ou dacron",
+            "Algodão tipo A, linho ou dacron!",
             "Algodão tipo A, linho ou fibra de vidro",
             "Algodão tipo B, fibra de vidro",
             "Algodão tipo B, linho ou dacron"
@@ -390,45 +391,45 @@
       },
       {
          "title":"O processo que consiste fundamentalmente na queima ou oxidação rápida do metal em uma área localizada é conhecido como?",
-         "result":3,
+         "result":1,
          "options":[
-            "Fusão de metais usando plasma",
             "Corte de metais usando brasagem",
+            "Corte de metais usando oxiacetileno!",
             "Fusão de metais usando brasagem",
-            "Corte de metais usando oxiacetileno"
+            "Fusão de metais usando plasma"
          ],
          "number":35
       },
       {
          "title":"Que tipo de soldagem é utilizado em metais como cobre, latão e ferro revestido ou onde se deseja uma junta à prova de vazamentos?",
-         "result":3,
+         "result":2,
          "options":[
-            "De arco de plasma",
-            "Por arco voltaico",
             "Com passe múltiplo",
-            "Tipo Macia"
+            "De arco de plasma",
+            "Macia",
+            "Por arco voltaico"
          ],
          "number":36
       },
       {
          "title":"Sistema de comunicação que utiliza um acoplador:",
-         "result":2,
+         "result":1,
          "options":[
-            "UHF",
             "ADF",
             "HF",
+            "UHF",
             "VHF"
          ],
          "number":37
       },
       {
          "title":"Charging stand (air conditioning servisse equipment). A handy andcompact arrangement o fair conditioning servicing equipment. A charging stand contains a vacum pum, a manifold gauge set, and a method of measuring and dispensing the refrigerante",
-         "result":0,
+         "result":1,
          "options":[
-            "Uma disposição prática e compacta de equipamentos de manutenção de ar condicionado.",
-            "Um conjunto de manómetros.",
-            "Uma bomba de vácuo.",
-            "Um método de medição e distribuição do refrigerador. "
+            "Uma bomba de vácuo",
+            "Uma disposição prática e compacta de equipamentos de manutenção de ar-condicionado",
+            "Um conjunto de manómetros",
+            "Um método de medição e distribuição do refrigerador"
          ],
          "number":38
       },
@@ -437,9 +438,9 @@
          "result":0,
          "options":[
             "É uma turbina",
+            "É um motor elétrico",
             "Também têm resistência",
-            "Também usa ar de impacto",
-            "É um motor elétrico"
+            "Também usa ar de impacto"
          ],
          "number":39
       },
@@ -447,41 +448,41 @@
          "title":"Dentre as superfícies abaixo, indique aquela que não necessita de mascaramento para aplicação de removedor:",
          "result":3,
          "options":[
+            "Acrílico",
             "Borracha",
             "Plástico",
-            "Acrílico",
             "Metal"
          ],
          "number":40
       },
       {
          "title":"Qual é o produto mais utilizado em pintura a óleo deixando a tinta mais fluida, transparente e brilhante?",
-         "result":0,
+         "result":3,
          "options":[
-            "Óleo de linhaça.",
-            "Acetona ou Benzeno.",
-            "Água ou água destilada.",
-            "Ácido sulfúrico ou Ácido fólico."
+            "Acetona ou Benzeno",
+            "Água ou água destilada",
+            "Ácido sulfúrico ou Ácido fólico",
+            "Óleo de linhaça"
          ],
          "number":41
       },
       {
          "title":"Que fatores contribuem para gerar um problema de pintura?",
-         "result":0,
+         "result":2,
          "options":[
-            "Pistola obstruída, Diluição inadequada, superfície com vestígios de óleo.",
-            "Pistola em perfeitas condições, pressão adequada do sistema de ar.",
-            "Superfície livre de impurezas, temperatura ideal, diluição correta.",
-            "Boa mistura, temperatura ideal, correto diluidor"
+            "Boa mistura, temperatura ideal, correto diluidor",
+            "Pistola em perfeitas condições, pressão adequada do sistema de ar",
+            "Pistola obstruída, diluição inadequada, superfície com vestígios de óleo",
+            "Superfície livre de impurezas, temperatura ideal, diluição correta"
          ],
          "number":42
       },
       {
          "title":"Qual é o método mais comum de colagem de plásticos transparentes?",
-         "result":0,
+         "result":1,
          "options":[
-            "Método molhado",
             "Método seco",
+            "Método molhado",
             "Método único",
             "Método vaporização"
          ],
@@ -489,22 +490,22 @@
       },
       {
          "title":"Qual é o efeito do calor da solda sobre os metais?",
-         "result":0,
+         "result":2,
          "options":[
-            "Dilatação",
             "Brasagem",
-            "Fricção",
-            "Contração"
+            "Contração",
+            "Dilatação",
+            "Fricção"
          ],
          "number":44
       },
       {
          "title":"As luzes de posição, anti-colisão e de táxi são exemplos comuns de luzes:",
-         "result":1,
+         "result":0,
          "options":[
-            "Luzes de ponta de asa",
             "Externas",
             "Internas",
+            "Luzes de ponta de asa",
             "Luzes de pouso"
          ],
          "number":45
@@ -549,17 +550,17 @@
             "Fita de reforço",
             "Fita de acabamento",
             "Fita de segurança",
-            "Fita anti rasgo  "
+            "Fita anti-rasgo  "
          ],
          "number":49
       },
       {
          "title":"O ar do compressor, antes de entrar na cabine passa pelo sistema de:",
-         "result":1,
+         "result":2,
          "options":[
+            "Aquecimento",
             "Congelamento",
             "Refrigeração",
-            "Aquecimento",
             "Nenhuma das alternativas acima"
          ],
          "number":50
@@ -577,23 +578,23 @@
       },
       {
          "title":"Necessidade de tratamento térmico e remoção do fluxo de todo o metal após a soldagem, devido a possibilidadede corrosão, são limitações da soldagem em que tipo de metal?",
-         "result":1,
+         "result":2,
          "options":[
-            "Titânio",
-            "Magnésio",
+            "Aço",
             "Ferro",
-            "Aço"
+            "Magnésio",
+            "Titânio"
          ],
          "number":52
       },
       {
-         "title":"Nos fatores que afetam a seleção da bitola do fio, um deles é a capacidade de conduzir:",
-         "result":3,
+         "title":"Nos fatores que afetam a seleção da bitola do fio, um deles é a capacidade de 'C'onduzir:",
+         "result":0,
          "options":[
-            "Tensão",
+            "Corrente",
             "Potência",
             "Resistência",
-            "Corrente"
+            "Tensão"
          ],
          "number":53
       },
@@ -621,12 +622,12 @@
       },
       {
          "title":"Tecidos de fibra de vidro quando costurados, são com:",
-         "result":2,
+         "result":3,
          "options":[
-            "Fios de fibra de vidro",
             "Fios de algodão",
-            "Fios sintéticos especiais",
-            "Fios de dacron"
+            "Fios de dacron",
+            "Fios de fibra de vidro",
+            "Fios de sintéticos especiais"
          ],
          "number":56
       },
@@ -637,7 +638,7 @@
             "O piloto só percebeu quando ele tentou fora fazer a rotação da pista e achou o nariz muito pesado.",
             "O piloto só percebeu quando ele tentou de   fora da rotação da pista e achou o nariz muito pesado.",
             "O piloto só percebeu quando ele tentou -- girar -- pra fora da pista e achou o nariz muito pesado.",
-            "O piloto só percebeu quando ele tentou  para a rotação fora da pista e achou o nariz muito pesado."
+            "O piloto só percebeu quando ele tentou para a rotação fora da pista e achou o nariz muito pesado."
          ],
          "number":57
       },
