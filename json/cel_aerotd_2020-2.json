@@ -499,7 +499,7 @@
          "number":44
       },
       {
-         "title":"As luzes de posição, anticolisão e de táxi são exemplos comuns de luzes:",
+         "title":"As luzes de posição, anti-colisão e de táxi são exemplos comuns de luzes:",
          "result":1,
          "options":[
             "Luzes de ponta de asa",
@@ -511,22 +511,22 @@
       },
       {
          "title":"Componente que tanto transmite como recebe ondas eletromagnéticas:",
-         "result":1,
+         "result":2,
          "options":[
-            "Transmissor",
-            "Transceptor",
             "Acoplador",
-            "Receptor"
+            "Receptor",
+            "Transceptor",
+            "Transmissor"
          ],
          "number":46
       },
       {
          "title":"Quais são os tipos de sistemas de freio usados?",
-         "result":1,
+         "result":2,
          "options":[
             "Tipo carretel, tipo esfera e redutores",
-            "Sistema independente, sistema de controle de força e sistema de reforço de força",
-            "Sistema de reforço de força, sistema independente e redutores",
+            "Sistema independente, sistema de reforço de força e redutores",
+            "Sistema independente, sistema de reforço de força e sistema de --controle-- de força",
             "Sistema independente, sistema de reforço de força e tipo carretel "
          ],
          "number":47
@@ -604,7 +604,7 @@
             "A variação de temperatura nas superfícies terrestres.",
             "A variação de temperatura na mudança dos hemisférios a partir dalinha do equador.",
             "A variação de temperatura nas aeronaves.",
-            "A variação de temperatura nas diferentes camadas da atmosfera"
+            "A variação de temperatura nas --diferentes-- camadas da atmosfera"
          ],
          "number":54
       },
@@ -701,7 +701,7 @@
          "result":1,
          "options":[         
             "Diminuir a resistência de isolamento da cerâmica quando estiver frio",
-            "Diminuir a resistência de isolamento da cerâmica quando estiver quente",
+            "--Diminuir-- a resistência de isolamento da cerâmica quando estiver --quente--",
             "Aumentar a resistência de isolamento da cerâmica quando estiver frio",
             "Aumentar a resistência de isolamento de cerâmica"
          ],
