@@ -733,9 +733,9 @@
          "title":"É um solvente usado para retardar a secagem da película de dope nos dias úmidos, prevenindo contra a formação de manchas:",
          "result":1,
          "options":[
-            "Álcool etílico.",
-            "Álcool butílico.",
-            "Álcool desnaturado.",
+            "Álcool etílico",
+            "Álcool butílico",
+            "Álcool desnaturado",
             "Benzeno"
          ],
          "number":66
@@ -746,7 +746,7 @@
          "options":[
             "Epóxi",
             "Epóxi e matriz",
-            "Matriz e fibra",
+            "Fibra e matriz !",
             "Fibra"
          ],
          "number":67
@@ -766,7 +766,7 @@
          "title":"Como se processa a secagem do acabamento epóxi?",
          "result":0,
          "options":[
-            "Lentamente",
+            "L-e-n-t-a-m-e-n-te",
             "Com velocidade mediana",
             "Rapidamente",
             "De forma semelhante ao acabamento em laca"
@@ -834,7 +834,7 @@
          "options":[
             "Lubricar e conservar",
             "Lubricar o sistema",
-            "Lubricar e transmitir força",
+            "Lubricar e transmitir --força--",
             "Remover a corrosão"
          ],
          "number":75
@@ -844,8 +844,8 @@
          "result":3,
          "options":[
             "Fibra de plástica",
-            "Fibra sintética",
             "Fibra de vidro",
+            "Fibra sintética",
             "Plásticos laminados"
          ],
          "number":76
@@ -884,7 +884,7 @@
          "number":79
       },
       {
-         "title":"A deterioração máxima permissível de um tecido, já em uso nas aeronaves, baseado num grande número de testes é de:",
+         "title":"A deterioração máxima permissível em um tecido é de:",
          "result":1,
          "options":[
             "25%",
@@ -899,8 +899,8 @@
          "result":0,
          "options":[
             "Motores elétricos e motores eletro-pneumáticos",
-            "Sistemas híbridos",
             "Sistemas hidropneumáticos",
+            "Sistemas híbridos",
             "Sistemas síncronos"
          ],
          "number":81
@@ -917,11 +917,11 @@
          "number":82
       },
       {
-         "title":"Qual o nome dado à antena que recebe sinais eletromagnéticos?",
+         "title":"Qual o nome dado à antena que --rec--ebe sinais eletromagnéticos?",
          "result":1,
          "options":[
             "Antena radiante",
-            "Antena receptora",
+            "Antena --rec--eptora",
             "Antena transmissora",
             "Antena VHF"
          ],
@@ -929,11 +929,11 @@
       },
       {
          "title":"Por que os instrumentos de voo estão localizados no painel principal?",
-         "result":1,
+         "result":0,
          "options":[
-            "Por estarem diretamente relacionados aos comandos de voos primários",
             "Para o piloto ter rápida referência visual, fornecendo informações instantaneamente",
             "Para facilitar as interpretações do piloto automático",
+            "Por estarem diretamente relacionados aos comandos de voos primários",
             "Porque as instalações complexas dos instrumentos de voorequerem uma grande proximidade dos eixos de rotação da aeronave"
          ],
          "number":84
@@ -964,8 +964,8 @@
          "title":"O fogo na parte interna do escapamento dos motores a reação, durante o corte ou falsa partida, pode ser eliminado por:",
          "result":2,
          "options":[
-            "Puxar punha de fogo",
             "Arranque elétrico",
+            "Puxar punha de fogo",
             "Motor partida pneumático",
             "Nenhuma das alternativas acima"
          ],
@@ -983,24 +983,24 @@
          "number":88
       },
       {
-         "title":"O aquecimento do para-brisa em aeronaves pressurizadas é por meio de:",
-         "result":3,
+         "title":"O aquecimento do para-brisa em aeronaves pressurizadas é por:",
+         "result":0,
          "options":[
-            "Pneumáticos",
+            "Elementos Elétricos",
             "Etileno glicol",
             "Material condutor de calor",
-            "Elementos Elétricos"
+            "Pneumáticos"
          ],
          "number":89
       },
       {
-         "title":"Identifique o material que devido sua singularidade taxa de resistência/peso, a habilidade de ser atravessada por ondas de rádio e radar, imunidade a mofo entre outros:",
-         "result":2,
+         "title":"Material com boa relação resistência/peso, permite atravessar ondas de rádio e radar e imunidade a mofo:",
+         "result":3,
          "options":[
-            "Nylon",
+            "Dacron",
             "Fibra de vidro",
-            "Poliéster",
-            "Dacron"
+            "Nylon",
+            "Poliéster"
          ],
          "number":90
       },
@@ -1041,9 +1041,9 @@
          "title":"Antes de instalarmos uma bomba hidráulica devemos, mesmo que venha do estoque:",
          "result":3,
          "options":[
-            "Vericar o seu fácil funcionamento e drenar o uido",
-            "Remover o uido hidráulico da estocagem",
             "Lavá-la com uido usado no sistema do avião e após lavá-la comuido neutro",
+            "Remover o uido hidráulico da estocagem",
+            "Vericar o seu fácil funcionamento e drenar o fuido",
             "Vericar quanto ao tipo da mesma, se é idêntica à que foi removida e lavá-la com fluido hidráulico usado no sistema"
          ],
          "number":94
@@ -1063,15 +1063,15 @@
          "title":"Como são operados os instrumentos de voo?",
          "result":3,
          "options":[
-            "Anaerobicamente, pelas condições atmosféricas apresentadas, oupor giro livre",
+            "Anaerobicamente, pelas condições atmosféricas apresentadas, ou por giro livre",
             "Manualmente, por seleção do piloto",
-            "Por geradores acionados pelos motores da aeronave",
-            "Pelas pressões atmosféricas, de impacto, diferencial e estática, ou por um giroscópio"
+            "Pelas pressões atmosféricas, de impacto, diferencial e estática, ou por um giroscópio",
+            "Por geradores acionados pelos motores da aeronave"
          ],
          "number":96
       },
       {
-         "title":"O sistema que remove o gelo já formado é chamado de:",
+         "title":"O sistema que remove o gelo já formado é o:",
          "result":2,
          "options":[
             "Antigelo",
@@ -1083,33 +1083,33 @@
       },
       {
          "title":"Sistema de comunicação de longo alcance que tem suas ondas refletidas na ionosfera:",
-         "result":2,
+         "result":1,
          "options":[
-            "UHF",
-            "VHF",
+            "LF",
             "HF",
-            "LF"
+            "UHF",
+            "VHF"
          ],
          "number":98
       },
       {
-         "title":"Com relação ao aquecimento a ar-comprimido para o sistema de ar condicionado podemos afirmar que:      ",
+         "title":"Com relação ao aquecimento a ar-comprimido para o sistema de ar-condicionado podemos afirmar que:      ",
          "result":0,
          "options":[
-            "Usa o ar que sai de um estágio do compressor",
-            "Usa o ar de impacto",
+            "Usa o ar que sai de um estágio do --compressor--",
             "Usa o ar que sai da exaustão dos motores",
+            "Usa o ar de impacto",
             "Usa resistências elétricas"
          ],
          "number":99
       },
       {
          "title":"Qual a finalidade dos instrumentos dos motores?",
-         "result":0,
+         "result":1,
          "options":[
+            "Equalizar o funcionamento dos motores",
             "Medir a quantidade e pressão dos líquidos (óleo e combustível) e dos gases (pressão de admissão), rotação do motor (R.P.M.) etemperatura.",
             "Regular o funcionamento dos motores",
-            "Equalizar o funcionamento dos motores",
             "Regular e equalizar o funcionamento dos motores sob qualquer condições de pressão e temperatura"
          ],
          "number":100
@@ -1118,10 +1118,10 @@
          "title":"Solvente utilizado em dias úmidos para retardar a secagem da película de dope afim de prevenir a formação demanchas:",
          "result":3,
          "options":[
-            "Álcool desnaturado.",
-            "Álcool isopropílico.",
             "Acetona",
-            "Álcool butílico"
+            "Álcool butílico",
+            "Álcool desnaturado.",
+            "Álcool isopropílico."
          ],
          "number":101
       },
@@ -1144,7 +1144,6 @@
             "Freios",
             "Limpar para brisa",
             "Trem de pouso"
-            
          ],
          "number":103
       },
@@ -1160,7 +1159,7 @@
          "number":104
       },
       {
-         "title":"Que tipo de material é feito o tubo dos detectores tipo KIDDE e FENWAL?",
+         "title":"Que tipo de material é feito o tubo dos detectores tipo kidde e fenwal?",
          "result":2,
          "options":[
             "Cromel e Constantan",
@@ -1172,12 +1171,12 @@
       },
       {
          "title":"Todos os parafusos e buchas usados em estruturas de aeronaves devem:",
-         "result":1,
+         "result":2,
          "options":[
+            "Estar lubricadas para melhor colocação",
             "Se encaixar com certa folga para que possa assentar com o tempo",
             "Se encaixar em seus orifícios de forma justa",
-            "Estar lubricadas para melhor colocação",
-            "Ser do mesmo material estrutural "
+            "Ser do mesmo material estrutural"
          ],
          "number":106
       },
@@ -1252,8 +1251,8 @@
          "result":2,
          "options":[
             "Podemos compara-los com secadores de cabelo",
-            "Utiliza os quentes e ar de impacto",
-            "Utiliza os que esquentam painéis",
+            "Utiliza fios quentes e ar de impacto",
+            "Utiliza fios que esquentam painéis",
             "Utiliza somente ar de impacto"
          ],
          "number":113
@@ -1295,9 +1294,9 @@
          "title":"A finalidade dos reservatórios serem pressurizados é:",
          "result":0,
          "options":[
-            "Facilita a alimentação das bombas, com pressão positiva em qualquer altitude",
-            "O sistema dispensa o regulador, pois o reservatório possui seu próprio regulador",
+            "Facilita a alimentação das bombas com pressão positiva em qualquer --altitude--",
             "Facilita o suprimento de fluido para os sistemas atuadores",
+            "O sistema dispensa o regulador, pois o reservatório possui seu próprio regulador",
             "O sistema dispensa o acumulador"
          ],
          "number":117
@@ -1307,7 +1306,7 @@
          "result":1,
          "options":[
             "Aplicando um remendo interno ou embutido desde que a área seja pequena",
-            "Aplicando um remendo externo ou embutido desde que a área seja pequena",
+            "Aplicando um remendo --externo-- ou embutido desde que a área seja --pequena--",
             "Aplicando um remendo externo ou embutido desde que a área seja grande",
             "Aplicando todas as técnicas acima mencionadas"
          ],
