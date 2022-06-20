@@ -4,15 +4,334 @@
    "courseunit":"Advanced Compound Materials",
    "questions":[
       {
-         "title":"ttt",
-         "result":0,
+         "title":"O tempo máximo permitido para o armazenamento de um pré-impregnado a baixa temperatura é denominado:",
+         "result":3,
          "options":[
-            "opt1",
-            "opt2",
-            "opt3",
-            "opt4"
+            "Tempo de restinga",
+            "Tempo de cura",
+            "Tempo derivado",
+            "Tempo de armazenamento"
          ],
          "number":0
+      },
+      {
+         "title":"É vantagem do reparo aparafusado:",
+         "result":1,
+         "options":[
+            "Selecionar todos os materiais e equipamentos",
+            "Selecionar apenas material de remendo e fixador",
+            "Perfeição e lógica",
+            "Selecionar todos os materiais de remendo"
+         ],
+         "number":1
+      },
+      {
+         "title":"Os plásticos podem ser divididos em duas classificações principais:",
+         "result":3,
+         "options":[
+            "Plásticos e acrílicos",
+            "Termoendurecível e acrílico",
+            "Termoplásticos e Acríclicos",
+            "Termoplásticos e Termoendurecível"
+         ],
+         "number":2
+      },
+      {
+         "title":"De que consiste um material pré-impregnado?",
+         "result":2,
+         "options":[
+            "Fibras",
+            "Matriz e epóxi",
+            "Combinação de matriz e reforço de fibra",
+            "Combinação de epóxi e matriz"
+         ],
+         "number":3
+      },
+      {
+         "title":"Método de inspeção que consiste em tocar a superfícies com uma moeda.",
+         "result":2,
+         "options":[
+            "Raio X",
+            "Tap choque",
+            "Tap test",
+            "Termografia"
+         ],
+         "number":4
+      },
+      {
+         "title":"São vantagens dos epóxis:",
+         "result":3,
+         "options":[
+            "Alta volatilidade e resistência",
+            "Baixa volatilidade e baixa resistência",
+            "Baixa adesão e Alta volatilidade",
+            "Alta resistência e baixa volatilidade"
+         ],
+         "number":5
+      },
+      {
+         "title":"Quais materiais são considerados como fibra seca?",
+         "result":3,
+         "options":[
+            "Fibra de Carbono, Fibra de Nylon e Kevlar",
+            "Fibra de vidro, Kevlar e Fibra de Nylon",
+            "Fibra de Vidro, Fibra de vidro e Fibra resinada",
+            "Fibra de Carbono, Fibra de Vidro e Kevlar"
+         ],
+         "number":6
+      },
+      {
+         "title":"Método de inspeção no qual utiliza uma sonda com um ou dois transdutores",
+         "result":0,
+         "options":[
+            "Bond test",
+            "Radiografia",
+            "Cap test",
+            "Termografia"
+         ],
+         "number":7
+      },
+      {
+         "title":"É um método de inspeção não destrutivo:",
+         "result":2,
+         "options":[
+            "Ensaio de tração",
+            "Ensaio de compressão",
+            "Raio X",
+            "Ensaio de cisalhamento"
+         ],
+         "number":8
+      },
+      {
+         "title":"Para executar um reparo o técnico deve seguir o seguinte documento:",
+         "result":0,
+         "options":[
+            "SRM – Structural Repair Manual",
+            "ARM -  Aircraft Repair Manual",
+            "SRM – Structural Repair Maintenance",
+            "AMM – Aircraft Maintenance Manual"
+         ],
+         "number":9
+      },
+      {
+         "title":"As principais vantagens dos materiais compósitos são:",
+         "result":0,
+         "options":[
+            "Resistência à corrosão, Baixo peso e Alta resistência.",
+            "Baixa resistência, Baixo peso e Tenacidade.",
+            "Resistência à corrosão, Alto peso, Alta resistência.",
+            "Baixa Resistência, Alto peso, Tenacidade."
+         ],
+         "number":10
+      },
+      {
+         "title":"O que são materiais compósitos?",
+         "result":3,
+         "options":[
+            "Um único material de baixa resistência.",
+            "Combinação de materiais para se unir ao da estrutura elevando a resistência.",
+            "Um único material de alta resistência e elevado peso.",
+            "Combinação de materiais que são misturados para alcançar propriedades estruturais específicas."
+         ],
+         "number":11
+      },
+      {
+         "title":"Materiais compósitos são aplicados em diversas partes da aeronave, como por exemplo:",
+         "result":1,
+         "options":[
+            "Pás da turbina, Carenagens, Trem de pouso.",
+            "Carenagens, Fuselagem, Superfícies de controle de voo.",
+            "Reforço de para-brisa, Portas principais, Empenagem.",
+            "Componentes de interiores, Empenagem, Carenagens."
+         ],
+         "number":12
+      },
+      {
+         "title":"As fibras de vidro são utilizadas em estruturas secundárias de aeronaves, tais como:",
+         "result":0,
+         "options":[
+            "Radomes, Carenagens, Pontas de asa.",
+            "Compensadores, Superfícies de controle de voo, Radomes",
+            "Carenagens, Compensadores, Radomes",
+            "Superfícies de controle de voo, Compensadores, Carenagens"
+         ],
+         "number":13
+      },
+      {
+         "title":"As fibras podem ser encontradas nas formas:",
+         "result":1,
+         "options":[
+            "Direcional e Invertida.",
+            "Unidirecional e Bidirecional.",
+            "Unidirecional e Invertida.",
+            "Direcional e Bidirecional."
+         ],
+         "number":14
+      },
+      {
+         "title":"A principal vantagem dos materiais termoplásticos é:",
+         "result":3,
+         "options":[
+            "Velocidade de aquecimento",
+            "Velocidade de resfriamento",
+            "Velocidade de endurecimento.",
+            "Velocidade de processamento."
+         ],
+         "number":15
+      },
+      {
+         "title":"O material pré-impregnado consiste de combinação de:",
+         "result":0,
+         "options":[
+            "Matriz e reforço de fibra",
+            "Matriz e Resina",
+            "Reforço de fibra e Cola",
+            "Cola e Matriz"
+         ],
+         "number":16
+      },
+      {
+         "title":"Uma estrutura Sandwich deve apresentar:",
+         "result":0,
+         "options":[
+            "Alta resistência ao cisalhamento e rigidez à compressão.",
+            "Alta resistência à flexão e rigidez à compressão.",
+            "Alta resistência ao cisalhamento e rigidez à tração.",
+            "Alta resistência à flexão e rigidez à tração."
+         ],
+         "number":17
+      },
+      {
+         "title":"O formato da célula honeycomb é:",
+         "result":2,
+         "options":[
+            "Quadrada",
+            "Losango",
+            "Hexagonal",
+            "Triangular"
+         ],
+         "number":18
+      },
+      {
+         "title":"A inspeção ultrassônica é um tipo de inspeção:",
+         "result":3,
+         "options":[
+            "NDT",
+            "EDT",
+            "EDI",
+            "NDI"
+         ],
+         "number":19
+      },
+      {
+         "title":"Na inspeção térmica é utilizado dispositivos de dissipação de calor para:",
+         "result":0,
+         "options":[
+            "Medir variações de temperatura.",
+            "Medir variações de temperatura e umidade.",
+            "Medir variações de umidade.",
+            "Medir variações acústicas."
+         ],
+         "number":20
+      },
+      {
+         "title":"Técnica utilizada para reparo de componentes compostos de aeronaves:",
+         "result":1,
+         "options":[
+            "Separação de peças.",
+            "Embalagem à vácuo.",
+            "Selagem",
+            "Compagem"
+         ],
+         "number":21
+      },
+      {
+         "title":"Um sistema autoclave permite que uma reação química complexa ocorra dentro de:",
+         "result":3,
+         "options":[
+            "Um recipiente qualquer.",
+            "Uma máquina misturadora de produtos.",
+            "Uma embalagem à vácuo.",
+            "Um vaso de pressão."
+         ],
+         "number":22
+      },
+      {
+         "title":"Dispositivo termoelétrico utilizado para medir temperatura com precisão:",
+         "result":0,
+         "options":[
+            "Termopar",
+            "Termofusão",
+            "Termofita",
+            "Termoponto"
+         ],
+         "number":23
+      },
+      {
+         "title":"Tecido ou fita impregnada com uma resina durante o processo de fabricação:",
+         "result":2,
+         "options":[
+            "Impreg",
+            "Pregin",
+            "Prepreg",
+            "Impregin"
+         ],
+         "number":24
+      },
+      {
+         "title":"A cura de um reparo é tão importante quanto a cura do material da peça original. Para isso deve-se o ciclo:",
+         "result":3,
+         "options":[
+            "Tempo, Temperatura, Umidade.",
+            "Temperatura, Umidade, Pressão",
+            "Pressão, Tempo, Umidade",
+            "Tempo, Temperatura, Pressão."
+         ],
+         "number":25
+      },
+      {
+         "title":"Qual a vantagem da placa de uma placa moldada?",
+         "result":1,
+         "options":[
+            "Alto custo e dificuldade de uso.",
+            "Baixo custo e facilidade de uso.",
+            "Baixo custo e baixo peso.",
+            "Baixo peso e facilidade de uso."
+         ],
+         "number":26
+      },
+      {
+         "title":"É um equipamento usado em uma oficina para cortar materiais compostos:",
+         "result":0,
+         "options":[
+            "Serra de fita.",
+            "Serrote",
+            "Disco de corte.",
+            "Serra manual."
+         ],
+         "number":27
+      },
+      {
+         "title":"Durante a operação com materiais compostos, deve-se ter cuidado porque:",
+         "result":3,
+         "options":[
+            "Pode irritar o sistema respiratório e ser cancerígeno.",
+            "Pode alojar na pele.",
+            "Pode afetar a visão.",
+            "Todas as alternativas anteriores."
+         ],
+         "number":28
+      },
+      {
+         "title":"Material que pode ser suavizado pelo calor e podem ser dissolvidos em vários solventes orgânicos.",
+         "result":1,
+         "options":[
+            "Termoendurecível",
+            "Termoplástico",
+            "Resina",
+            "Alumínio"
+         ],
+         "number":29
       }
    ]
 }
