@@ -114,13 +114,13 @@
          "number":9
       },
       {
-         "title":"Dois ou mais condutores isolados separadamente e torcidos juntos define:",
+         "title":"Dois ou mais condutores isolados separadamente e 'torcido's juntos define:",
          "result":3,
          "options":[
             "Cabo blindado",
             "Cabo multicondutor",
             "Cabo R.F",
-            "Par torcido"
+            "Par 'torcido'"
          ],
          "number":10
       },
@@ -147,13 +147,13 @@
          "number":12
       },
       {
-         "title":"Quais são os dispositivos de segurança do trem de pouso?",
+         "title":"Quais são os dispositivos de segurança do 'trem de pouso'?",
          "result":3,
          "options":[
             "Manetes, pinos, travamento no solo e trava mecânica",
             "Pino, indicadores e tesoura",
             "Tesoura, sensor e pino",
-            "Trava mecânica do trem embaixo, interruptores de segurança e travamento de solo"
+            "Trava mecânica do 'trem de pouso', interruptores de segurança e travamento de solo"
          ],
          "number":13
       },
@@ -389,11 +389,11 @@
          "number":34
       },
       {
-         "title":"O processo que consiste fundamentalmente na queima ou oxidação rápida do metal em uma área localizada é conhecido como?",
+         "title":"O processo que consiste fundamentalmente na queima ou 'oxi'dação rápida do metal em uma área localizada é conhecido como?",
          "result":1,
          "options":[
             "Corte de metais usando brasagem",
-            "Corte de metais usando oxiacetileno!",
+            "Corte de metais usando 'oxi'acetileno!",
             "Fusão de metais usando brasagem",
             "Fusão de metais usando plasma"
          ],
@@ -712,7 +712,7 @@
          "result":2,
          "options":[
             "Controlar o sentido de deslocamento dos mecanismos hidráulicos",
-            "Fazer variar a pressão do uido de acordo com a demanda dos istema",
+            "Fazer variar a pressão do fluido de acordo com a demanda dos sistema",
             "Manter a pressão do sistema num valor fixo pré-determinado",
             "Manter o fluxo do fluido nas linhas do sistema, dentro de um valor pré-determinado"
          ],
@@ -796,7 +796,7 @@
          "number":71
       },
       {
-         "title":"Nas aeronaves, as luzes de posição :asa direita, asas esquerda e estabiliador vertical; respectivamente são:",
+         "title":"Nas aeronaves, as luzes de posição: asa direita, asas esquerda e estabiliador vertical; respectivamente são:",
          "result":2,
          "options":[
             "Branca,   verde,    vermelha",
@@ -1061,7 +1061,7 @@
       },
       {
          "title":"Como são operados os instrumentos de voo?",
-         "result":3,
+         "result":2,
          "options":[
             "Anaerobicamente, pelas condições atmosféricas apresentadas, ou por giro livre",
             "Manualmente, por seleção do piloto",
@@ -1115,8 +1115,8 @@
          "number":100
       },
       {
-         "title":"Solvente utilizado em dias úmidos para retardar a secagem da película de dope afim de prevenir a formação demanchas:",
-         "result":3,
+         "title":"Solvente utilizado em dias úmidos para retardar a secagem da película de dope afim de prevenir a formação de manchas:",
+         "result":1,
          "options":[
             "Acetona",
             "Álcool butílico",
@@ -1207,9 +1207,9 @@
          "result":0,
          "options":[
             "Evitar que um reservatório descarregue o seu conteúdo dentro de outra garrafa",
-            "Evitar a descarga de agente extintor no compartimento debagagens",
+            "Evitar a descarga de agente extintor no compartimento de bagagens",
             "Evitar a entrada de água dentro do reservatório",
-            "Nenhuma das alternativas "
+            "Nenhuma das alternativas"
          ],
          "number":109
       },
@@ -1318,7 +1318,7 @@
          "options":[
             "É um sinal do sistema giroscópico da aeronave que permite a coordenação dos comandos do piloto automático para cessaro movimento de curva quando o curso desejado é atingido",
             "É um sinal de comando de ascensão da aeronave (climb)",
-            "É um sinal de continuidade que garante prosseguimento deoperação de comando das superfícies primárias pelo piloto automático",
+            "É um sinal de continuidade que garante prosseguimento de operação de comando das superfícies primárias pelo piloto automático",
             "É um sinal de acompanhamento que se opõe ao sinal original de modo que, quando iguais, o servo para de se mover, bem como retorna o leme à sua posição inicial quando o curso selecionado é atingido"
          ],
          "number":119
