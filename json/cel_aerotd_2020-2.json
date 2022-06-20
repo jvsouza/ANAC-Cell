@@ -5,7 +5,7 @@
    "questions":[
       {
          "title":"Em um sistema diretor de voo, o que ocorre com o comando “manter altitude” quando a rampa ILS (Instrument Landing System) é interceptada?",
-         "result":3,
+         "result":0,
          "options":[
             "Ele desligará automaticamente!",
             "O sistema ILS não é interceptado se o comando para manter a altitude estiver ativado, para não comprometer a segurança da operação",
@@ -16,7 +16,7 @@
       },
       {
          "title":"Quais luzes ficam acesas quando os trens de pouso estiverem em trânsito?",
-         "result":0,
+         "result":1,
          "options":[
             "Luz âmbar acesa",
             "Luz de aviso acesa e 'diagonal vermelha' e listras fluorescentes",
@@ -104,7 +104,7 @@
       },
       {
          "title":"São características consideradas problemas de pintura:",
-         "result":3,
+         "result":2,
          "options":[
             "Aderência, olhos de peixe, escorrimento",
             "Casca de laranja, manchas, esticamento",
@@ -176,7 +176,6 @@
             "Epóxi",
             "Laca nitrocelulose",
             "Poliuretano"
-            
          ],
          "number":15
       },
@@ -347,7 +346,7 @@
       },
       {
          "title":"Em que tipo de falha o reparo é considerado como uma junta de topo, com a união das bordas por soldagem, uso de vareta de enchimento e execução de furos de alívio?",
-         "result":0,
+         "result":3,
          "options":[
             "Corrosão",
             "Dilatação",
