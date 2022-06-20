@@ -1,5 +1,5 @@
 # ANAC-Cell
-![Progress](https://progress-bar.dev/62/?title=Completed%20&width=160&color=54aeff)
+![Progress](https://progress-bar.dev/69/?title=Completed%20&width=160&color=54aeff)
 
 ## Collection of questions for the preparatory study of the theoretical exam of ANAC in aeronautical maintenance mechanics, cell group.
 > [As specified by ANAC](https://www.gov.br/anac/pt-br/assuntos/regulados/profissionais-da-aviacao-civil/processo-de-licencas-e-habilitacoes/arquivos/Port41452021ExamesteoricoseAnexos.pdf), the CHT (certificate of technical skill) is issued upon passing a theoretical knowledge exam in the respective category of activity.
@@ -13,7 +13,7 @@
 | Cel | 04 | ![](https://img.shields.io/badge/-Done-success) | Coating, Painting And Finishing Of Aircraft |
 | Cel | 05 | ![](https://img.shields.io/badge/-Done-success) | Repairs To Metallic Structures |
 | Cel | 06 | ![](https://img.shields.io/badge/-Done-success) | Welding In Aircraft |
-| Cel | 07 | ![](https://img.shields.io/badge/-Doing-important) | Advanced Compound Materials |
+| Cel | 07 | ![](https://img.shields.io/badge/-Done-success) | Advanced Compound Materials |
 | Cel | 08 | ![](https://img.shields.io/badge/-ToDo-inactive) | Aircraft Electrical Systems |
 | Cel | 09 | ![](https://img.shields.io/badge/-ToDo-inactive) | Aircraft Instruments |
 | Cel | 10 | ![](https://img.shields.io/badge/-Done-success) | Communication And Navigation Systems |

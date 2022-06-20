@@ -107,6 +107,7 @@ $(document).ready(function(){
             {"file_json":"cel04", "course_unit":"Coating, Painting And Finishing Of Aircraft"},
             {"file_json":"cel05", "course_unit":"Repairs To Metallic Structures"},
             {"file_json":"cel06", "course_unit":"Welding In Aircraft"},
+            {"file_json":"cel07", "course_unit":"Advanced Compound Materials"},
             {"file_json":"cel10", "course_unit":"Communication And Navigation Systems"},
             {"file_json":"cel11", "course_unit":"Hydraulic And Landing Gear System"},
             {"file_json":"cel13", "course_unit":"Pneumatic And Cabin Environment Control Systems"},
