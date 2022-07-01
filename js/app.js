@@ -90,7 +90,7 @@ $(document).ready(function(){
     // ...
     $(document).on('click','.btn', function() {
         let questionNumber = $(this).data('question');
-        let correctOption = questions_available[questionNumber].result;
+        let correctOption = questions_available.questions[questionNumber].result;
         $("li[data-li="+questionNumber+"] li.options div button[value="+correctOption+"]").addClass( "optionCorrect" );
     });
 
