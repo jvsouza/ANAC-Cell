@@ -1,5 +1,5 @@
 # ANAC-Cell
-![Progress](https://progress-bar.dev/70/?title=Completed%20&width=160&color=54aeff)
+![Progress](https://progress-bar.dev/77/?title=Completed%20&width=160&color=54aeff)
 
 ## Collection of questions for the preparatory study of the theoretical exam of ANAC in aeronautical maintenance mechanics, cell group.
 > [As specified by ANAC](https://www.gov.br/anac/pt-br/assuntos/regulados/profissionais-da-aviacao-civil/processo-de-licencas-e-habilitacoes/arquivos/Port41452021ExamesteoricoseAnexos.pdf), the CHT (certificate of technical skill) is issued upon passing a theoretical knowledge exam in the respective category of activity.
