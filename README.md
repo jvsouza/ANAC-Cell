@@ -14,11 +14,11 @@
 | Cel | 05 | ![](https://img.shields.io/badge/-Done-success) | Repairs To Metallic Structures |
 | Cel | 06 | ![](https://img.shields.io/badge/-Done-success) | Welding In Aircraft |
 | Cel | 07 | ![](https://img.shields.io/badge/-Done-success) | Advanced Compound Materials |
-| Cel | 08 | ![](https://img.shields.io/badge/-ToDo-inactive) | Aircraft Electrical Systems |
+| Cel | 08 | ![](https://img.shields.io/badge/-Doing-important) | Aircraft Electrical Systems |
 | Cel | 09 | ![](https://img.shields.io/badge/-ToDo-inactive) | Aircraft Instruments |
 | Cel | 10 | ![](https://img.shields.io/badge/-Done-success) | Communication And Navigation Systems |
 | Cel | 11 | ![](https://img.shields.io/badge/-Done-success) | Hydraulic And Landing Gear System |
-| Cel | 12 | ![](https://img.shields.io/badge/-Doing-important) | Protection Systems Against The Effects Of Ice And Rain And Against Fire |
+| Cel | 12 | ![](https://img.shields.io/badge/-Done-success) | Protection Systems Against The Effects Of Ice And Rain And Against Fire |
 | Cel | 13 | ![](https://img.shields.io/badge/-Done-success) | Pneumatic And Cabin Environment Control Systems |
 
 ## Mock exams were included:

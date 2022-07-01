@@ -110,6 +110,7 @@ $(document).ready(function(){
             {"file_json":"cel07", "course_unit":"Advanced Compound Materials"},
             {"file_json":"cel10", "course_unit":"Communication And Navigation Systems"},
             {"file_json":"cel11", "course_unit":"Hydraulic And Landing Gear System"},
+            {"file_json":"cel12", "course_unit":"Protection Systems Against The Effects Of Ice And Rain And Against Fire"},
             {"file_json":"cel13", "course_unit":"Pneumatic And Cabin Environment Control Systems"},
             {"file_json":"cel_aerotd_2020-2", "course_unit":"Mock exam :: Aerotd 2020-2"},
         ]

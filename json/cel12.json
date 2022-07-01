@@ -4,15 +4,290 @@
    "courseunit":"Protection Systems Against The Effects Of Ice And Rain And Against Fire",
    "questions":[
       {
-         "title":"ttt",
-         "result":0,
+         "title":"Os tipos de detectores mais usados para rápida detecção de fogo são:",
+         "result":1,
          "options":[
-            "opt1",
-            "opt2",
-            "opt3",
-            "opt4"
+            "Razão de aumento de temperatura, alarme sonoro e sensor de radiação",
+            "Razão de aumento de temperatura, sensores de radiação e detectores de superaquecimento;",
+            "Alarme sonoro e detector de fogo",
+            "Sensor de temperatura"
          ],
          "number":0
+      },
+      {
+         "title":"Os sistemas de detecção de fogo deverão sinalizar a presença de fogo, eles são instalados em locais onde são maiores as possibilidades de incêndio. Os sistemas mais comuns são?",
+         "result":1,
+         "options":[
+            "Sistema par térmico e Interruptor térmico",
+            "Interruptor térmico, sistema par térmico e sistema detector de circuito contínuo",
+            "Loop A e Loop B",
+            "Sistema par térmico"
+         ],
+         "number":1
+      },
+      {
+         "title":"Os tipos de detectores usados nos sistemas sensores contínuos são:",
+         "result":1,
+         "options":[
+            "Knoor e Fenrall",
+            "Kidde e Fenwal",
+            "Fenwal e Knoor",
+            "Fenrall Kidde"
+         ],
+         "number":2
+      },
+      {
+         "title":"No sensor Fenwal o quê encontramos?",
+         "result":3,
+         "options":[
+            "Nenhuma das anteriores",
+            "Somente um tubo de Incomel",
+            "Uma camada de sal dentro de um tubo de Incomel",
+            "Uma camada de cerâmica embebida com sal eutético dentro de um tubo de Incomel"
+         ],
+         "number":3
+      },
+      {
+         "title":"Os compartimentos dos motores são classificados em Zonas, baseados no fluxo de ar que passa através deles, desta forma o compartimento de acessórios do motor, separado da seção de força, está classificado em qual Zona ?",
+         "result":1,
+         "options":[
+            "Zona classe A",
+            "Zona classe C",
+            "Zona classe B",
+            "Zona classe X"
+         ],
+         "number":4
+      },
+      {
+         "title":"Na maioria das instalações, o detector contínuo é preso por dispositivos ou presilhas a cada:",
+         "result":1,
+         "options":[
+            "12 ou 14 polegadas",
+            "10 ou 12 polegadas",
+            "16 ou 18 polegadas",
+            "14 ou 16 polegadas"
+         ],
+         "number":5
+      },
+      {
+         "title":"Os subsistemas de proteção de fogo proporcionam proteção à quais sistemas?",
+         "result":3,
+         "options":[
+            "Alojamento das rodas e no compartimento traseiro de bagagem",
+            "Cabine de passageiros, cabine de comando, motor e nacele",
+            "Alojamento das rodas e na nacele do motor",
+            "Compartimento de bagagem, nacele, motor e alojamento das rodas"
+         ],
+         "number":6
+      },
+      {
+         "title":"Quais são os meios de evitar ou controlar a formação de gelo?",
+         "result":1,
+         "options":[
+            "Aquecimento da fuselagem, aquecimento por elementos pneumáticos e gasolina pulverizada",
+            "Aquecimento por elementos elétricos, aquecimento das superfícies usando ar quente, remoção da formação de gelo, feito normalmente por câmaras infláveis (boots) e álcool pulverizado",
+            "Álcool pulverizado, remoção da formação de gelo, feito normalmente por câmaras infláveis, aquecimento por elementos elétricos e aquecimento da fuselagem",
+            "Remoção da formação de gelo, feito normalmente por câmaras infláveis ( boots), aquecimento da fuselagem, usando ar quente e aquecimento elétrico"
+         ],
+         "number":7
+      },
+      {
+         "title":"Os tubos de degelo são inflados através de qual sistema?",
+         "result":1,
+         "options":[
+            "Ar sangrado da turbina de ar condicionado",
+            "Bomba girada pelo motor (bomba de vácuo), ou pelo ar sangrado do compressor de um motor a turbina de gás",
+            "Através dos separadores secundários, indo para a bomba girada pelo motor (bomba de vácuo)",
+            "Pelo gerador de N 1"
+         ],
+         "number":8
+      },
+      {
+         "title":"Qual o método usado para controle de gelo no Bordo de Ataque das asas?",
+         "result":3,
+         "options":[
+            "Pneumática",
+            "Álcool",
+            "Pneumático e Álcool",
+            "Pneumático e Térmico"
+         ],
+         "number":9
+      },
+      {
+         "title":"O removedor de geada ou fluído degelador normalmente contém :",
+         "result":3,
+         "options":[
+            "Etilene glicol e álcool",
+            "Álcool e neoprene",
+            "Água e solvente",
+            "Etilene glicol e álcool isopropílico"
+         ],
+         "number":10
+      },
+      {
+         "title":"Qual o sistema que opera os limpadores de para-brisas?",
+         "result":2,
+         "options":[
+            "Elétrico",
+            "Pneumático",
+            "Hidráulico e elétrico",
+            "Elétrico e pneumático"
+         ],
+         "number":11
+      },
+      {
+         "title":"Quais os tipos de gelo que podemos encontrar em uma aeronave?",
+         "result":3,
+         "options":[
+            "Seco",
+            "Opaco",
+            "Vítreo",
+            "Opaco e vítreo"
+         ],
+         "number":12
+      },
+      {
+         "title":"Qual o método usado para controlar o gelo no transmissor de aviso de stall :",
+         "result":1,
+         "options":[
+            "Pneumático",
+            "Elétrico",
+            "Álcool",
+            "Álcool isopropílico"
+         ],
+         "number":13
+      },
+      {
+         "title":"Qual a pressão que deve atingir para que haja rompimento do disco vermelho nos motores convencionais?",
+         "result":3,
+         "options":[
+            "2.600 PSI",
+            "2.750 PSI",
+            "2.800 PSI",
+            "2.650 PSI"
+         ],
+         "number":14
+      },
+      {
+         "title":"Quando houver o rompimento do disco amarelo, no motor convencional, o esvaziamento da garrafa foi?",
+         "result":2,
+         "options":[
+            "Anormal",
+            "Falha do sistema",
+            "Normal",
+            "N.d.a"
+         ],
+         "number":15
+      },
+      {
+         "title":"Do que é composto o sistema de par térmico:",
+         "result":0,
+         "options":[
+            "Caixa de relés, luzes de aviso e par térmico",
+            "Par térmico, bobinas e transmissores",
+            "Caixa de relés, buzina e luzes",
+            "Luz de aviso, buzina e garrafa de fogo"
+         ],
+         "number":16
+      },
+      {
+         "title":"Qual a função do Sal Eutético",
+         "result":3,
+         "options":[
+            "Acelerar a resistência elétrica quando o elemento sensor atingir a temperatura de alarme",
+            "Proteger o sensor do calor proveniente do motor",
+            "Proteger o sensor do calor proveniente da nacele do motor",
+            "Reduzir rapidamente a resistência elétrica da cerâmica, quando o elemento sensor atingir a temperatura de alarme"
+         ],
+         "number":17
+      },
+      {
+         "title":"Quais os tipos de detectores mais usados",
+         "result":2,
+         "options":[
+            "Aumento de temperatura, antena de radiação e superaquecimento",
+            "Sensores de radiação, temperatura baixa e sensor de calor",
+            "Superaquecimento, sensores de radiação e aumento de temperatura",
+            "Fenwal, kidde e inconel"
+         ],
+         "number":18
+      },
+      {
+         "title":"Quais as desvantagens do extintor Halon 1011",
+         "result":2,
+         "options":[
+            "Não é tóxico, mas quando aquecido é tóxico",
+            "Relativamente não tóxico em temperatura anormal",
+            "Relativamente tóxico em temperatura normal e muito tóxico quando aquecido",
+            "Todas estão corretas"
+         ],
+         "number":19
+      },
+      {
+         "title":"Quais são as categorias dos agentes extintores",
+         "result":1,
+         "options":[
+            "Hidrocarbono",
+            "Hidrocarbono halogenado e gás frio inerte",
+            "Gás quente e hidrocarbono",
+            " Hidrocarbono halogenado e gás quente"
+         ],
+         "number":20
+      },
+      {
+         "title":"Onde estão localizadas as garrafas de extinção de fogo dos motores convencionais:",
+         "result":0,
+         "options":[
+            "Compartimento do trem de pouso",
+            "Cabine de comando",
+            "Toillete traseiro",
+            "Compartimento de carga dianteiro"
+         ],
+         "number":21
+      },
+      {
+         "title":"Os compartimentos dos motores são classificados em zonas, quais são elas?",
+         "result":3,
+         "options":[
+            "Zona de impacto e A, C e D",
+            "Zona B, X e A",
+            "Zona A, B,C, D , X e zona de fogo",
+            "Zona A, B, C. D e X"
+         ],
+         "number":22
+      },
+      {
+         "title":"O CO2 também é conhecido como",
+         "result":1,
+         "options":[
+            "Hidrocarbono hologenado",
+            "Dióxido de carbono",
+            "Halon 1011",
+            "Dióxido de enxofre"
+         ],
+         "number":23
+      },
+      {
+         "title":"O depósito mais difícil de ser removido é a neve úmida, quando a temperatura ambiente está ligeiramente acima do ponto de congelamento, este tipo de depósito deverá ser removido com:",
+         "result":1,
+         "options":[
+            "Álcool e rodo",
+            "Escova e rodo",
+            "Escova e água",
+            "Água com uma solução de álcool e rodo"
+         ],
+         "number":24
+      },
+      {
+         "title":"Qual o método usado para controle de gelo nos Carburadores?",
+         "result":3,
+         "options":[
+            "Elétrico",
+            "Pneumático e Térmico",
+            "Álcool",
+            "Álcool e Térmico"
+         ],
+         "number":25
       }
    ]
 }
