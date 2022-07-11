@@ -1,5 +1,5 @@
 # ANAC-Cell
-![Progress](https://progress-bar.dev/77/?title=Completed%20&width=160&color=54aeff)
+![Progress](https://progress-bar.dev/84/?title=Completed%20&width=160&color=54aeff)
 
 ## Collection of questions for the preparatory study of the theoretical exam of ANAC in aeronautical maintenance mechanics, cell group.
 > [As specified by ANAC](https://www.gov.br/anac/pt-br/assuntos/regulados/profissionais-da-aviacao-civil/processo-de-licencas-e-habilitacoes/arquivos/Port41452021ExamesteoricoseAnexos.pdf), the CHT (certificate of technical skill) is issued upon passing a theoretical knowledge exam in the respective category of activity.
@@ -14,8 +14,8 @@
 | Cel | 05 | ![](https://img.shields.io/badge/-Done-success) | Repairs To Metallic Structures |
 | Cel | 06 | ![](https://img.shields.io/badge/-Done-success) | Welding In Aircraft |
 | Cel | 07 | ![](https://img.shields.io/badge/-Done-success) | Advanced Compound Materials |
-| Cel | 08 | ![](https://img.shields.io/badge/-Doing-important) | Aircraft Electrical Systems |
-| Cel | 09 | ![](https://img.shields.io/badge/-ToDo-inactive) | Aircraft Instruments |
+| Cel | 08 | ![](https://img.shields.io/badge/-Done-success) | Aircraft Electrical Systems |
+| Cel | 09 | ![](https://img.shields.io/badge/-Doing-important) | Aircraft Instruments |
 | Cel | 10 | ![](https://img.shields.io/badge/-Done-success) | Communication And Navigation Systems |
 | Cel | 11 | ![](https://img.shields.io/badge/-Done-success) | Hydraulic And Landing Gear System |
 | Cel | 12 | ![](https://img.shields.io/badge/-Done-success) | Protection Systems Against The Effects Of Ice And Rain And Against Fire |
@@ -45,6 +45,7 @@ page
 │   ├── cel05.json
 │   ├── cel06.json
 │   ├── cel07.json
+│   ├── cel08.json
 │   ├── cel10.json
 │   ├── cel11.json
 │   ├── cel12.json

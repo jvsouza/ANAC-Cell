@@ -4,15 +4,334 @@
    "courseunit":"Aircraft Electrical Systems",
    "questions":[
       {
-         "title":"xxx",
+         "title":"Complete a frase: As curvaturas nos grupos de fios ou chicotes não devem ser inferiores a ...... vezes o diâmetro externo dos grupos:",
          "result":3,
          "options":[
-            "op0",
-            "op1",
-            "op2",
-            "op3"
+            "3",
+            "6",
+            "8",
+            "10"
          ],
          "number":0
+      },
+      {
+         "title":"Complete a frase: Entretanto, nas barras de terminais, onde o fio está adequadamente suportado em cada extremidade da curvatura, o diâmetro externo do grupo de fios ou do chicote, igual a ....... vezes o diâmetro externo é normalmente aceitável.",
+         "result":0,
+         "options":[
+            "3",
+            "6",
+            "8",
+            "10"
+         ],
+         "number":1
+      },
+      {
+         "title":"O que designa o número sublinhado no condutor 2P215A4N?",
+         "result":2,
+         "options":[
+            "Número de unidade",
+            "Número do condutor",
+            "Bitola do condutor",
+            "Matrícula da aeronave"
+         ],
+         "number":2
+      },
+      {
+         "title":"Qual é o sufixo do condutor termopar Cromel?",
+         "result":1,
+         "options":[
+            "ALML",
+            "CHROM",
+            "CONST",
+            "IRON"
+         ],
+         "number":3
+      },
+      {
+         "title":"Qual o dispositivo de proteção de circuitos é uma tira de metal que fundirá sob excessivo fluxo de corrente?",
+         "result":3,
+         "options":[
+            "Disjuntor",
+            "Relé",
+            "RCCB",
+            "Fusível"
+         ],
+         "number":4
+      },
+      {
+         "title":"Qual o dispositivo de proteção de circuitos que pode ser religado?",
+         "result":0,
+         "options":[
+            "Disjuntor",
+            "Relé",
+            "RCCB",
+            "Fusível"
+         ],
+         "number":5
+      },
+      {
+         "title":"São exemplos de luzes externas?",
+         "result":3,
+         "options":[
+            "Projetores de mapas",
+            "Luzes de cabine",
+            "Luzes dos sanitários de passageiros",
+            "Luzes de posição"
+         ],
+         "number":6
+      },
+      {
+         "title":"Complete a frase: Os fios e os grupos de fios devem ser protegidos contra ............... nos locais onde o contato com superfícies pontiagudas, ou outros fios, danificariam o isolamento:",
+         "result":3,
+         "options":[
+            "Solventes",
+            "Alojamentos das rodas",
+            "Altas temperaturas",
+            "Fricção"
+         ],
+         "number":7
+      },
+      {
+         "title":"Complete a frase: Se os fios se aproximarem mais de ....... de polegada da borda do orifício, usa-se um gromete adequado.",
+         "result":2,
+         "options":[
+            "1/8",
+            "0.5",
+            "0.25",
+            "1"
+         ],
+         "number":8
+      },
+      {
+         "title":"Complete a frase: Os fios não devem ser instalados em áreas onde fiquem sujeitos a estragos por fluidos a menos de .......polegadas da parte mais baixa da fuselagem do avião, com exceção daqueles que devem atingir aquela área:",
+         "result":3,
+         "options":[
+            "1",
+            "2",
+            "3",
+            "4"
+         ],
+         "number":9
+      },
+      {
+         "title":"Qual o padrão utilizado na aviação para medir o diâmetro de um fio?",
+         "result":2,
+         "options":[
+            "Padrão internacional aprovado pelo FAA",
+            "Padrão internacional aprovado pelo DAC",
+            "Padrão Americano ( AWG )",
+            "Padrão Europeu ( EWG )"
+         ],
+         "number":10
+      },
+      {
+         "title":"Usando o calibrador de fios, para identificar o diâmetro de um condutor:",
+         "result":0,
+         "options":[
+            "O mesmo deve ser usado sem a capa isolante",
+            "O mesmo deve ser usado com a capa isolante",
+            "O mesmo deve ser usado independente da capa isolante",
+            "O mesmo deve ser usado fazendo a média entre o fio e a capa isolante"
+         ],
+         "number":11
+      },
+      {
+         "title":"Qual a queda de voltagem máxima permitida entre a fonte e a carga num circuito de 115vac, cuja operação do sistema é contínua ?",
+         "result":2,
+         "options":[
+            "2 volts",
+            "3 volts",
+            "4 volts",
+            "5 volts"
+         ],
+         "number":12
+      },
+      {
+         "title":"A um condutor de cobre são fornecidos 20 ampères continuamente sob uma ddp de 28V e tem 70 pés entre a fonte e a carga, Que bitola devemos utilizar ?",
+         "result":1,
+         "options":[
+            "6",
+            "8",
+            "10",
+            "12"
+         ],
+         "number":13
+      },
+      {
+         "title":"Que instrumento deveremos utilizar para medir o isolamento de um condutor?",
+         "result":3,
+         "options":[
+            "Ohmímetro",
+            "Amperímetro",
+            "Voltímetro",
+            "Megger"
+         ],
+         "number":14
+      },
+      {
+         "title":"Qual o procedimento padronizado para identificar condutores em aviação?",
+         "result":3,
+         "options":[
+            "Não há padrão definido, depende de cada fabricante",
+            "Padrão Europeu",
+            "Padrão Brasileiro",
+            "Padrão americano"
+         ],
+         "number":15
+      },
+      {
+         "title":"Um chicote de fios deve ter no máximo?",
+         "result":3,
+         "options":[
+            "65 fios",
+            "68 fios",
+            "74 fios",
+            "75 fios"
+         ],
+         "number":16
+      },
+      {
+         "title":"A frouxidão dos chicotes ou de fios singelos, não deve exceder:",
+         "result":2,
+         "options":[
+            "1/4 polegada",
+            "3/4 polegada",
+            "1/2 polegada",
+            "2/4 polegada"
+         ],
+         "number":17
+      },
+      {
+         "title":"Em locais de alta temperatura, devemos utilizar fios com isolantes resistentes à alta temperatura, como:",
+         "result":3,
+         "options":[
+            "Amianto",
+            "Teflon",
+            "Fibra de vidro",
+            "Todas as anteriores"
+         ],
+         "number":18
+      },
+      {
+         "title":"Para drenar excesso de umidade em fios que passem por tubos, o mesmo deve ter um diâmetro de:",
+         "result":0,
+         "options":[
+            "1/8'' de diâmetro",
+            "1/3'' de diâmetro",
+            "1/2'' de diâmetro",
+            "2/3'' de diâmetro"
+         ],
+         "number":19
+      },
+      {
+         "title":"Ao instalar braçadeiras numa cablagem, a mesma não deve:",
+         "result":0,
+         "options":[
+            "Comprimir nenhum fio",
+            "Ter uma folga de pelo menos o diâmetro do fio de maior calibre",
+            "Ter uma folga de pelo menos o diâmetro do fio de menor calibre",
+            "Nenhuma folga dentro da braçadeira"
+         ],
+         "number":20
+      },
+      {
+         "title":"Um (a) ............. é constituído de dois ou mais grupos de fios amarrados ou laçados juntos para facilitar a manutenção:",
+         "result":1,
+         "options":[
+            "Grupo de fios",
+            "Chicote",
+            "Fiação descoberta",
+            "Braçadeira"
+         ],
+         "number":21
+      },
+      {
+         "title":"Ao utilizar um alicate descascador de fios:",
+         "result":3,
+         "options":[
+            "Devemos evitar o corte da alma do mesmo",
+            "Devemos utilizar o calibre correto do fio",
+            "Devemos descascar o necessário para ser utilizado",
+            "Todas as respostas acima"
+         ],
+         "number":22
+      },
+      {
+         "title":"No cilindro dos terminais de alumínio, tem um composto que servirá mais tarde para diminuir a oxidação da conexão pela eliminação do ar. Qual o tipo de composto usado?",
+         "result":0,
+         "options":[
+            "Petrolato de zinco",
+            "Petróleo de zinco",
+            "Potássio de zinco",
+            "Nenhuma das respostas acima"
+         ],
+         "number":23
+      },
+      {
+         "title":"Quais as ferramentas mais utilizadas na aviação, para estampagem de fios?",
+         "result":3,
+         "options":[
+            "Portáteis, manuais e elétricas",
+            "Elétricas de bancada",
+            "Portáteis pneumáticas",
+            "A e B estão corretas"
+         ],
+         "number":24
+      },
+      {
+         "title":"O que o mecânico deve fazer, após estampar um terminal não isolado?",
+         "result":1,
+         "options":[
+            "Isolar com fita isolante",
+            "Isolar com uma luva de uma polegada de comprimento",
+            "Isolar com uma luva de uma polegada de comprimento e amarrar na extremidade junto ao fio com um cordão de enlace",
+            "Isolar com uma luva de uma polegada de comprimento e amarrar na extremidade junto ao fio com arame de freno"
+         ],
+         "number":25
+      },
+      {
+         "title":"Ao emendar (usando uma emenda isolada ) dois fios com diâmetros diferentes, o que se deve fazer?",
+         "result":1,
+         "options":[
+            "Nada de especial, utilizar o processo normal de emendas",
+            "O fio de menor diâmetro, sua ponta deve ser dobrada",
+            "O fio de maior diâmetro, sua ponta dever ser dobrada",
+            "Diminuir o diâmetro do fio com calibre mais grosso"
+         ],
+         "number":26
+      },
+      {
+         "title":"A resistência das conexões ligadas à massa, não deve exceder a:",
+         "result":2,
+         "options":[
+            "0.001 ohm",
+            "0.002 ohm",
+            "0.003 ohm",
+            "0.005 ohm"
+         ],
+         "number":27
+      },
+      {
+         "title":"Qual a finalidade dos conectores (plugs e receptáculos) nos aviões?",
+         "result":1,
+         "options":[
+            "Facilitar a boa conexão elétrica",
+            "Facilitar a manutenção, quando for necessária uma desconexão frequente",
+            "Evitar emendas de fios",
+            "Facilitar a manutenção"
+         ],
+         "number":28
+      },
+      {
+         "title":"Os conectores mais usados em aviação são do tipo AN. Os mesmos são divididos em classes. Qual a classe de conectores que podem ser usados em áreas quentes do avião ?",
+         "result":3,
+         "options":[
+            "Classe B",
+            "Classe C",
+            "Classe D",
+            "Classe K"
+         ],
+         "number":29
       }
    ]
 }
