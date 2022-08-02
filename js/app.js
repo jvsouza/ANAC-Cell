@@ -8,19 +8,20 @@ const baseUrl = 'https://raw.githubusercontent.com/jvsouza/ANAC-Cell/main/json/'
 //const baseUrl = 'http://localhost/ANAC-Cell/json/';
 const coursesUpdated = {
     "courses_updated":[
-        {"file_json":"cel01", "course_unit":"Technical English"},
-        {"file_json":"cel03", "course_unit":"Fabricing"},
-        {"file_json":"cel04", "course_unit":"Coating, Painting And Finishing Of Aircraft"},
-        {"file_json":"cel05", "course_unit":"Repairs To Metallic Structures"},
-        {"file_json":"cel06", "course_unit":"Welding In Aircraft"},
-        {"file_json":"cel07", "course_unit":"Advanced Compound Materials"},
-        {"file_json":"cel08", "course_unit":"Aircraft Electrical Systems"},
-        {"file_json":"cel09", "course_unit":"Aircraft Instruments"},
-        {"file_json":"cel10", "course_unit":"Communication And Navigation Systems"},
-        {"file_json":"cel11", "course_unit":"Hydraulic And Landing Gear System"},
-        {"file_json":"cel12", "course_unit":"Protection Systems Against The Effects Of Ice And Rain And Against Fire"},
-        {"file_json":"cel13", "course_unit":"Pneumatic And Cabin Environment Control Systems"},
-        {"file_json":"cel_aerotd_2020-2", "course_unit":"Mock exam :: Aerotd 2020-2"},
+        {"file_json":"cel01", "course_unit":"01 - Technical English"},
+        {"file_json":"cel02", "course_unit":"02 - Aircraft Structures And Flight Control Systems"},
+        {"file_json":"cel03", "course_unit":"03 - Fabricing"},
+        {"file_json":"cel04", "course_unit":"04 - Coating, Painting And Finishing Of Aircraft"},
+        {"file_json":"cel05", "course_unit":"05 - Repairs To Metallic Structures"},
+        {"file_json":"cel06", "course_unit":"06 - Welding In Aircraft"},
+        {"file_json":"cel07", "course_unit":"07 - Advanced Compound Materials"},
+        {"file_json":"cel08", "course_unit":"08 - Aircraft Electrical Systems"},
+        {"file_json":"cel09", "course_unit":"09 - Aircraft Instruments"},
+        {"file_json":"cel10", "course_unit":"10 - Communication And Navigation Systems"},
+        {"file_json":"cel11", "course_unit":"11 - Hydraulic And Landing Gear System"},
+        {"file_json":"cel12", "course_unit":"12 - Protection Systems Against The Effects Of Ice And Rain And Against Fire"},
+        {"file_json":"cel13", "course_unit":"13 - Pneumatic And Cabin Environment Control Systems"},
+        {"file_json":"cel_aerotd_2020-2", "course_unit":"14 - Mock exam :: Aerotd 2020-2"},
     ]
 };
 var questions_available = [];
