@@ -4,15 +4,113 @@
    "courseunit":"Aircraft Structures And Flight Control Systems",
    "questions":[
       {
-         "title":"ttt",
-         "result":0,
+         "title":"Normalmente, ajustes e alinhamentos não podem ser realizados em local aberto. Se isto não puder ser evitado, a aeronave deverá ser posicionada:",
+         "result":1,
          "options":[
-            "opt1",
-            "opt2",
-            "opt3",
-            "opt4"
+            "A e B estão corretas",
+            "Com o nariz contra o vento",
+            "De lado para o vento",
+            "Com o nariz a favor do vento"
          ],
          "number":0
+      },{
+         "title":"Condição na rotação de um corpo, no qual todas as forças de rotação estão balanceadas dentro do mesmo, de modo que nenhuma vibração é produzida enquanto o corpo estiver em movimento:",
+         "result":1,
+         "options":[
+            "Equilíbrio",
+            "Balanceamento dinâmico",
+            "Balanceamento estático",
+            "Controle"
+         ],
+         "number":1
+      },
+      {
+         "title":"Dispositivos muitas vezes usados para simplificar o conjunto de roldanas, hastes etc., nas suas posições neutras:",
+         "result":1,
+         "options":[
+            "Prendedores",
+            "Pinos de ajustes",
+            "Gabaritos",
+            "Réguas"
+         ],
+         "number":2
+      },
+      {
+         "title":"A fuselagem de uma aeronave de asa fixa é geralmente dividida em 5 partes principais:",
+         "result":3,
+         "options":[
+            "Fuselagem, asas, leme de direção, superfícies de controle e trem de pouso ",
+            "Fuselagem, asas, estabilizadores, superfícies de controle e motor",
+            "Fuselagem, asas, estabilizadores, ailerons, profundores e trem de pouso",
+            "Fuselagem, asas, estabilizadores, superfícies de controle e trem de pouso"
+         ],
+         "number":3
+      },
+      {
+         "title":"A fuselagem de helicóptero consiste de:",
+         "result":0,
+         "options":[
+            "Célula, rotor principal e caixa de engrenagens de redução (gearbox), rotor de cauda e trem de pouso",
+            "Célula, rotor principal e caixa de engrenagens de redução (gearbox), rotor de vertical e trem de pouso",
+            "Célula, rotor principal, e asa rotativa (pá), rotor de cauda e trem de pouso",
+            "Célula, rotor principal e caixa de acessórios, rotor de cauda e trem de pouso"
+         ],
+         "number":4
+      },
+      {
+         "title":"Todas as partes da aeronave devem ser planejadas para suportar as cargas que lhes serão impostas. A determinação dessas cargas é chamada de:",
+         "result":3,
+         "options":[
+            "Força G",
+            "Peso",
+            "Balanceamento",
+            "Análise de estresse"
+         ],
+         "number":5
+      },
+      {
+         "title":"O motor puxa a aeronave para frente, porém, a resistência do ar tenta trazê-la de volta. Este é um exemplo de estresse do tipo:",
+         "result":0,
+         "options":[
+            "Tensão",
+            "Compressão",
+            "Cizalhamento",
+            "Flexão"
+         ],
+         "number":6
+      },
+      {
+         "title":"O esforço de tensão de um material é medido em:",
+         "result":0,
+         "options":[
+            "psi (libras por polegada quadrada)",
+            "Libras",
+            "Kgf",
+            "Libras e Kgf"
+         ],
+         "number":7
+      },
+      {
+         "title":"A força que tende a encurtar ou espremer as partes da aeronave é:",
+         "result":3,
+         "options":[
+            "Torção",
+            "Tensão",
+            "Flexão",
+            "Compressão"
+         ],
+         "number":8
+      },
+      {
+         "title":"São usados para limitar o percurso ou curso de movimento dos ailerons, profundor e leme:",
+         "result":2,
+         "options":[
+            "Frenos",
+            "Travas",
+            "Batentes",
+            "Espaçadores"
+         ],
+         "number":9
       }
    ]
 }

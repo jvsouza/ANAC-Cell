@@ -1,5 +1,5 @@
 # ANAC-Cell
-![Progress](https://progress-bar.dev/92/?title=Completed%20&width=160&color=54aeff)
+![Progress](https://progress-bar.dev/100/?title=Completed%20&width=160&color=54aeff)
 
 ## Collection of questions for the preparatory study of the theoretical exam of ANAC in aeronautical maintenance mechanics, cell group.
 > [As specified by ANAC](https://www.gov.br/anac/pt-br/assuntos/regulados/profissionais-da-aviacao-civil/processo-de-licencas-e-habilitacoes/arquivos/Port41452021ExamesteoricoseAnexos.pdf), the CHT (certificate of technical skill) is issued upon passing a theoretical knowledge exam in the respective category of activity.
@@ -8,7 +8,7 @@
 | Type | Index | Progress | Contet |
 | :--: | :---: | :------: | :----- |
 | Cel | 01 | ![](https://img.shields.io/badge/-Done-success) | Technical English |
-| Cel | 02 | ![](https://img.shields.io/badge/-Doing-important) | Aircraft Structures And Flight Control Systems |
+| Cel | 02 | ![](https://img.shields.io/badge/-Done-success) | Aircraft Structures And Flight Control Systems |
 | Cel | 03 | ![](https://img.shields.io/badge/-Done-success) | Fabricing |
 | Cel | 04 | ![](https://img.shields.io/badge/-Done-success) | Coating, Painting And Finishing Of Aircraft |
 | Cel | 05 | ![](https://img.shields.io/badge/-Done-success) | Repairs To Metallic Structures |
@@ -24,9 +24,9 @@
 ## Mock exams were included:
 | Type | Index | Progress | Contet |
 | :--: | :---: | :------: | :----- |
-| Cel | 01 | ![](https://img.shields.io/badge/-Done-success) | AeroTD 2020-2 |
-| Cel | 02 | ![](https://img.shields.io/badge/-Doing-important) | AeroTD 2022-1 |
-| Cel | 03 | ![](https://img.shields.io/badge/-ToDo-inactive) | Senai/SC 2022-1 |
+| Cel | 13 | ![](https://img.shields.io/badge/-Done-success) | AeroTD 2020-2 |
+| Cel | 14 | ![](https://img.shields.io/badge/-Doing-important) | AeroTD 2022-1 |
+| Cel | 15 | ![](https://img.shields.io/badge/-ToDo-inactive) | Senai/SC 2022-1 |
 
 ## For that, I'm storing studied questions in this collection. As webpage struct bellow:
 ```text
