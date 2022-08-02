@@ -15,6 +15,7 @@ const coursesUpdated = {
         {"file_json":"cel06", "course_unit":"Welding In Aircraft"},
         {"file_json":"cel07", "course_unit":"Advanced Compound Materials"},
         {"file_json":"cel08", "course_unit":"Aircraft Electrical Systems"},
+        {"file_json":"cel09", "course_unit":"Aircraft Instruments"},
         {"file_json":"cel10", "course_unit":"Communication And Navigation Systems"},
         {"file_json":"cel11", "course_unit":"Hydraulic And Landing Gear System"},
         {"file_json":"cel12", "course_unit":"Protection Systems Against The Effects Of Ice And Rain And Against Fire"},

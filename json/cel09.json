@@ -1,0 +1,337 @@
+{
+   "contentType":"Cel",
+   "contentIndex":9,
+   "courseunit":"Aircraft Instruments",
+   "questions":[
+      {
+         "title":"Qual o princípio de funcionamento do indicador de razão de subida (Climb)?",
+         "result":1,
+         "options":[
+            "Mede a pressão diferencial entre o sistema estático e dinâmico, indicando a razão na qual o avião está subindo ou descendo",
+            "Mede a pressão diferencial do sistema estático, indicando a razão na qual o avião está subindo ou descendo",
+            "Mede a pressão diferencial do sistema dinâmico, indicando a razão na qual o avião está subindo ou descendo",
+            "Mede a razão na qual o avião está subindo ou descendo, indicando pressão diferencial do sistema."
+         ],
+         "number":0
+      },
+      {
+         "title":"No canal do leme do piloto automático, onde é originado o sinal de direção?",
+         "result":0,
+         "options":[
+            "Em um sistema de compasso",
+            "No controle de altitude",
+            "No indicador de razão de curva (turn and bank)",
+            "No climb."
+         ],
+         "number":1
+      },
+      {
+         "title":"Quais são os tipos de unidades básicas de um sistema de piloto automático?",
+         "result":0,
+         "options":[
+            "Elementos de comando, elementos sensíveis, elementos computadores e elementos de atuação",
+            "Comando, controle e navegação",
+            "Controle dos eixos vertical, horizontal e lateral da aeronave",
+            "Elementos de entrada, comando e saída"
+         ],
+         "number":2
+      },
+      {
+         "title":"O que o sistema de piloto automático utiliza como referência para manter uma aeronave voando de forma previamente estabelecida?",
+         "result":3,
+         "options":[
+            "As atuações do piloto nas superfícies secundárias da aeronave",
+            "Sinais sensíveis de dispositivos eletromagnéticos",
+            "Os estabilizadores de controle primários",
+            "Sinais elétricos gerados em unidades sensíveis a informações giroscópicas."
+         ],
+         "number":3
+      },
+      {
+         "title":"O que é um servo?",
+         "result":2,
+         "options":[
+            "Dispositivo sensível de entrada de informações ao computador do piloto automático",
+            "Elementos de comando do piloto automático",
+            "Dispositivo que converte sinais elétricos em força mecânica",
+            "Dispositivo que converte informações mecânicas em indicações elétricas."
+         ],
+         "number":4
+      },
+      {
+         "title":"Quais são as etapas fundamentais que compõe o ciclo de controle de um piloto automático, para manter a aeronave estabilizada?",
+         "result":0,
+         "options":[
+            "Captar informações dos elementos sensíveis, processar as informações (computador), atuar as superfícies de controle (servos) e estabilizar (feedback)",
+            "Atuar as superfícies primárias, compensar a aeronave (compensadores) e estabilizar (feedback)",
+            "Comandar as superfícies secundárias (servos), compensar a aeronave (compensadores) e estabilizar (feedback)",
+            "Comandar as superfícies primárias (servos) e estabilizar (feedback)."
+         ],
+         "number":5
+      },
+      {
+         "title":"Qual a finalidade do sistema anunciador e de alerta auditivo?",
+         "result":2,
+         "options":[
+            "Informar o desempenho da aeronave",
+            "Apresentar parâmetros de funcionamento dos sistemas de instrumentos das aeronaves",
+            "Mostrar as condições vigentes, notificar as condições insatisfatórias e alertar condição insegura",
+            "Permitir uma navegação adequada."
+         ],
+         "number":6
+      },
+      {
+         "title":"Como fazemos para comandar o avião para subir ou descer quando o piloto automático está ligado?",
+         "result":2,
+         "options":[
+            "Devemos desligar o piloto automático para liberar a execução da manobra",
+            "Selecionando nova altitude no painel de controle do piloto automático",
+            "Acionando o botão singular vertical (pitch trim) no painel de controle do piloto automático",
+            "Aplicando forte pressão no manche."
+         ],
+         "number":7
+      },
+      {
+         "title":"Quais são os elementos sensíveis de um sistema de piloto automático?",
+         "result":2,
+         "options":[
+            "Tomadas de ar estático e dinâmico, detectores de fluxo e servos",
+            "Altímetro, velocímetro e climb.",
+            "Os giroscópios do indicador de atitude, do “pau e bola” (turn and bank) e do giro direcional, e o controle de altitude",
+            "Sensores de fluxo e dispositivos giroscópicos."
+         ],
+         "number":8
+      },
+      {
+         "title":"Quais são os elementos de atuação de um sistema de piloto automático?",
+         "result":1,
+         "options":[
+            "Os elementos de comando",
+            "Os servos",
+            "Os elementos sensores",
+            "O computador amplificador."
+         ],
+         "number":9
+      },
+      {
+         "title":"O sistema Selsyn serve para indicar:",
+         "result":0,
+         "options":[
+            "Posição do trem de pouso",
+            "Fluxo de combustível",
+            "Pressão de admissão",
+            "Geração de tensão CC."
+         ],
+         "number":10
+      },
+      {
+         "title":"Como funciona a indicação de pressão de óleo utilizando tubo de Bourdon?",
+         "result":3,
+         "options":[
+            "Tubos de Bourdon não são utilizados para sistemas indicadores de pressão, apenas temperatura",
+            "Uma engrenagem redutora aciona a deformação do tubo, o que movimenta o ponteiro do indicador",
+            "A deformação do tubo de Bourdon é transmitida ao instrumento por um sistema síncrono",
+            "O tubo de Bourdon, ligado diretamente ao sistema de óleo do motor, sofre deformação pela ação da pressão deste em seu interior."
+         ],
+         "number":11
+      },
+      {
+         "title":"Qual a finalidade do piloto automático?",
+         "result":0,
+         "options":[
+            "Reduzir o trabalho, o esforço e fadiga no controle do avião, durante voos muito longos",
+            "Evitar que o piloto cometa erros de manobras e navegação, levando a aeronave a atitudes críticas",
+            "Comandar a aeronave, definindo comandos de navegação e de desempenho durante o voo",
+            "Garantir a correção de comandos e a tomar decisões sem a ajuda do piloto, evitando a possibilidade de acidentes."
+         ],
+         "number":12
+      },
+      {
+         "title":"Que dispositivo é usado para manter uma reserva de fluido hidráulico sob pressão a qualquer instante?",
+         "result":2,
+         "options":[
+            "Bomba de recalque",
+            "Compressor de fluido hidráulico",
+            "Acumulador de pressão",
+            "Reservatório hidráulico."
+         ],
+         "number":13
+      },
+      {
+         "title":"O que pode ser usado para desconectar rapidamente o sistema do piloto automático em caso da ocorrência de um mau funcionamento do sistema ou emergência?",
+         "result":1,
+         "options":[
+            "O interruptor MASTER CAUTION no controlador do piloto automático",
+            "Um botão de desconexão do piloto automático no manche",
+            "O interruptor MASTER CAUTION no painel principal",
+            "A aplicação imediata de potência no motor."
+         ],
+         "number":14
+      },
+      {
+         "title":"Qual a utilidade dos indicadores de sucção?",
+         "result":3,
+         "options":[
+            "Apresentam a quantidade de pressão gerada para sistemas de alto desempenho",
+            "Fornecem informações quanto ao estado de funcionamento do sistema anemométrico",
+            "Monitoram a quantidade de pressão fornecida aos sistemas pneumáticos da aeronave",
+            "Indicam a quantidade de sucção que aciona os instrumentos giroscópicos movidos por ar."
+         ],
+         "number":15
+      },
+      {
+         "title":"Quais são os elementos de atuação de um sistema de piloto automático?",
+         "result":1,
+         "options":[
+            "Os elementos de comando",
+            "Os servos",
+            "Os elementos sensores",
+            "O computador amplificador."
+         ],
+         "number":16
+      },
+      {
+         "title":"Como a luz de alerta MASTER CAUTION é desligada?",
+         "result":3,
+         "options":[
+            "Por comando no manche",
+            "Desligando o sistema que apresenta problemas",
+            "Ela permanece acesa até a solução do problema apresentado",
+            "Basta pressioná-la."
+         ],
+         "number":17
+      },
+      {
+         "title":"Aponte uma situação em que a buzina do alerta auditivo da aeronave soará:",
+         "result":0,
+         "options":[
+            "Se as manetes estiverem retardadas e o trem de pouso não estiver numa condição embaixo e travado",
+            "Quando aplicar potência no motor sem o devido recolhimento do trem de pouso",
+            "Ao fazer uma curva com mais de 45º de inclinação de asas",
+            "Sempre que ocorrer uma operação inadequada do motor."
+         ],
+         "number":18
+      },
+      {
+         "title":"Para que serve o tubo capilar curto na traseira do indicador de pressão de admissão?",
+         "result":3,
+         "options":[
+            "Promove a redução de pressão para permitir o funcionamento correto do instrumento",
+            "Regula o funcionamento do instrumento, compensando suas informações em altitude",
+            "Atua como sensor de quantidade de ar presente no sistema",
+            "Age como dispositivo de segurança para prevenir danos ao instrumento por possível retorno dos gases do motor."
+         ],
+         "number":19
+      },
+      {
+         "title":"Quais fatores afetam a capacitância de um capacitor?",
+         "result":3,
+         "options":[
+            "A resistência do material utilizado e sua condutância",
+            "A tensão aplicada a seus terminais e seu dielétrico",
+            "O material utilizado e seu dielétrico",
+            "A área das placas, a distância entre as placas e o material do dielétrico entre as placas."
+         ],
+         "number":20
+      },
+      {
+         "title":"Qual a informação fornecida por um tacômetro de motor convencional?",
+         "result":0,
+         "options":[
+            "A velocidade de rotação do eixo de manivelas do motor",
+            "A velocidade de rotação do eixo da turbina",
+            "O torque transferido ao eixo da hélice",
+            "A rotação do eixo de acionamento de válvulas."
+         ],
+         "number":21
+      },
+      {
+         "title":"Qual a informação apresentada em um tacômetro de motor a à turbina?",
+         "result":2,
+         "options":[
+            "RPM",
+            "EGT",
+            "Porcentagem de RPM",
+            "Razão de compressão."
+         ],
+         "number":22
+      },
+      {
+         "title":"Como é medida a temperatura dos gases de escapamento nos motores a turbina?",
+         "result":2,
+         "options":[
+            "Por termômetros de resistência elétrica",
+            "Por sensores de fluxo de ar",
+            "Por sondas instaladas no cone de escapamento",
+            "Por sensores utilizando tubos de Bourdon."
+         ],
+         "number":23
+      },
+      {
+         "title":"Qual o par bimetálico mais utilizado em sistemas de indicação de temperatura de motores a turbina?",
+         "result":1,
+         "options":[
+            "Ferro e constantan",
+            "Cromel e alumel",
+            "Cromo e constantan",
+            "Cobre e constantan."
+         ],
+         "number":24
+      },
+      {
+         "title":"Qual a informação apresentada pelo sistema de indicação de EGT?",
+         "result":1,
+         "options":[
+            "Temperatura do ar externo",
+            "Temperatura dos gases do escapamento da turbina, enquanto eles estão deixando a unidade motora",
+            "Consumo de combustível, em galões/hora",
+            "Razão de pressão dos gases da turbina."
+         ],
+         "number":25
+      },
+      {
+         "title":"Na câmara de combustível do medidor de fluxo de combustível (“FUEL FLOW”), o que permite o dreno de combustível quando o fluxo é maior que a capacidade da câmara?",
+         "result":2,
+         "options":[
+            "Um desvio de retorno de combustível",
+            "A válvula reguladora de fluxo",
+            "Uma válvula de alívio",
+            "Não há dreno de combustível."
+         ],
+         "number":26
+      },
+      {
+         "title":"O que move as bombas que geram pressão para as unidades hidráulicas dos aviões?",
+         "result":1,
+         "options":[
+            "O motor do avião",
+            "O motor do avião, um motor elétrico ou ambos",
+            "O gerador hidráulico da aeronave",
+            "O gerador elétrico da aeronave."
+         ],
+         "number":27
+      },
+      {
+         "title":"Em um indicador de pressão de admissão, o que é a pressão absoluta?",
+         "result":0,
+         "options":[
+            "É a soma da pressão do ar e a pressão adicional criada por um compressor",
+            "É a pressão fornecida por um compressor",
+            "É a pressão atmosférica corrigida para o nível de voo da aeronave",
+            "É a pressão fornecida para o funcionamento dos instrumentos giroscópicos."
+         ],
+         "number":28
+      },
+      {
+         "title":"Qual a finalidade do sincroscópio?",
+         "result":0,
+         "options":[
+            "Indicar se dois, ou mais, motores estão sincronizados, operando na mesma RPM",
+            "Sincronizar o funcionamento dos indicadores de RPM",
+            "Apresentar informações de razão de consumo de combustível em aeronaves multimotores",
+            "Monitorar o desempenho de motores múltiplos."
+         ],
+         "number":29
+      }
+   ]
+}
