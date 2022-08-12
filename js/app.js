@@ -74,7 +74,7 @@ function getJson( nameFileJson ) {
         createList();
     })
     .catch( err => {
-        console.error(err);
+        console.log(err);
     })
 }
 
