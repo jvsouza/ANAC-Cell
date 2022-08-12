@@ -341,7 +341,7 @@
             "00",
             "10",
             "0",
-            "30",
+            "30"
          ],
          "number":30
       },
@@ -352,7 +352,7 @@
             "Classe A",
             "Classe C",
             "Classe B",
-            "Classe D",
+            "Classe D"
          ],
          "number":31
       },
@@ -363,7 +363,7 @@
             "Circuit breaker – paralelo",
             "Fusível – série",
             "circuit breaker – série",
-            "Fusível – paralelo",
+            "Fusível – paralelo"
          ],
          "number":32
       },
@@ -374,7 +374,7 @@
             "Classe D",
             "Classe A",
             "Classe B",
-            "Classe C",
+            "Classe C"
          ],
          "number":33
       },
@@ -385,7 +385,7 @@
             "Às vezes",
             "Quando possível",
             "Nunca",
-            "Sempre",
+            "Sempre"
          ],
          "number":34
       },
@@ -396,7 +396,7 @@
             "2",
             "4",
             "5",
-            "3",
+            "3"
          ],
          "number":35
       },
@@ -407,7 +407,7 @@
             "A perda de energia permitida e a queda de tensão permitida",
             "A tensão do sistema e o comprimento do fio",
             "O material de que é feito o condutor e sua resistência",
-            "Perda da energia permitida e a tensão que deve conduzir",
+            "Perda da energia permitida e a tensão que deve conduzir"
          ],
          "number":36
       },
@@ -418,7 +418,7 @@
             "D",
             "B",
             "K",
-            "C",
+            "C"
          ],
          "number":37
       },
@@ -429,7 +429,7 @@
             "O terminal positivo",
             "O terminal negativo",
             "O condutor",
-            "A resistência",
+            "A resistência"
          ],
          "number":38
       },
@@ -440,7 +440,7 @@
             "0,25",
             "0,75",
             "1",
-            "0,5",
+            "0,5"
          ],
          "number":39
       },
@@ -451,7 +451,7 @@
             "Suprir a pressão do sistema de freio",
             "Amortecer as pulsações das unidades de superfície",
             "Armazenar o fluido sob pressão para as bombas",
-            "Armazenar a pressão, amortecer as pulsações do sistema e suprir o débito das bombas",
+            "Armazenar a pressão, amortecer as pulsações do sistema e suprir o débito das bombas"
          ],
          "number":40
       },
@@ -462,7 +462,7 @@
             "Válvula seletora",
             "Válvula de sequência",
             "Válvula de contorno",
-            "Válvula de segurança",
+            "Válvula de segurança"
          ],
          "number":41
       },
@@ -473,7 +473,7 @@
             "Contorno",
             "Seletora de 3 posições",
             "Seletora",
-            "Segurança",
+            "Segurança"
          ],
          "number":42
       },
@@ -484,7 +484,7 @@
             "Cilindro atuador de dupla ação",
             "Cilindro atuador de 1 porte",
             "Cilindro atuador de 3 posições",
-            "Cilindro atuador de 4 posições",
+            "Cilindro atuador de 4 posições"
          ],
          "number":43
       },
@@ -495,7 +495,7 @@
             "A válvula de ar apresenta vazamento",
             "O diafragma está rompido",
             "A ligação do acumulador ao sistema está invertida",
-            "O acumulador está funcionando perfeitamente",
+            "O acumulador está funcionando perfeitamente"
          ],
          "number":44
       },
@@ -506,7 +506,7 @@
             "Motor segmentado, monodisco, múltiplo disco, ou do tipo de expansão",
             "Monodisco, triplo disco, rotor segmentado, ou do tipo de expansão",
             "Duplo disco, monodisco, múltiplo disco, rotor segmentado, ou do tipo tubo de expansão",
-            "Triplo disco, rotor segmentado e monodisco",
+            "Triplo disco, rotor segmentado e monodisco"
          ],
          "number":45
       },
@@ -517,7 +517,7 @@
             "Sangrando de cima para baixo e por gravidade",
             "Somente por pressão",
             "Sangrando de baixo para cima e por gravidade",
-            "Por pressão e sangrando de baixo para cima",
+            "Por pressão e sangrando de baixo para cima"
          ],
          "number":46
       },
@@ -528,7 +528,7 @@
             "Magnésio ou aço",
             "Alumínio ou magnésio",
             "Ferro ou aço carbono de liga leve",
-            "Aço ou ferro",
+            "Aço ou ferro"
          ],
          "number":47
       },
@@ -539,7 +539,7 @@
             "Calcanhar do talão",
             "Costado",
             "Banda de rodagem",
-            "Reforço da banda de rodagem",
+            "Reforço da banda de rodagem"
          ],
          "number":48
       },
@@ -550,7 +550,7 @@
             "Quando os pneus estão frescos, é aguardado pelo menos duas horas após o voo antes de inspecionar as pressões (três horas em tempo quente)",
             "Pneus frios ou quentes cinco horas",
             "Pneus quentes cinco horas e pneus freios, duas horas",
-            "Pneus frios três horas e quando quentes, quatro horas",
+            "Pneus frios três horas e quando quentes, quatro horas"
          ],
          "number":49
       },
@@ -561,7 +561,7 @@
             "Argônio, Acetileno e MIG",
             "Gás, de ponto e MIG",
             "Laser, TIG e MIG",
-            "Gás, Arco voltaico, e Resistência elétrica",
+            "Gás, Arco voltaico, e Resistência elétrica"
          ],
          "number":50
       },
@@ -572,7 +572,7 @@
             "Gás , MiG e TIG",
             "Argônio, TIG e em fenda",
             "De rolo, de extremidade e de ponto",
-            "De extremidade, em ponto e em fenda",
+            "De extremidade, em ponto e em fenda"
          ],
          "number":51
       },
@@ -583,7 +583,7 @@
             "Esquerda e Esquerda",
             "Direita e Direita",
             "Direita e Esquerda",
-            "Esquerda e Direita",
+            "Esquerda e Direita"
          ],
          "number":52
       },
@@ -594,7 +594,7 @@
             "Manômetro",
             "Regulador",
             "Maçarico",
-            "Bicos",
+            "Bicos"
          ],
          "number":53
       },
@@ -605,7 +605,7 @@
             "Oxidante, redutora e carburante",
             "Redutora, oxidante e neutra",
             "Carburante, oxidante e redutora",
-            "Neutra, carburante e redutora",
+            "Neutra, carburante e redutora"
          ],
          "number":54
       },
@@ -616,7 +616,7 @@
             "Chata, horizontal, vertical e quina",
             "Plana, horizontal, vertical e sobre-cabeça",
             "Plana, Horizontal, vertical e topo",
-            "Topo, horizontal, vertical e sobre-cabeça",
+            "Topo, horizontal, vertical e sobre-cabeça"
          ],
          "number":55
       },
@@ -627,7 +627,7 @@
             "Chanfro, plano e Topo",
             "Em T, sobreposta e vertical",
             "Em V, sobreposta e topo",
-            "Topo, sobreposta e quina",
+            "Topo, sobreposta e quina"
          ],
          "number":56
       },
@@ -638,7 +638,7 @@
             "Brasagem",
             "Elétrica",
             "Arco voltaico",
-            "Gás",
+            "Gás"
          ],
          "number":57
       },
@@ -649,7 +649,7 @@
             "Solda prata",
             "Solda amarela",
             "Solda estanho",
-            "Solda cobre",
+            "Solda cobre"
          ],
          "number":58
       },
@@ -660,7 +660,7 @@
             "Plasma",
             "Elétrica",
             "TIG",
-            "Ponto",
+            "Ponto"
          ],
          "number":59
       },
@@ -671,7 +671,7 @@
             "Através dos supercarregadores ou sangria de ar de um estágio de turbina",
             "Através do ar de impacto com a aeronave",
             "Através de um dispositivo de coleta de ar no escapamento do motor",
-            "Através do trabalho da válvula de sangria de ar",
+            "Através do trabalho da válvula de sangria de ar"
          ],
          "number":60
       },
@@ -682,7 +682,7 @@
             "Através de um sistema automático de válvulas",
             "Através de um sistema manual de válvulas",
             "O ar não sai, fica circulando dentro da aeronave",
-            "O ar sai através de dutos e é aproveitado em outros sistemas",
+            "O ar sai através de dutos e é aproveitado em outros sistemas"
          ],
          "number":61
       },
@@ -693,7 +693,7 @@
             "Válvula borboleta",
             "Válvula bleed-air",
             "Válvula shut-off",
-            "Válvula de sangria de ar",
+            "Válvula de sangria de ar"
          ],
          "number":62
       },
@@ -704,7 +704,7 @@
             "Próximo ao trem de pouso",
             "Próximo ao motor",
             "Próximo à cauda da aeronave",
-            "Próximo ao nariz da aeronave",
+            "Próximo ao nariz da aeronave"
          ],
          "number":63
       },
@@ -715,7 +715,7 @@
             "Fechada e fechada",
             "Aberta e ciclando",
             "Ciclando e fechada",
-            "Ciclando e aberta",
+            "Ciclando e aberta"
          ],
          "number":64
       },
@@ -726,7 +726,7 @@
             "Podemos somente esquentar o ar que vai para a cabine",
             "Podemos resfriar ou esquentar o ar que vai para a cabine",
             "Podemos somente direcionar o ar, visto que ele é de impacto e já vem com a temperatura pré-determinada",
-            "Podemos somente resfriar o ar que vai para a cabine",
+            "Podemos somente resfriar o ar que vai para a cabine"
          ],
          "number":65
       },
@@ -737,7 +737,7 @@
             "Misturar o ar pressurizado  com o ar de impacto",
             "Auxiliar a aumentar a temperatura do ar que vai para a cabine",
             "Auxiliar a baixar a temperatura do ar que vai para a cabine",
-            "Misturar o ar que vai para a cabine com o ar de impacto",
+            "Misturar o ar que vai para a cabine com o ar de impacto"
          ],
          "number":66
       },
@@ -748,7 +748,7 @@
             "Somente ar entre seus dutos internos",
             "Somente da ventoinha posterior funcionando",
             "Somente ar de impacto e ar entre seus dutos internos",
-            "Somente ar de impacto",
+            "Somente ar de impacto"
          ],
          "number":67
       },
@@ -759,7 +759,7 @@
             "filtro",
             "Peneira",
             "acm",
-            "Saco separador",
+            "Saco separador"
          ],
          "number":68
       },
@@ -770,7 +770,7 @@
             "1.000 e 2.000",
             "3.750 e 3.250",
             "4.000 e 4.500",
-            "3.000 e 4.000",
+            "3.000 e 4.000"
          ],
          "number":69
       },
@@ -781,7 +781,7 @@
             "A e B estão corretas",
             "Com o nariz contra o vento",
             "De lado para o vento",
-            "Com o nariz a favor do vento",
+            "Com o nariz a favor do vento"
          ],
          "number":70
       },
@@ -792,7 +792,7 @@
             "Equilíbrio",
             "Balanceamento dinâmico",
             "Balanceamento estático",
-            "Controle",
+            "Controle"
          ],
          "number":71
       },
@@ -803,7 +803,7 @@
             "Prendedores",
             "Pinos de ajustes",
             "Gabaritos",
-            "Réguas",
+            "Réguas"
          ],
          "number":72
       },
@@ -814,7 +814,7 @@
             "Fuselagem, asas, leme de direção, superfícies de controle e trem de pouso ",
             "Fuselagem, asas, estabilizadores, superfícies de controle e motor",
             "Fuselagem, asas, estabilizadores, ailerons, profundores e trem de pouso",
-            "Fuselagem, asas, estabilizadores, superfícies de controle e trem de pouso",
+            "Fuselagem, asas, estabilizadores, superfícies de controle e trem de pouso"
          ],
          "number":73
       },
@@ -825,7 +825,7 @@
             "Célula, rotor principal e caixa de engrenagens de redução (gearbox), rotor de cauda e trem de pouso",
             "Célula, rotor principal e caixa de engrenagens de redução (gearbox), rotor de vertical e trem de pouso",
             "Célula, rotor principal, e asa rotativa (pá), rotor de cauda e trem de pouso",
-            "Célula, rotor principal e caixa de acessórios, rotor de cauda e trem de pouso",
+            "Célula, rotor principal e caixa de acessórios, rotor de cauda e trem de pouso"
          ],
          "number":74
       },
@@ -836,7 +836,7 @@
             "Força G",
             "Peso",
             "Balanceamento",
-            "Análise de estresse",
+            "Análise de estresse"
          ],
          "number":75
       },
@@ -847,7 +847,7 @@
             "Tensão",
             "Compressão",
             "Cizalhamento",
-            "Flexão",
+            "Flexão"
          ],
          "number":76
       },
@@ -858,7 +858,7 @@
             "psi (libras por polegada quadrada)",
             "Libras",
             "Kgf",
-            "Libras e Kgf",
+            "Libras e Kgf"
          ],
          "number":77
       },
@@ -869,7 +869,7 @@
             "Torção",
             "Tensão",
             "Flexão",
-            "Compressão",
+            "Compressão"
          ],
          "number":78
       },
@@ -880,7 +880,7 @@
             "Frenos",
             "Travas",
             "Batentes",
-            "Espaçadores",
+            "Espaçadores"
          ],
          "number":79
       },
@@ -891,7 +891,7 @@
             "Tecido dracon",
             "Tecido de linho",
             "Tecido de fibra de vidro",
-            "Tecido de algodão",
+            "Tecido de algodão"
          ],
          "number":80
       },
@@ -902,7 +902,7 @@
             "Tecido de fibra de vidro",
             "Tecido dracon",
             "Tecido de poliéster",
-            "Tecido de linho",
+            "Tecido de linho"
          ],
          "number":81
       },
@@ -913,7 +913,7 @@
             "Tecido de linho",
             "Tecido dracon",
             "Tecido de fibra de vidro",
-            "Tecido tipo cordel",
+            "Tecido tipo cordel"
          ],
          "number":82
       },
@@ -924,7 +924,7 @@
             "Algodão/linho",
             "Fibra de vidro",
             "Dracon",
-            "Poliéster",
+            "Poliéster"
          ],
          "number":83
       },
@@ -935,7 +935,7 @@
             "Cordéis de amarração",
             "Fita de costura",
             "Fita de reforço",
-            "Fita de superfície",
+            "Fita de superfície"
          ],
          "number":84
       },
@@ -946,7 +946,7 @@
             "Tamanho da superfície a ser entelada (não pode ser maior que o comprimento do tecido)",
             "Por ser mais dispendioso que as estruturas metálicas, o valor financeiro é limitante",
             "Não pode ser usado em superfícies móveis, somente em estruturas fixas",
-            "Velocidade da aeronave",
+            "Velocidade da aeronave"
          ],
          "number":85
       },
@@ -957,7 +957,7 @@
             "Fazer o acabamento com faixas, letras de identificação e outros detalhes",
             "Todas as alternativas acima estão corretas",
             "Para protegê-las da corrosão e da deterioração por agentes externos",
-            "Proporcionar uma aparência agradável na aeronave",
+            "Proporcionar uma aparência agradável na aeronave"
          ],
          "number":86
       },
@@ -968,7 +968,7 @@
             "Diluidores não são usados na pintura de aeronaves",
             "Remover a base de 'primer' da superfície das chapas",
             "Para diluir a tinta em busca de cores mais suaves",
-            "Ser adicionado à tinta, dope, verniz, etc., para facilitar a aplicação do produto com pistolas e pincéis",
+            "Ser adicionado à tinta, dope, verniz, etc., para facilitar a aplicação do produto com pistolas e pincéis"
          ],
          "number":87
       },
@@ -979,7 +979,7 @@
             "Base de cromato de zinco",
             "Base de cromato de alumínio",
             "Base de nitrato de chumbo",
-            "Base de cromato de potássio",
+            "Base de cromato de potássio"
          ],
          "number":88
       },
@@ -990,7 +990,7 @@
             "Por pulverização",
             "Por imersão",
             "Por pincelagem",
-            "Por todas as formas acima mencionadas",
+            "Por todas as formas acima mencionadas"
          ],
          "number":89
       },
@@ -1001,7 +1001,7 @@
             "Opaco e Vítreo",
             "Vítreo e transparente",
             "Opaco e Nevoa",
-            "Vítreo e liso",
+            "Vítreo e liso"
          ],
          "number":90
       },
@@ -1012,7 +1012,7 @@
             "B e c estão corretas",
             "Somente peso",
             "Perda de Sustentação",
-            "Aumento do arrasto",
+            "Aumento do arrasto"
          ],
          "number":91
       },
@@ -1023,7 +1023,7 @@
             "Temperaturas muito baixas",
             "Vibrações destrutivas",
             "Acumulo nos bordos",
-            "Eficácia",
+            "Eficácia"
          ],
          "number":92
       },
@@ -1034,7 +1034,7 @@
             "Acúmulo em fendas fixas e móveis das superfícies",
             "Acúmulo na superfície",
             "Acúmulo nas entradas de ar",
-            "Gelo muito denso",
+            "Gelo muito denso"
          ],
          "number":93
       },
@@ -1045,7 +1045,7 @@
             "Ar quente, elementos elétricos, Boots e álcool",
             "Elementos elétricos, Boots, água quente",
             "Alcool isopropilico, ar quente",
-            "Ar sangrado do motor, aquecimento por câmaras",
+            "Ar sangrado do motor, aquecimento por câmaras"
          ],
          "number":94
       },
@@ -1056,7 +1056,7 @@
             "Válvula unidirecional",
             "Válvula direcional",
             "Start pneumatic",
-            "Motor elétrico",
+            "Motor elétrico"
          ],
          "number":95
       },
@@ -1067,7 +1067,7 @@
             "Classe D",
             "Classe C",
             "Classe A",
-            "Classe B",
+            "Classe B"
          ],
          "number":96
       },
@@ -1078,7 +1078,7 @@
             "Zona de perigo",
             "Zona de elite",
             "Zona de fogo",
-            "Zona de alerta",
+            "Zona de alerta"
          ],
          "number":97
       },
@@ -1089,7 +1089,7 @@
             "Extinção e alerta",
             "Extinção e visual",
             "Detecção e extinção",
-            "Alerta e visual",
+            "Alerta e visual"
          ],
          "number":98
       },
@@ -1100,7 +1100,7 @@
             "Fumaça",
             "Calor",
             "Alerta",
-            "Fogo",
+            "Fogo"
          ],
          "number":99
       },
@@ -1111,7 +1111,7 @@
             "AFT air outlet",
             "Overhead supply ducts.",
             "Forward air outlet.",
-            "Control cabin distribution duct.",
+            "Control cabin distribution duct."
          ],
          "number":100
       },
@@ -1122,7 +1122,7 @@
             "Recipiente",
             "Contenção",
             "Container",
-            "Reservatório",
+            "Reservatório"
          ],
          "number":101
       },
@@ -1133,7 +1133,7 @@
             "O piloto só percebeu quando ele tentou fora fazer a rotação da pista e achou o nariz muito pesado.",
             "O piloto só percebeu quando ele tentou de fora da rotação da pista e achou o nariz muito pesado.",
             "O piloto só percebeu quando ele tentou para a rotação fora da pista e achou o nariz muito pesado.",
-            "O piloto só percebeu quando ele tentou girar pra fora da pista e achou o nariz muito pesado",
+            "O piloto só percebeu quando ele tentou girar pra fora da pista e achou o nariz muito pesado"
          ],
          "number":102
       },
@@ -1144,7 +1144,7 @@
             "Alguns fabricantes usam um sistema pneumático de motor de ligação, o YAK é um bom exemplo.",
             "Alguns fabricantes usam um sistema pneumático ao invés de ligar o motor, o YAK é um bom exemplo.",
             "Alguns fabricantes usam um sistema pneumático com ligação do motor, o YAK é um bom exemplo.",
-            "Alguns fabricantes usam um sistema pneumático para ligar o motor, o YAK é um bom exemplo.",
+            "Alguns fabricantes usam um sistema pneumático para ligar o motor, o YAK é um bom exemplo."
          ],
          "number":103
       },
@@ -1155,7 +1155,7 @@
             "Termômetros, regulador de temperatura, caixa de controle, aquecedor, agitador, banho líquido, testador de óleo.",
             "Termômetros, regulador de temperatura, caixa de controle, aquecedor, agitador, banho líquido, óleo sendo testado.",
             "Termômetros, regulador de temperatura, controle de caixa, aquecedor, agitador, banho líquido, óleo sendo testado.",
-            "Termômetros, temperatura reguladora, caixa de controle, aquecedor, agitador, banho líquido, óleo sendo testado.",
+            "Termômetros, temperatura reguladora, caixa de controle, aquecedor, agitador, banho líquido, óleo sendo testado."
          ],
          "number":104
       },
@@ -1166,7 +1166,7 @@
             "Uma descrição introdutória das estruturas de fuselagens monocoque e seminocoque.",
             "A força do revestimento para fuselagem tipo monocoques.",
             "Os principais problemas de estrutura de fuselagens monocoque e semimonocoque.",
-            "Uma descrição introdutória sobre a construção de fuselagens tipo monocoques.",
+            "Uma descrição introdutória sobre a construção de fuselagens tipo monocoques."
          ],
          "number":105
       },
@@ -1177,7 +1177,7 @@
             "The fuselage was set up lately, we did not have time to use it and ended up using the old one.",
             "The fuselage was set up late, we did not have time to use it and ended up using the old one.",
             "The fuselage was set up afternoonly, we did not have time to use it and ended up using the old one.",
-            "The fuselage was set up tardion, we did not have time to use it and ended up using the old one.",
+            "The fuselage was set up tardion, we did not have time to use it and ended up using the old one."
          ],
          "number":106
       },
@@ -1188,7 +1188,7 @@
             "Muitas aeronaves leves modernas são construídas usando materiais compostos (fibra de vidro). Este tipo de construção é efetivamente monocoque e é extremamente forte. A extra rigidalidade pode ser obtida usando a construção em sanduíche de espuma de vidro.",
             "Muitas aeronaves leves modernas são construídas usando materiais compostos (fibra de vidro). Este tipo de construção é um monocoque efetivo e é de extrema força. A rigidez extra pode ser obtida usando a construção em sanduíche de espuma de vidro.",
             "Muitas aeronaves leves modernas são construídas usando materiais compostos (fibra de vidro). Este tipo de construção é um monocoque efetivo e é de extrema força. A rigidalidade extra pode ser obtida usando a construção em sanduíche de espuma de vidro.",
-            "Muitas aeronaves leves modernas são construídas usando materiais compostos (fibra de vidro). Este tipo de construção é efetivamente monocoque e é extremamente forte. A rigidez extra pode ser obtida usando a construção em sanduíche de espuma de vidro.",
+            "Muitas aeronaves leves modernas são construídas usando materiais compostos (fibra de vidro). Este tipo de construção é efetivamente monocoque e é extremamente forte. A rigidez extra pode ser obtida usando a construção em sanduíche de espuma de vidro."
          ],
          "number":107
       },
@@ -1199,7 +1199,7 @@
             "Fios e cabos, por exemplo, naturalmente carregam apenas tensão.",
             "Fios e cabos, por exemplo, carregam apenas tensão normal.",
             "Fios e cabos, por exemplo, normalmente carregam apenas tensão.",
-            "Fios e cabos, por exemplo, normativamente carregam apenas tensão.",
+            "Fios e cabos, por exemplo, normativamente carregam apenas tensão."
          ],
          "number":108
       },
@@ -1210,7 +1210,7 @@
             "A monocoque type fuselage.",
             "A trellis-type fuselage.",
             "A truss-type fuselage.",
-            "A seminonocoque type fuselage.",
+            "A seminonocoque type fuselage."
          ],
          "number":109
       },
@@ -1221,7 +1221,7 @@
             "Tempo de armazenamento.",
             "Tempo de cura.",
             "Tempo de restinga.",
-            "Tempo derivado.",
+            "Tempo derivado."
          ],
          "number":110
       },
@@ -1232,7 +1232,7 @@
             "Alumínio",
             "Termoendurecível",
             "Resina",
-            "Termoplástico",
+            "Termoplástico"
          ],
          "number":111
       },
@@ -1243,7 +1243,7 @@
             "Termoendurecível e acrílico.",
             "Termoplásticos e Termoendurecível.",
             "Plásticos e acrílicos.",
-            "Termoplásticos e Acríclicos.",
+            "Termoplásticos e Acríclicos."
          ],
          "number":112
       },
@@ -1254,7 +1254,7 @@
             "Substituído",
             "Tratado",
             "Polido",
-            "Reparado",
+            "Reparado"
          ],
          "number":113
       },
@@ -1265,7 +1265,7 @@
             "Tap choque.",
             "Tap test.",
             "Raio X.",
-            "Termografia.",
+            "Termografia."
          ],
          "number":114
       },
@@ -1276,7 +1276,7 @@
             "Evitar riscos.",
             "Evitar reflexo.",
             "Evitar corrosão.",
-            "Evitar espelhamento.",
+            "Evitar espelhamento."
          ],
          "number":115
       },
@@ -1287,7 +1287,7 @@
             "Fibra de vidro, Kevlar e Fibra de Nylon.",
             "Fibra de Carbono, Fibra de Nylon e Kevlar.",
             "Fibra de Vidro, Fibra de vidro e Fibra resinada.",
-            "Fibra de Carbono, Fibra de Vidro e Kevlar.",
+            "Fibra de Carbono, Fibra de Vidro e Kevlar."
          ],
          "number":116
       },
@@ -1298,7 +1298,7 @@
             "Pano de algodão limpo e macio.",
             "Pano de tecido sintético.",
             "Pano de fibra.",
-            "Pano de linho limpo.",
+            "Pano de linho limpo."
          ],
          "number":117
       },
@@ -1309,7 +1309,7 @@
             "Ensaio de compressão.",
             "Ensaio de tração.",
             "Ensaio de cisalhamento.",
-            "Raio X.",
+            "Raio X."
          ],
          "number":118
       },
@@ -1320,7 +1320,7 @@
             "Usar um método sugerido pela empresa.",
             "Usar o método próprio.",
             "Usar o método aplicado por qualquer fabricante.",
-            "Usar o mesmo método de montagem empregado pelo fabricante.",
+            "Usar o mesmo método de montagem empregado pelo fabricante."
          ],
          "number":119
       }
