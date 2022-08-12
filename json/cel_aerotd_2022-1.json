@@ -1,18 +1,1328 @@
 {
    "contentType":"Cel",
-   "contentIndex":14,
+   "contentIndex":15,
    "courseunit":"Mock exam :: Aerotd 2022-1",
    "questions":[
       {
-         "title":"ttt",
-         "result":0,
+         "title":"A chapa de um reparo deve ter a seção transversal:",
+         "result":3,
          "options":[
-            "opt1",
-            "opt2",
-            "opt3",
-            "opt4"
+            "Maior que a seção original",
+            "Igual ou maior à seção original",
+            "Menor que a seção original",
+            "Igual à seção original"
          ],
          "number":0
+      },
+      {
+         "title":"ara reduzir a possibilidade de rachaduras que se iniciam nas arestas dos cortes, tentamos fazer cortes:",
+         "result":2,
+         "options":[
+            "Em ângulos agudos",
+            "Em ângulos retos",
+            "Circulares ou ovais",
+            "Todas acima"
+         ],
+         "number":1
+      },
+      {
+         "title":"Se for necessário substituir um material por uma liga mais fraca que a original, utilizamos um material:",
+         "result":1,
+         "options":[
+            "De menor espessura",
+            "De maior espessura",
+            "Mais duro",
+            "Mais macio"
+         ],
+         "number":2
+      },
+      {
+         "title":"Após aquecer o metal, sua modelagem deve estar completa dentro de no máximo:",
+         "result":1,
+         "options":[
+            "Quarenta minutos, após o resfriamento rápido",
+            "Meia hora, após o resfriamento rápido",
+            "Uma hora e meia, após o resfriamento rápido",
+            "Uma hora, após o resfriamento rápido"
+         ],
+         "number":3
+      },
+      {
+         "title":"Se a espessura do revestimento for de 0,40”, usaremos um rebite de:",
+         "result":3,
+         "options":[
+            "3/32”",
+            "5/32”",
+            "0,120”",
+            "1/8”"
+         ],
+         "number":4
+      },
+      {
+         "title":"Para determinar a resistência de um rebite, deve-se conhecer:",
+         "result":1,
+         "options":[
+            "O comprimento do rebite",
+            "O diâmetro do rebite",
+            "A espessura da chapa",
+            "Uma tabela do fabricante"
+         ],
+         "number":5
+      },
+      {
+         "title":"Se o rebite estiver segurando três chapas ou partes, ele estará sob:",
+         "result":0,
+         "options":[
+            "Cisalhamento duplo",
+            "Cisalhamento simples",
+            "N.D.A.",
+            "Cisalhamento triplo"
+         ],
+         "number":6
+      },
+      {
+         "title":"Representa a quantidade de tensão requerida para puxar um rebite através da borda de duas chapas rebitadas juntas, ou para alongar o furo:",
+         "result":1,
+         "options":[
+            "Potência cisalhante",
+            "Resistência ao apoio",
+            "Resistência à tensão",
+            "Potência de tensão"
+         ],
+         "number":7
+      },
+      {
+         "title":"Um pouso duro pode sobrecarregar o trem de pouso, empenando-o. Isto seria classificado como dano:",
+         "result":0,
+         "options":[
+            "Por carga",
+            "Por fricção",
+            "Por fadiga",
+            "Por choque"
+         ],
+         "number":8
+      },
+      {
+         "title":"É o polimento de uma superfície através do atrito com outra, lisa e mais dura. Geralmente não há deslocamento ou remoção de material:",
+         "result":3,
+         "options":[
+            "Roçamento",
+            "Rebarba",
+            "Brinelamento",
+            "Brunidura"
+         ],
+         "number":9
+      },
+      {
+         "title":"Quais são os principais componentes de um sistema diretor de voo?",
+         "result":1,
+         "options":[
+            "Computador, painel de controle do piloto automático, painel de controle de voo, painel anunciador de modos, sensor de dados do ar",
+            "O giroscópio, o computador e o instrumento de apresentação na cabine",
+            "O piloto automático, o giro direcional e o indicador de atitude",
+            "O giro direcional, o indicador de atitude e o coordenador de curva"
+         ],
+         "number":10
+      },
+      {
+         "title":"Em um sistema anunciador, o que representa a indicação de uma lâmpada amarela?",
+         "result":0,
+         "options":[
+            "Condições de alerta ou condições limites de operação",
+            "Condições insatisfatórias",
+            "Operação insegura",
+            "Condições satisfatórias"
+         ],
+         "number":11
+      },
+      {
+         "title":"O que acontece com a luz indicadora de falha acesa, após pressionarmos o botão MASTER CAUTION para cancelamento do alarme?",
+         "result":3,
+         "options":[
+            "Ela apaga",
+            "Ela é resetada para fornecer indicação de mais problemas",
+            "Ela somente apagará após a execução da manutenção na oficina",
+            "Ela permanecerá acesa até que a falha seja corrigida, ou o equipamento em pane seja desligado"
+         ],
+         "number":12
+      },
+      {
+         "title":"Quais os métodos de operação utilizados por dispositivos sensíveis do sistema de alerta de modelos de jatos executivos modernos?",
+         "result":1,
+         "options":[
+            "Sensores de contato, elétricos e transdutores",
+            "Temperatura, mudanças de pressão e chaves mecanicamente operadas e/ou relés",
+            "Transdutores, pneumáticos e eletro-hidráulicos",
+            "Pneumático, anemométrico e giroscópico"
+         ],
+         "number":13
+      },
+      {
+         "title":"Como é apresentada a pressão em sistemas hidráulicos que não possuem acumuladores de pressão?",
+         "result":0,
+         "options":[
+            "O registro de pressão no instrumento só aparecerá durante a operação do sistema",
+            "Não há pressão apresentada, somente se o sistema possuir acumulador de pressão",
+            "A informação é convertida em sinal elétrico do acumulador",
+            "Apresenta a pressão presente na linha hidráulica, conforme acionado ou desligado"
+         ],
+         "number":14
+      },
+      {
+         "title":"Qual a utilidade dos indicadores de sucção?",
+         "result":2,
+         "options":[
+            "Fornecem informações quanto ao estado de funcionamento do sistema anemométrico",
+            "Apresentam a quantidade de pressão gerada para sistemas de alto desempenho",
+            "Indicam a quantidade de sucção que aciona os instrumentos giroscópicos movidos por ar",
+            "Monitoram a quantidade de pressão fornecida aos sistemas pneumáticos da aeronave"
+         ],
+         "number":15
+      },
+
+      {
+         "title":"Qual a pressão apresentada pelo indicador de pressão de admissão quando o motor não está funcionando?",
+         "result":2,
+         "options":[
+            "Zero",
+            "A pressão remanescente na linha",
+            "A pressão atmosférica estática",
+            "O ponteiro permanece na última indicação apresentada"
+         ],
+         "number":16
+      },
+      {
+         "title":"Com o motor funcionando, do que depende a leitura obtida no indicador de pressão de admissão do motor?",
+         "result":3,
+         "options":[
+            "Da condição atmosférica vigente",
+            "Da umidade relativa do ar presente",
+            "Da pressão atmosférica",
+            "Da rotação do motor"
+         ],
+         "number":17
+      },
+      {
+         "title":"Em um sistema de quantidade de combustível tipo capacitor, o que acontece com a capacitância do sensor à medida que a quantidade de combustível diminui?",
+         "result":0,
+         "options":[
+            "A capacitância diminui",
+            "A capacitância aumenta",
+            "A capacitância permanece a mesma",
+            "A capacitância independe do combustível no tanque"
+         ],
+         "number":18
+      },
+      {
+         "title":"O que controla a direção na qual o motor do sincroscópio gira, para apresentar a falta de sincronismo entre os motores?",
+         "result":0,
+         "options":[
+            "A corrente do motor que gira mais depressa",
+            "Um motor síncrono",
+            "A diferença de pressão dos indicadores de pressão de admissão",
+            "Nenhuma das anteriores"
+         ],
+         "number":19
+      },
+      {
+         "title":"A fonia (áudio) é adicionada ao sinal de RF por um circuito especial chamado modulador. O modulador utiliza o sinal de áudio para variar a:",
+         "result":3,
+         "options":[
+            "O sinal modulante",
+            "A amplitude do sinal de RF",
+            "A potência do sinal de RF",
+            "A frequência ou amplitude do sinal de RF"
+         ],
+         "number":20
+      },
+      {
+         "title":"Muitos sistemas de comunicações VHF e HF das aeronaves utilizam transceptores. Um transceptor comporta simultaneamente o transmissor e o receptor, e apresenta circuitos comuns tais como:",
+         "result":1,
+         "options":[
+            "Sistema de sintonia, fonte de alimentação e transdutor",
+            "Antena, sistema de sintonia e fonte de alimentação",
+            "Fonte de alimentação e antena",
+            "Transdutor, antena e fonte de alimentação"
+         ],
+         "number":21
+      },
+      {
+         "title":"A estação de VOR coloca à disposição do piloto .... radiais ou rumos, correspondendo a feixes de rádio emitidos pela estação. As radiais podem ser consideradas linhas que se irradiam da antena transmissora como os raios de uma roda:",
+         "result":1,
+         "options":[
+            "240",
+            "360",
+            "180",
+            "275"
+         ],
+         "number":22
+      },
+      {
+         "title":"O .... é um instrumento que desempenha diversas funções. Durante a operação VOR, o ponteiro vertical é utilizado como indicador do rumo, e indica quando a aeronave desvia do rumo, bem como a direção que a aeronave deve tomar para atingir o rumo desejado:",
+         "result":3,
+         "options":[
+            "GPS",
+            "Climb",
+            "ADI",
+            "CDI"
+         ],
+         "number":23
+      },
+      {
+         "title":"A antena para VOR/LOC acha-se normalmente instalada na parte superior da fuselagem ou:",
+         "result":0,
+         "options":[
+            "Embutida na chapa do estabilizador vertical",
+            "No nariz da aeronave",
+            "Embutida na chapa do estabilizador horizontal",
+            "Embutida na parte inferior da aeronave"
+         ],
+         "number":24
+      },
+      {
+         "title":"Os 'MARKER BEACONS' são utilizados conjuntamente com o sistema de pouso por instrumentos. Os 'MARKERS' são sinais de rádio que indicam a posição da aeronave:",
+         "result":3,
+         "options":[
+            "Em relação às radiais",
+            "N.D.A.",
+            "Em relação ao NDB",
+            "Em direção à pista"
+         ],
+         "number":25
+      },
+      {
+         "title":"Os transmissores dos 'MARKER BEACONS' operam na frequência fixa de:",
+         "result":1,
+         "options":[
+            "85 MHz",
+            "75 Mhz",
+            "25 Mhz",
+            "65 Mhz"
+         ],
+         "number":26
+      },
+      {
+         "title":"O sistema de ILS não pode ser completamente testado no solo sem o equipamento de teste para simular os sinais de .... e .... :",
+         "result":0,
+         "options":[
+            "Glide Slope e Localizer",
+            "VHF e Glide Slope",
+            "ADF e Localizer",
+            "ADF e Marker Beacon"
+         ],
+         "number":27
+      },
+      {
+         "title":"O DME opera na gama de frequência .... do espectro de rádio. As frequências de transmissão compreendem dois grupos: de 962 MHz a 1.024 MHz e de 1.151 MHz a 1.212 MHz; as frequências de recepção estão entre 1.025 MHz e 1.149 MHz:",
+         "result":1,
+         "options":[
+            "VHF (VERY HIGH FREQUENCY)",
+            "UHF (ULTRA HIGH FREQUENCY)",
+            "MICROONDAS",
+            "HF (HIGH FREQUENCY)"
+         ],
+         "number":28
+      },
+      {
+         "title":"A aeronave acha-se equipada com um transceptor DME, que é sintonizado para a estação de terra DME correspondente, comumente localizada junto a uma estação VOR. Este conjunto é denominado:",
+         "result":3,
+         "options":[
+            "CONTAC",
+            "DMETAC",
+            "DISTAC",
+            "VORTAC"
+         ],
+         "number":29
+      },
+      {
+         "title":"Qual dos fios abaixo possui a menor bitola de acordo com a “American Wire Gage Standard”?",
+         "result":3,
+         "options":[
+            "00",
+            "10",
+            "0",
+            "30",
+         ],
+         "number":30
+      },
+      {
+         "title":"A classe de conectores onde o invólucro traseiro do conector separa-se em duas partes longitudinalmente:",
+         "result":2,
+         "options":[
+            "Classe A",
+            "Classe C",
+            "Classe B",
+            "Classe D",
+         ],
+         "number":31
+      },
+      {
+         "title":"Complete e assinale a alternativa que apresenta a sequência correta: O .... é o dispositivo elétrico que deve ser substituído após ser queimado e é sempre ligado EM .... com o equipamento.",
+         "result":1,
+         "options":[
+            "Circuit breaker – paralelo",
+            "Fusível – série",
+            "circuit breaker – série",
+            "Fusível – paralelo",
+         ],
+         "number":32
+      },
+      {
+         "title":"O tipo de conector resistente à vibração e à umidade, que possui um ilhós selante de borracha no invólucro traseiro:",
+         "result":0,
+         "options":[
+            "Classe D",
+            "Classe A",
+            "Classe B",
+            "Classe C",
+         ],
+         "number":33
+      },
+      {
+         "title":"Complete a frase: O fio .... deve passar por baixo da bateria do avião. Todos os fios nas proximidades da bateria devem ser inspecionados frequentemente, e os fios descoloridos pelos gases prejudiciais da bateria devem ser substituídos:",
+         "result":2,
+         "options":[
+            "Às vezes",
+            "Quando possível",
+            "Nunca",
+            "Sempre",
+         ],
+         "number":34
+      },
+      {
+         "title":"Complete a frase: A fiação deve ser instalada para manter uma folga mínima de pelo menos .... polegadas dos cabos de controle:",
+         "result":3,
+         "options":[
+            "2",
+            "4",
+            "5",
+            "3",
+         ],
+         "number":35
+      },
+      {
+         "title":"Alguns fatores primários que devemos observar quando selecionamos a bitola do fio são:",
+         "result":0,
+         "options":[
+            "A perda de energia permitida e a queda de tensão permitida",
+            "A tensão do sistema e o comprimento do fio",
+            "O material de que é feito o condutor e sua resistência",
+            "Perda da energia permitida e a tensão que deve conduzir",
+         ],
+         "number":36
+      },
+      {
+         "title":"O tipo de conector, usado nas anteparas de um equipamento pressurizado, pertence a classe:",
+         "result":3,
+         "options":[
+            "D",
+            "B",
+            "K",
+            "C",
+         ],
+         "number":37
+      },
+      {
+         "title":"No diagrama elétrico a linha vertical mais curta da bateria é:",
+         "result":1,
+         "options":[
+            "O terminal positivo",
+            "O terminal negativo",
+            "O condutor",
+            "A resistência",
+         ],
+         "number":38
+      },
+      {
+         "title":"Complete a frase: Nenhum fio pode ser direcionado de modo que fique localizado mais próximo do que .... polegada de uma tubulação:",
+         "result":3,
+         "options":[
+            "0,25",
+            "0,75",
+            "1",
+            "0,5",
+         ],
+         "number":39
+      },
+      {
+         "title":"A finalidade dos acumuladores é de:",
+         "result":3,
+         "options":[
+            "Suprir a pressão do sistema de freio",
+            "Amortecer as pulsações das unidades de superfície",
+            "Armazenar o fluido sob pressão para as bombas",
+            "Armazenar a pressão, amortecer as pulsações do sistema e suprir o débito das bombas",
+         ],
+         "number":40
+      },
+      {
+         "title":"Para controlar o sentido de operação de um mecanismo operado hidraulicamente usa-se:",
+         "result":0,
+         "options":[
+            "Válvula seletora",
+            "Válvula de sequência",
+            "Válvula de contorno",
+            "Válvula de segurança",
+         ],
+         "number":41
+      },
+      {
+         "title":"Cilindro atuador de ação única utiliza normalmente que tipo de válvula para controlar o seu sentido:",
+         "result":1,
+         "options":[
+            "Contorno",
+            "Seletora de 3 posições",
+            "Seletora",
+            "Segurança",
+         ],
+         "number":42
+      },
+      {
+         "title":"A válvula seletora de quatro posições controla qual unidade:",
+         "result":0,
+         "options":[
+            "Cilindro atuador de dupla ação",
+            "Cilindro atuador de 1 porte",
+            "Cilindro atuador de 3 posições",
+            "Cilindro atuador de 4 posições",
+         ],
+         "number":43
+      },
+      {
+         "title":"Se ao afrouxar a válvula de ar de um acumulador do tipo diafragma e desse sair óleo, isso indica que:",
+         "result":1,
+         "options":[
+            "A válvula de ar apresenta vazamento",
+            "O diafragma está rompido",
+            "A ligação do acumulador ao sistema está invertida",
+            "O acumulador está funcionando perfeitamente",
+         ],
+         "number":44
+      },
+      {
+         "title":"Os conjuntos de freios normalmente usados em aeronaves são:",
+         "result":2,
+         "options":[
+            "Motor segmentado, monodisco, múltiplo disco, ou do tipo de expansão",
+            "Monodisco, triplo disco, rotor segmentado, ou do tipo de expansão",
+            "Duplo disco, monodisco, múltiplo disco, rotor segmentado, ou do tipo tubo de expansão",
+            "Triplo disco, rotor segmentado e monodisco",
+         ],
+         "number":45
+      },
+      {
+         "title":"Quais são os métodos de sangria dos freios?",
+         "result":2,
+         "options":[
+            "Sangrando de cima para baixo e por gravidade",
+            "Somente por pressão",
+            "Sangrando de baixo para cima e por gravidade",
+            "Por pressão e sangrando de baixo para cima",
+         ],
+         "number":46
+      },
+      {
+         "title":"As rodas são normalmente feitas de:",
+         "result":1,
+         "options":[
+            "Magnésio ou aço",
+            "Alumínio ou magnésio",
+            "Ferro ou aço carbono de liga leve",
+            "Aço ou ferro",
+         ],
+         "number":47
+      },
+      {
+         "title":"Qual é a parte do pneu que se ajusta ao flange da roda?",
+         "result":0,
+         "options":[
+            "Calcanhar do talão",
+            "Costado",
+            "Banda de rodagem",
+            "Reforço da banda de rodagem",
+         ],
+         "number":48
+      },
+      {
+         "title":"A pressão de ar dos pneus deve ser inspecionada quando:",
+         "result":0,
+         "options":[
+            "Quando os pneus estão frescos, é aguardado pelo menos duas horas após o voo antes de inspecionar as pressões (três horas em tempo quente)",
+            "Pneus frios ou quentes cinco horas",
+            "Pneus quentes cinco horas e pneus freios, duas horas",
+            "Pneus frios três horas e quando quentes, quatro horas",
+         ],
+         "number":49
+      },
+      {
+         "title":"São três os tipos de soldagem utilizados em aviação, a saber:",
+         "result":3,
+         "options":[
+            "Argônio, Acetileno e MIG",
+            "Gás, de ponto e MIG",
+            "Laser, TIG e MIG",
+            "Gás, Arco voltaico, e Resistência elétrica",
+         ],
+         "number":50
+      },
+      {
+         "title":"São três os tipos de soldagem de resistência elétrica, a saber:",
+         "result":3,
+         "options":[
+            "Gás , MiG e TIG",
+            "Argônio, TIG e em fenda",
+            "De rolo, de extremidade e de ponto",
+            "De extremidade, em ponto e em fenda",
+         ],
+         "number":51
+      },
+      {
+         "title":"As roscas utilizadas no regulador de Acetileno e Oxigênio são respectivamente:",
+         "result":3,
+         "options":[
+            "Esquerda e Esquerda",
+            "Direita e Direita",
+            "Direita e Esquerda",
+            "Esquerda e Direita",
+         ],
+         "number":52
+      },
+      {
+         "title":"O equipamento utilizado para misturar oxigênio e acetileno é o:",
+         "result":2,
+         "options":[
+            "Manômetro",
+            "Regulador",
+            "Maçarico",
+            "Bicos",
+         ],
+         "number":53
+      },
+      {
+         "title":"Quais os três tipos de chamas utilizados na soldagem a gás?",
+         "result":1,
+         "options":[
+            "Oxidante, redutora e carburante",
+            "Redutora, oxidante e neutra",
+            "Carburante, oxidante e redutora",
+            "Neutra, carburante e redutora",
+         ],
+         "number":54
+      },
+      {
+         "title":"Existem quatro posições na qual a soldagem é efetuada. Elas são denominadas:",
+         "result":1,
+         "options":[
+            "Chata, horizontal, vertical e quina",
+            "Plana, horizontal, vertical e sobre-cabeça",
+            "Plana, Horizontal, vertical e topo",
+            "Topo, horizontal, vertical e sobre-cabeça",
+         ],
+         "number":55
+      },
+      {
+         "title":"São tipos de juntas soldadas:",
+         "result":3,
+         "options":[
+            "Chanfro, plano e Topo",
+            "Em T, sobreposta e vertical",
+            "Em V, sobreposta e topo",
+            "Topo, sobreposta e quina",
+         ],
+         "number":56
+      },
+      {
+         "title":"A soldagem do titânio deverá ser realizada por:",
+         "result":2,
+         "options":[
+            "Brasagem",
+            "Elétrica",
+            "Arco voltaico",
+            "Gás",
+         ],
+         "number":57
+      },
+      {
+         "title":"Um mecânico de aeronave precisa realizar um reparo em uma linha de alta pressão de oxigênio com urgência. Qual o melhor método a ser aplicado?",
+         "result":0,
+         "options":[
+            "Solda prata",
+            "Solda amarela",
+            "Solda estanho",
+            "Solda cobre",
+         ],
+         "number":58
+      },
+      {
+         "title":"Numa oficina de revisão, o soldador precisa realizar um reparo no motor do learjet 55, que apresenta uma rachadura no escapamento. Sabendo-se que o material do escapamento é de aço inox, qual o tipo de solda ele deverá aplicar?",
+         "result":2,
+         "options":[
+            "Plasma",
+            "Elétrica",
+            "TIG",
+            "Ponto",
+         ],
+         "number":59
+      },
+      {
+         "title":"Como podemos obter ar pressurizado para ser utilizado no sistema de pressurização?",
+         "result":0,
+         "options":[
+            "Através dos supercarregadores ou sangria de ar de um estágio de turbina",
+            "Através do ar de impacto com a aeronave",
+            "Através de um dispositivo de coleta de ar no escapamento do motor",
+            "Através do trabalho da válvula de sangria de ar",
+         ],
+         "number":60
+      },
+      {
+         "title":"Se é necessário ar pressurizado em uma aeronave e ele é suprido adequadamente , como acontece para que ele saia da mesma?",
+         "result":0,
+         "options":[
+            "Através de um sistema automático de válvulas",
+            "Através de um sistema manual de válvulas",
+            "O ar não sai, fica circulando dentro da aeronave",
+            "O ar sai através de dutos e é aproveitado em outros sistemas",
+         ],
+         "number":61
+      },
+      {
+         "title":"Como chamamos a válvula que permite que o ar pressurizado saia?",
+         "result":3,
+         "options":[
+            "Válvula borboleta",
+            "Válvula bleed-air",
+            "Válvula shut-off",
+            "Válvula de sangria de ar",
+         ],
+         "number":62
+      },
+      {
+         "title":"Onde a válvula que permite que o ar pressurizado saia costuma ser colocada na aeronave?",
+         "result":2,
+         "options":[
+            "Próximo ao trem de pouso",
+            "Próximo ao motor",
+            "Próximo à cauda da aeronave",
+            "Próximo ao nariz da aeronave",
+         ],
+         "number":63
+      },
+      {
+         "title":"Como deve estar a válvula de sangria de ar em voo e em solo, respectivamente?",
+         "result":3,
+         "options":[
+            "Fechada e fechada",
+            "Aberta e ciclando",
+            "Ciclando e fechada",
+            "Ciclando e aberta",
+         ],
+         "number":64
+      },
+      {
+         "title":"Com relação ao sistema de ar condicionado podemos afirmar que:",
+         "result":1,
+         "options":[
+            "Podemos somente esquentar o ar que vai para a cabine",
+            "Podemos resfriar ou esquentar o ar que vai para a cabine",
+            "Podemos somente direcionar o ar, visto que ele é de impacto e já vem com a temperatura pré-determinada",
+            "Podemos somente resfriar o ar que vai para a cabine",
+         ],
+         "number":65
+      },
+      {
+         "title":"Para que serve os trocadores de calor?",
+         "result":2,
+         "options":[
+            "Misturar o ar pressurizado  com o ar de impacto",
+            "Auxiliar a aumentar a temperatura do ar que vai para a cabine",
+            "Auxiliar a baixar a temperatura do ar que vai para a cabine",
+            "Misturar o ar que vai para a cabine com o ar de impacto",
+         ],
+         "number":66
+      },
+      {
+         "title":"De que necessita o trocador de calor para funcionar?",
+         "result":2,
+         "options":[
+            "Somente ar entre seus dutos internos",
+            "Somente da ventoinha posterior funcionando",
+            "Somente ar de impacto e ar entre seus dutos internos",
+            "Somente ar de impacto",
+         ],
+         "number":67
+      },
+      {
+         "title":"Os sistemas pneumáticos são protegidos contra sujeira por meio de:",
+         "result":0,
+         "options":[
+            "filtro",
+            "Peneira",
+            "acm",
+            "Saco separador",
+         ],
+         "number":68
+      },
+      {
+         "title":"A válvula de alívio abre e fecha quando a pressão do sistema alcança um valor, quais valores:",
+         "result":1,
+         "options":[
+            "1.000 e 2.000",
+            "3.750 e 3.250",
+            "4.000 e 4.500",
+            "3.000 e 4.000",
+         ],
+         "number":69
+      },
+      {
+         "title":"Normalmente, ajustes e alinhamentos não podem ser realizados em local aberto. Se isto não puder ser evitado, a aeronave deverá ser posicionada:",
+         "result":1,
+         "options":[
+            "A e B estão corretas",
+            "Com o nariz contra o vento",
+            "De lado para o vento",
+            "Com o nariz a favor do vento",
+         ],
+         "number":70
+      },
+      {
+         "title":"Condição na rotação de um corpo, no qual todas as forças de rotação estão balanceadas dentro do mesmo, de modo que nenhuma vibração é produzida enquanto o corpo estiver em movimento:",
+         "result":1,
+         "options":[
+            "Equilíbrio",
+            "Balanceamento dinâmico",
+            "Balanceamento estático",
+            "Controle",
+         ],
+         "number":71
+      },
+      {
+         "title":"Dispositivos muitas vezes usados para simplificar o conjunto de roldanas, hastes etc., nas suas posições neutras:",
+         "result":1,
+         "options":[
+            "Prendedores",
+            "Pinos de ajustes",
+            "Gabaritos",
+            "Réguas",
+         ],
+         "number":72
+      },
+      {
+         "title":"A fuselagem de uma aeronave de asa fixa é geralmente dividida em 5 partes principais:",
+         "result":3,
+         "options":[
+            "Fuselagem, asas, leme de direção, superfícies de controle e trem de pouso ",
+            "Fuselagem, asas, estabilizadores, superfícies de controle e motor",
+            "Fuselagem, asas, estabilizadores, ailerons, profundores e trem de pouso",
+            "Fuselagem, asas, estabilizadores, superfícies de controle e trem de pouso",
+         ],
+         "number":73
+      },
+      {
+         "title":"A fuselagem de helicóptero consiste de:",
+         "result":0,
+         "options":[
+            "Célula, rotor principal e caixa de engrenagens de redução (gearbox), rotor de cauda e trem de pouso",
+            "Célula, rotor principal e caixa de engrenagens de redução (gearbox), rotor de vertical e trem de pouso",
+            "Célula, rotor principal, e asa rotativa (pá), rotor de cauda e trem de pouso",
+            "Célula, rotor principal e caixa de acessórios, rotor de cauda e trem de pouso",
+         ],
+         "number":74
+      },
+      {
+         "title":"Todas as partes da aeronave devem ser planejadas para suportar as cargas que lhes serão impostas. A determinação dessas cargas é chamada de:",
+         "result":3,
+         "options":[
+            "Força G",
+            "Peso",
+            "Balanceamento",
+            "Análise de estresse",
+         ],
+         "number":75
+      },
+      {
+         "title":"O motor puxa a aeronave para frente, porém, a resistência do ar tenta trazê-la de volta. Este é um exemplo de estresse do tipo:",
+         "result":0,
+         "options":[
+            "Tensão",
+            "Compressão",
+            "Cizalhamento",
+            "Flexão",
+         ],
+         "number":76
+      },
+      {
+         "title":"O esforço de tensão de um material é medido em:",
+         "result":0,
+         "options":[
+            "psi (libras por polegada quadrada)",
+            "Libras",
+            "Kgf",
+            "Libras e Kgf",
+         ],
+         "number":77
+      },
+      {
+         "title":"A força que tende a encurtar ou espremer as partes da aeronave é:",
+         "result":3,
+         "options":[
+            "Torção",
+            "Tensão",
+            "Flexão",
+            "Compressão",
+         ],
+         "number":78
+      },
+      {
+         "title":"São usados para limitar o percurso ou curso de movimento dos ailerons, profundor e leme:",
+         "result":3,
+         "options":[
+            "Frenos",
+            "Travas",
+            "Batentes",
+            "Espaçadores",
+         ],
+         "number":79
+      },
+      {
+         "title":"Tipo 'A' mercerizado, feito de alta qualidade é característica de que tipo de tecido?",
+         "result":3,
+         "options":[
+            "Tecido dracon",
+            "Tecido de linho",
+            "Tecido de fibra de vidro",
+            "Tecido de algodão",
+         ],
+         "number":80
+      },
+      {
+         "title":"Qual o tecido quase idêntico ao algodão muito usado na Inglaterra?",
+         "result":3,
+         "options":[
+            "Tecido de fibra de vidro",
+            "Tecido dracon",
+            "Tecido de poliéster",
+            "Tecido de linho",
+         ],
+         "number":81
+      },
+      {
+         "title":"Qual é o nome do tecido que possui resistência a tensão de aproximadamente 148 lbs/pol e pode ser usado como substituto de algodão tipo 'A'?",
+         "result":1,
+         "options":[
+            "Tecido de linho",
+            "Tecido dracon",
+            "Tecido de fibra de vidro",
+            "Tecido tipo cordel",
+         ],
+         "number":82
+      },
+      {
+         "title":"Resistência ao fogo, umidade, mofo e químicas são características do tecido?",
+         "result":1,
+         "options":[
+            "Algodão/linho",
+            "Fibra de vidro",
+            "Dracon",
+            "Poliéster",
+         ],
+         "number":83
+      },
+      {
+         "title":"Qual a denominação da fita de acabamento, colada com dope sobre cada nervura ou junção ponteada para prover fino acabamento, alinhamento e boa aparência:",
+         "result":3,
+         "options":[
+            "Cordéis de amarração",
+            "Fita de costura",
+            "Fita de reforço",
+            "Fita de superfície",
+         ],
+         "number":84
+      },
+      {
+         "title":"É um fator limitante no uso da entelagem em aeronaves:",
+         "result":3,
+         "options":[
+            "Tamanho da superfície a ser entelada (não pode ser maior que o comprimento do tecido)",
+            "Por ser mais dispendioso que as estruturas metálicas, o valor financeiro é limitante",
+            "Não pode ser usado em superfícies móveis, somente em estruturas fixas",
+            "Velocidade da aeronave",
+         ],
+         "number":85
+      },
+      {
+         "title":"Qual a razão de aeronaves terem suas superfícies e partes internas pintadas?",
+         "result":1,
+         "options":[
+            "Fazer o acabamento com faixas, letras de identificação e outros detalhes",
+            "Todas as alternativas acima estão corretas",
+            "Para protegê-las da corrosão e da deterioração por agentes externos",
+            "Proporcionar uma aparência agradável na aeronave",
+         ],
+         "number":86
+      },
+      {
+         "title":"Qual é a função dos diluidores na pintura?",
+         "result":3,
+         "options":[
+            "Diluidores não são usados na pintura de aeronaves",
+            "Remover a base de 'primer' da superfície das chapas",
+            "Para diluir a tinta em busca de cores mais suaves",
+            "Ser adicionado à tinta, dope, verniz, etc., para facilitar a aplicação do produto com pistolas e pincéis",
+         ],
+         "number":87
+      },
+      {
+         "title":"A laca de nitrocelulose acrílica não deve ser aplicada diretamente sobre a superfície do metal. Deve-se usar uma base de aderente e protetora. Indique abaixo qual é a base de uso comum na pintura de aeronaves:",
+         "result":0,
+         "options":[
+            "Base de cromato de zinco",
+            "Base de cromato de alumínio",
+            "Base de nitrato de chumbo",
+            "Base de cromato de potássio",
+         ],
+         "number":88
+      },
+      {
+         "title":"A aplicação do acabamento (tinta) em aeronaves deve ser feita de que forma?",
+         "result":3,
+         "options":[
+            "Por pulverização",
+            "Por imersão",
+            "Por pincelagem",
+            "Por todas as formas acima mencionadas",
+         ],
+         "number":89
+      },
+      {
+         "title":"Os tipos de gelo encontrados durante o voo:",
+         "result":0,
+         "options":[
+            "Opaco e Vítreo",
+            "Vítreo e transparente",
+            "Opaco e Nevoa",
+            "Vítreo e liso",
+         ],
+         "number":90
+      },
+      {
+         "title":"A formação de gelo na asa do avião poderá causar:",
+         "result":0,
+         "options":[
+            "B e c estão corretas",
+            "Somente peso",
+            "Perda de Sustentação",
+            "Aumento do arrasto",
+         ],
+         "number":91
+      },
+      {
+         "title":"Além da perda de sustentação e leitura dos instrumentos, o gelo pode causar:",
+         "result":2,
+         "options":[
+            "Temperaturas muito baixas",
+            "Vibrações destrutivas",
+            "Acumulo nos bordos",
+            "Eficácia",
+         ],
+         "number":92
+      },
+      {
+         "title":"O travamento de superfícies pelo gelo é devido:",
+         "result":0,
+         "options":[
+            "Acúmulo em fendas fixas e móveis das superfícies",
+            "Acúmulo na superfície",
+            "Acúmulo nas entradas de ar",
+            "Gelo muito denso",
+         ],
+         "number":93
+      },
+      {
+         "title":"São meios de evitar e controlar a formação de gelo:",
+         "result":0,
+         "options":[
+            "Ar quente, elementos elétricos, Boots e álcool",
+            "Elementos elétricos, Boots, água quente",
+            "Alcool isopropilico, ar quente",
+            "Ar sangrado do motor, aquecimento por câmaras",
+         ],
+         "number":94
+      },
+      {
+         "title":"Evita que um reservatório descarregue o seu conteúdo dentro da linha de outro reservatório. Qual componente é responsável por esta ação:",
+         "result":0,
+         "options":[
+            "Válvula unidirecional",
+            "Válvula direcional",
+            "Start pneumatic",
+            "Motor elétrico",
+         ],
+         "number":95
+      },
+      {
+         "title":"Fogo em produtos inflamáveis de petróleo ou líquidos, combustíveis, graxas, solventes, tintas etc..., se apresenta em que classe:",
+         "result":3,
+         "options":[
+            "Classe D",
+            "Classe C",
+            "Classe A",
+            "Classe B",
+         ],
+         "number":96
+      },
+      {
+         "title":"É uma área ou região da aeronave, designada pelo fabricante, que requer detecção ou equipamentos de extinção. Este conceito se refere a:",
+         "result":2,
+         "options":[
+            "Zona de perigo",
+            "Zona de elite",
+            "Zona de fogo",
+            "Zona de alerta",
+         ],
+         "number":97
+      },
+      {
+         "title":"Um sistema completo de proteção contra fogo inclui:",
+         "result":2,
+         "options":[
+            "Extinção e alerta",
+            "Extinção e visual",
+            "Detecção e extinção",
+            "Alerta e visual",
+         ],
+         "number":98
+      },
+      {
+         "title":"São apropriados para monitorar áreas como compartimentos de bagagens e banheiros, onde os materiais queimam vagarosamente ou sem chama. Estamos falando de detectores de:",
+         "result":0,
+         "options":[
+            "Fumaça",
+            "Calor",
+            "Alerta",
+            "Fogo",
+         ],
+         "number":99
+      },
+      {
+         "title":"Observe a figura abaixo de um sistema de ar condicionado em uma aeronave e identifique qual item se refere a “Saída de ar para frente”:",
+         "result":2,
+         "options":[
+            "AFT air outlet",
+            "Overhead supply ducts.",
+            "Forward air outlet.",
+            "Control cabin distribution duct.",
+         ],
+         "number":100
+      },
+      {
+         "title":"Observe a figura abaixo e indique a melhor tradução para Container.",
+         "result":0,
+         "options":[
+            "Recipiente",
+            "Contenção",
+            "Container",
+            "Reservatório",
+         ],
+         "number":101
+      },
+      {
+         "title":"Qual é a melhor tradução da palavra to na frase abaixo? The pilot only noticed when he tried to rotate off the runway and found the nose very heavy",
+         "result":3,
+         "options":[
+            "O piloto só percebeu quando ele tentou fora fazer a rotação da pista e achou o nariz muito pesado.",
+            "O piloto só percebeu quando ele tentou de fora da rotação da pista e achou o nariz muito pesado.",
+            "O piloto só percebeu quando ele tentou para a rotação fora da pista e achou o nariz muito pesado.",
+            "O piloto só percebeu quando ele tentou girar pra fora da pista e achou o nariz muito pesado",
+         ],
+         "number":102
+      },
+      {
+         "title":"Qual seria a melhor tradução da palavra to para a frase abaixo? Some manufacturers use a pneumatic system to start the engine, YAK is a good example.",
+         "result":3,
+         "options":[
+            "Alguns fabricantes usam um sistema pneumático de motor de ligação, o YAK é um bom exemplo.",
+            "Alguns fabricantes usam um sistema pneumático ao invés de ligar o motor, o YAK é um bom exemplo.",
+            "Alguns fabricantes usam um sistema pneumático com ligação do motor, o YAK é um bom exemplo.",
+            "Alguns fabricantes usam um sistema pneumático para ligar o motor, o YAK é um bom exemplo.",
+         ],
+         "number":103
+      },
+      {
+         "title":"Observe a figura que apresenta uma visão panorâmica de um viscosímetro Saybolt. Marque a alternativa que melhor traduz as partes indicadas.",
+         "result":1,
+         "options":[
+            "Termômetros, regulador de temperatura, caixa de controle, aquecedor, agitador, banho líquido, testador de óleo.",
+            "Termômetros, regulador de temperatura, caixa de controle, aquecedor, agitador, banho líquido, óleo sendo testado.",
+            "Termômetros, regulador de temperatura, controle de caixa, aquecedor, agitador, banho líquido, óleo sendo testado.",
+            "Termômetros, temperatura reguladora, caixa de controle, aquecedor, agitador, banho líquido, óleo sendo testado.",
+         ],
+         "number":104
+      },
+      {
+         "title":"Assinale a alternativa que melhor descreve a ideia principal do texto: The monocoque (single shell) fuselage relies largely on the strength of the skin or covering to carry the primary loads. The design may be divided into two classes:",
+         "result":3,
+         "options":[
+            "Uma descrição introdutória das estruturas de fuselagens monocoque e seminocoque.",
+            "A força do revestimento para fuselagem tipo monocoques.",
+            "Os principais problemas de estrutura de fuselagens monocoque e semimonocoque.",
+            "Uma descrição introdutória sobre a construção de fuselagens tipo monocoques.",
+         ],
+         "number":105
+      },
+      {
+         "title":"Indique a melhor tradução para a frase abaixo: A fuselagem foi montada tardiamente, não tivemos tempo de usá-la e acabamos usando a antiga.",
+         "result":1,
+         "options":[
+            "The fuselage was set up lately, we did not have time to use it and ended up using the old one.",
+            "The fuselage was set up late, we did not have time to use it and ended up using the old one.",
+            "The fuselage was set up afternoonly, we did not have time to use it and ended up using the old one.",
+            "The fuselage was set up tardion, we did not have time to use it and ended up using the old one.",
+         ],
+         "number":106
+      },
+      {
+         "title":"Indique a melhor tradução para o parágrafo abaixo: Many modern light aircraft are constructed using composite (glass fibre) materials. This type of construction is effectively monocoque and is extremely strong. Extra rigidity can be achieved by using glass foam sandwich construction.",
+         "result":3,
+         "options":[
+            "Muitas aeronaves leves modernas são construídas usando materiais compostos (fibra de vidro). Este tipo de construção é efetivamente monocoque e é extremamente forte. A extra rigidalidade pode ser obtida usando a construção em sanduíche de espuma de vidro.",
+            "Muitas aeronaves leves modernas são construídas usando materiais compostos (fibra de vidro). Este tipo de construção é um monocoque efetivo e é de extrema força. A rigidez extra pode ser obtida usando a construção em sanduíche de espuma de vidro.",
+            "Muitas aeronaves leves modernas são construídas usando materiais compostos (fibra de vidro). Este tipo de construção é um monocoque efetivo e é de extrema força. A rigidalidade extra pode ser obtida usando a construção em sanduíche de espuma de vidro.",
+            "Muitas aeronaves leves modernas são construídas usando materiais compostos (fibra de vidro). Este tipo de construção é efetivamente monocoque e é extremamente forte. A rigidez extra pode ser obtida usando a construção em sanduíche de espuma de vidro.",
+         ],
+         "number":107
+      },
+      {
+         "title":"Indique a melhor tradução para a frase abaixo: Wire and cables, for example, normally carry only tension.",
+         "result":2,
+         "options":[
+            "Fios e cabos, por exemplo, naturalmente carregam apenas tensão.",
+            "Fios e cabos, por exemplo, carregam apenas tensão normal.",
+            "Fios e cabos, por exemplo, normalmente carregam apenas tensão.",
+            "Fios e cabos, por exemplo, normativamente carregam apenas tensão.",
+         ],
+         "number":108
+      },
+      {
+         "title":"Assinale a alternativa que melhor descreve o tipo de fuselagem em inglês que a figura representa:",
+         "result":2,
+         "options":[
+            "A monocoque type fuselage.",
+            "A trellis-type fuselage.",
+            "A truss-type fuselage.",
+            "A seminonocoque type fuselage.",
+         ],
+         "number":109
+      },
+      {
+         "title":"O tempo máximo permitido para o armazenamento de um pré-impregnado a baixa temperatura é denominado:",
+         "result":0,
+         "options":[
+            "Tempo de armazenamento.",
+            "Tempo de cura.",
+            "Tempo de restinga.",
+            "Tempo derivado.",
+         ],
+         "number":110
+      },
+      {
+         "title":"Material que não amolece sensivelmente ao calor:",
+         "result":1,
+         "options":[
+            "Alumínio",
+            "Termoendurecível",
+            "Resina",
+            "Termoplástico",
+         ],
+         "number":111
+      },
+      {
+         "title":"Os plásticos podem ser divididos em duas classificações principais:",
+         "result":1,
+         "options":[
+            "Termoendurecível e acrílico.",
+            "Termoplásticos e Termoendurecível.",
+            "Plásticos e acrílicos.",
+            "Termoplásticos e Acríclicos.",
+         ],
+         "number":112
+      },
+      {
+         "title":"Plástico transparente, se danificado, deve ser:",
+         "result":0,
+         "options":[
+            "Substituído",
+            "Tratado",
+            "Polido",
+            "Reparado",
+         ],
+         "number":113
+      },
+      {
+         "title":"Método de inspeção que consiste em tocar a superfícies com uma moeda.",
+         "result":1,
+         "options":[
+            "Tap choque.",
+            "Tap test.",
+            "Raio X.",
+            "Termografia.",
+         ],
+         "number":114
+      },
+      {
+         "title":"Plástico tem muitas vantagens em relação ao vidro para uso em aeronaves, mas durante a limpeza, alguns cuidados devem ser tomados para:",
+         "result":0,
+         "options":[
+            "Evitar riscos.",
+            "Evitar reflexo.",
+            "Evitar corrosão.",
+            "Evitar espelhamento.",
+         ],
+         "number":115
+      },
+      {
+         "title":"Quais materiais são considerados como fibra seca?",
+         "result":3,
+         "options":[
+            "Fibra de vidro, Kevlar e Fibra de Nylon.",
+            "Fibra de Carbono, Fibra de Nylon e Kevlar.",
+            "Fibra de Vidro, Fibra de vidro e Fibra resinada.",
+            "Fibra de Carbono, Fibra de Vidro e Kevlar.",
+         ],
+         "number":116
+      },
+      {
+         "title":"Para limpar materiais plásticos deve-se usar:",
+         "result":0,
+         "options":[
+            "Pano de algodão limpo e macio.",
+            "Pano de tecido sintético.",
+            "Pano de fibra.",
+            "Pano de linho limpo.",
+         ],
+         "number":117
+      },
+      {
+         "title":"É um método de inspeção não destrutivo:",
+         "result":3,
+         "options":[
+            "Ensaio de compressão.",
+            "Ensaio de tração.",
+            "Ensaio de cisalhamento.",
+            "Raio X.",
+         ],
+         "number":118
+      },
+      {
+         "title":"Ao substituir um painel na aeronave, deve-se:",
+         "result":3,
+         "options":[
+            "Usar um método sugerido pela empresa.",
+            "Usar o método próprio.",
+            "Usar o método aplicado por qualquer fabricante.",
+            "Usar o mesmo método de montagem empregado pelo fabricante.",
+         ],
+         "number":119
       }
    ]
 }

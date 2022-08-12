@@ -22,6 +22,7 @@ const coursesUpdated = {
         {"file_json":"cel12", "course_unit":"12 - Protection Systems Against The Effects Of Ice And Rain And Against Fire"},
         {"file_json":"cel13", "course_unit":"13 - Pneumatic And Cabin Environment Control Systems"},
         {"file_json":"cel_aerotd_2020-2", "course_unit":"14 - Mock exam :: Aerotd 2020-2"},
+        {"file_json":"cel_aerotd_2022-1", "course_unit":"15 - Mock exam :: Aerotd 2022-1"},
     ]
 };
 var questions_available = [];
