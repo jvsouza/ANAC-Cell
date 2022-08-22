@@ -42,7 +42,7 @@
          "options":[
             "Deve-se empregar somente óleo do tipo especificado para o avião",
             "Na falta de óleo especíco, deve-se usar uma mistura de óleo mineral/vegetal",
-            "Na falta de uido especíco, pode-se empregar qualquer marca de óleo de base mineral",
+            "Na falta de fluido especíco, pode-se empregar qualquer marca de óleo de base mineral",
             "Pode-se usar qualquer uído hidráulico, desde que seja limpo"
          ],
          "number":3
@@ -52,7 +52,7 @@
          "result":1,
          "options":[
             "Cabo blindado",
-            "Cabo de R.F",
+            "Cabo de R.F.",
             "Cabo multicondutor",
             "Par torcido"
          ],
@@ -95,10 +95,10 @@
          "title":"Quais são os tipos de amortecedores de vibração (SHIMMY)?",
          "result":2,
          "options":[
-            "Engrenagem e Palheta",
-            "Engrenagem e Pistão",
-            "Palheta e Pistão",
-            "Rotor e Pistão"
+            "Palheta e Engrenagem",
+            "Pistão e Engrenagem",
+            "Pistão e Palheta",
+            "Pistão e Rotor"
          ],
          "number":8
       },
